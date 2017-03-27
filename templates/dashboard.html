@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="col-lg-12 text-div">
+        <p>Welcome to the Dashboard, click the button for chart explanations.
+            <button class="intro_button" type="button" autofocus onclick="javascript:introJs().start();">Start Tour!</button>
+        </p>
+    </div>
+    <div class="col-sm-6 chart-div" data-step="1"
+         data-intro="This is a bar graph showing the total transfer values going in and out" style="font-weight: normal" data-position="center">
+        <p>This will be the bar graph of total transfer values in/out.</p>
+    </div>
+    <div class="col-sm-6 chart-div" data-step="2"
+         data-intro="This is a pie chart displaying transfer values " style="font-weight: normal" data-position="center">
+        <p>This will be the pie chart of transfer value groups. </p>
+    </div>
+    <div class="col-sm-6 chart-div" data-step="3"
+         data-intro="This is a line graph showing the net spend" style="font-weight: normal" data-position="center">
+        <p>This will be the line graph of net spending.</p>
+    </div>
+    <div class="col-sm-6 chart-div" data-step="4"
+         data-intro="This is a side bar chart showing the amount of transfers and loans" style="font-weight: normal" data-position="center">
+        <p>This will be a side bar chart of type of transfer - full transfer or loan with a fee</p>
+    </div>
+    <div class="col-sm-3 chart-div" data-step="5"
+         data-intro="This is a drop down menu to allow the selection of a club" style="font-weight: normal" data-position="center">
+        <p>This will be the drop down menu to select a club.</p>
+    </div>
+    <div class="col-sm-3 chart-div" data-step="6"
+         data-intro="This display the total number of transfers" style="font-weight: normal" data-position="center">
+        <p>This will be the total number of transfers.</p>
+    </div>
+    <div class="col-sm-3 chart-div" data-step="7"
+         data-intro="This displays the net spend" style="font-weight: normal" data-position="center">
+        <p>This will be the total net spend.</p>
+    </div>
+    <div class="col-sm-3 chart-div" data-step="8"
+         data-intro="This displays the most expensive player" style="font-weight: normal" data-position="center">
+        <p>This will be the most expensive player.</p>
+    </div>
+{% endblock %}
