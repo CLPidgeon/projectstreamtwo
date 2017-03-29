@@ -2,6 +2,31 @@ body {
     padding-top: 50px;
 }
 
+.intro_button{
+    color: deepskyblue;
+    background-color: white;
+    font-family: sans-serif;
+    border-radius: 3px;
+    border-color: black;
+    position: center;
+    margin-top:10px;
+}
+
+.navbar-custom{
+    background-color: deepskyblue;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+.navbar-custom ul li a{
+    color: white;
+    font-size: 10px;
+}
+.navbar-custom ul li a:hover{
+    background-color: white;
+    color: deepskyblue;
+}
+
         @media (max-width: 992px) {
         .navbar-header {
             float: none;
@@ -30,30 +55,6 @@ body {
         .collapse.in{
             display:block !important;
         }
-}
-
-.intro_button{
-    color: deepskyblue;
-    background-color: white;
-    font-family: sans-serif;
-    border-radius: 3px;
-    border-color: black;
-    position: center;
-    margin-top:10px;
-}
-
-.navbar-custom{
-    background-color: deepskyblue;
-    border: 2px black solid;
-    border-radius: 10px;
-}
-
-.navbar-custom ul li a{
-    color: white;
-}
-.navbar-custom ul li a:hover{
-    background-color: white;
-    color: deepskyblue;
 }
 
 .chart-div{
