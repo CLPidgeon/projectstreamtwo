@@ -1,6 +1,6 @@
-        body {
-            padding-top: 50px;
-        }
+body {
+    padding-top: 50px;
+}
 
         @media (max-width: 992px) {
         .navbar-header {
@@ -39,7 +39,7 @@
     border-radius: 3px;
     border-color: black;
     position: center;
-    padding-top:10px;
+    margin-top:10px;
 }
 
 .navbar-custom{
@@ -57,15 +57,47 @@
 }
 
 .chart-div{
-    background-color: deepskyblue;
-    color: white;
-    border-radius: 10px;
-    border: 2px black solid;
-}
-
-.text-div{
     background-color: white;
     color: deepskyblue;
     border-radius: 10px;
     border: 2px black solid;
+    width: 375px;
+    height: 250px;
+    padding-right: 2px;
+    padding-top: 2px;
+}
+
+.text-div{
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 10px;
+    border: 1px black solid;
+}
+
+.mini-div{
+    background-color: white;
+    color: deepskyblue;
+    border-radius: 10px;
+    border: 1px black solid;
+    height: 50px;
+    width: 180px;
+    padding-right: 2px;
+    padding-top: 2px;
+}
+
+.chart-header{
+    border-bottom: 1px black solid;
+}
+
+.dc-select-menu {
+   background: deepskyblue;
+   width: 80%;
+   border: none;
+   position: relative;
+   height: 20px;
+   font-size: 15px;
+   color: white;
+   vertical-align: middle;
+   text-align: center;
+   padding-top: 4px;
 }
