@@ -1,4 +1,4 @@
-Last updated 29/03/2017
+Last updated 30/03/2017
 
 Football Transfer Window Dashboard
 
@@ -7,3 +7,5 @@ This is an interactive chart dashboard from a database compiled using 10 seasons
 The site has been tested using Chrome and Edge browsers.
 
 The tour tool was edited from introjs code.
+
+The aim of the dashboard is to allow an interactive look at transfer data with various ways of filtering the data.
