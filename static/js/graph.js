@@ -37,24 +37,38 @@ function makeGraphs(error, dataJson) {
         return d["transfer_value"];
     });
     var transferValueDimension = ndx.dimension(function (d) {
-	    var value = d["transfer_value"];
-		    if (value <1){
-			    return "0 - 1";
-		    } else if (value >=1 && value <=10){
-			    return "1 - 10"
-		    } else if (value >10 && value <=20){
-			    return "10 - 20"
-		    } else if (value >20 && value <=30){
-			    return "20 - 30"
-		    } else if (value >30 && value <=40){
-			    return "30 - 40"
-		    } else if (value >40 && value <=50){
-			    return "40 - 50"
-		    } else if (value >50){
-			    return "50 +"
-		    }
+    var value = d["transfer_value"];
+        if (value < 1) {
+            return "0 - 1";
+        } if (value >= 1 & value < 10) {
+            return "1 - 9"
+        } if (value >= 10 & value < 20) {
+            return "10 - 19"
+        } if (value >= 20 & value < 30) {
+            return "20 - 29"
+        } if (value >= 30 & value < 40) {
+            return "30 - 39"
+        } if (value >= 40 & value < 50) {
+            return "40 - 49"
+        } if (value > 50) {
+            return "50 +"
+    }
+});
+
+
+        var spendingDim = ndx.dimension(function(d){
+        var direction = d["transfer_direction"];
+        if (direction == "spent"){
+            return d["transfer_value"]
+        }
     });
 
+    var receivedDim = ndx.dimension(function(d){
+        var direction = d["transfer_direction"];
+        if (direction == "received"){
+            return d["transfer_value"]
+        }
+    });
 
     //calculating
 
@@ -62,8 +76,9 @@ function makeGraphs(error, dataJson) {
     var numTransfersByType = typeDim.group();
     var clubGroup = clubDim.group();
     var all = ndx.groupAll();
-    var totalTransfers = ndx.groupAll().reduceSum(function(d){return d["transfer_value"];});
+    var totalTransfers = ndx.groupAll().reduceSum(function(d){return (d["transfer_value"] * 1000000);});
     var transferValueGroup = transferValueDimension.group().reduceSum(function(d){return d.transfer_value;});
+    var transferSpendingGroup = spendingDim.group().reduceSum(function(d){return d.transfer_value;});
 
 
 
@@ -73,8 +88,8 @@ function makeGraphs(error, dataJson) {
 
 
     //Charts
-    var SpendChart = dc.lineChart("#spendingChart");
-    var transferValueChart = dc.rowChart("#valueChart")
+    var SpendChart = dc.barChart("#spendingChart");
+    var transferValueChart = dc.rowChart("#valueChart");
     var NetSpendChart = dc.lineChart("#netChart");
     var TransferTypeChart = dc.pieChart("#type-row-chart");
     var numberTransfers = dc.numberDisplay("#total-number");
@@ -98,7 +113,7 @@ function makeGraphs(error, dataJson) {
        .formatNumber(d3.format("d"))
        .valueAccessor(function (d){return d;})
        .group(totalTransfers)
-       .formatNumber(d3.format(".4s"));
+       .formatNumber(d3.format(".3s"));
 
    SpendChart
        .width(350)
@@ -107,7 +122,7 @@ function makeGraphs(error, dataJson) {
        .group(numTransfersBySeason)
        .x(d3.time.scale().domain([minDate, maxDate]))
        .elasticY(true)
-       .elasticX(true)
+       .brushOn(false)
        .xAxisLabel("Season")
        .yAxisLabel("Value(m)")
        .yAxis().ticks(5);
@@ -124,10 +139,10 @@ function makeGraphs(error, dataJson) {
        .width(350)
        .height(200)
        .dimension(seasonDim)
-       .group(numTransfersBySeason)
+       .group(transferSpendingGroup)
        .x(d3.time.scale().domain([minDate,maxDate]))
        .elasticY(true)
-       .elasticX(true)
+       .brushOn(false)
        .xAxisLabel("Season")
        .yAxisLabel("Spend(m)");
 
