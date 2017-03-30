@@ -36,7 +36,7 @@ function makeGraphs(error, dataJson) {
     var valueDim = ndx.dimension(function(d){
         return d["transfer_value"];
     });
-    var transferValueDimension = ndx.dimension(function (d) {
+    var transferValueDim = ndx.dimension(function (d) {
     var value = d["transfer_value"];
         if (value < 1) {
             return "0 - 1";
@@ -77,8 +77,7 @@ function makeGraphs(error, dataJson) {
     var clubGroup = clubDim.group();
     var all = ndx.groupAll();
     var totalTransfers = ndx.groupAll().reduceSum(function(d){return (d["transfer_value"] * 1000000);});
-    var transferValueGroup = transferValueDimension.group().reduceSum(function(d){return d.transfer_value;});
-    var transferSpendingGroup = spendingDim.group().reduceSum(function(d){return d.transfer_value;});
+    var transferValueGroup = transferValueDim.group().reduceCount();
 
 
 
@@ -130,7 +129,7 @@ function makeGraphs(error, dataJson) {
    transferValueChart
 	.width(300)
 	.height(200)
- 	.dimension(transferValueDimension)
+ 	.dimension(transferValueDim)
 	.group(transferValueGroup)
     .elasticX(true)
     .xAxis().ticks(4);
@@ -139,7 +138,7 @@ function makeGraphs(error, dataJson) {
        .width(350)
        .height(200)
        .dimension(seasonDim)
-       .group(transferSpendingGroup)
+       .group(numTransfersBySeason)
        .x(d3.time.scale().domain([minDate,maxDate]))
        .elasticY(true)
        .brushOn(false)
