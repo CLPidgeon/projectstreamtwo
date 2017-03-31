@@ -64,12 +64,8 @@ function makeGraphs(error, dataJson) {
     var all = ndx.groupAll();
     var totalTransfers = ndx.groupAll().reduceSum(function(d){return (d["transfer_value"] * 1000000);});
     var transferValueGroup = transferValueDim.group().reduceCount();
-    var transfer_total = directionDim.group().reduceSum(function(d) {return d["transfer_value"];});
-    var spent_filter = directionDim.filter("Spent");
-    var spenttotal = ndx.groupAll().reduceSum(function(d) {return d["transfer_value"];}).value()
-    var received_filter = directionDim.filter("Received");
-    var receivedtotal = ndx.groupAll().reduceSum(function(d){return d["transfer_value"];}).value();
-    directionDim.filterAll();
+    var transferDirectionTotals = directionDim.group().reduceSum(function(d){return d.transfer_value;});
+
 
 
 
@@ -80,10 +76,10 @@ function makeGraphs(error, dataJson) {
 
 
     //Charts
-    var NetSpendChart = dc.barChart("#spendingChart");
+    var transfersChart = dc.rowChart("#spendingChart");
     var transferValueChart = dc.rowChart("#valueChart");
-    var TransfersChart = dc.lineChart("#netChart");
-    var TransferTypeChart = dc.pieChart("#type-row-chart");
+    var netChart = dc.lineChart("#netChart");
+    var transferTypeChart = dc.pieChart("#type-row-chart");
     var numberTransfers = dc.numberDisplay("#total-number");
     var transferTotal = dc.numberDisplay("#total-net");
 
@@ -107,17 +103,20 @@ function makeGraphs(error, dataJson) {
        .group(totalTransfers)
        .formatNumber(d3.format(".2s"));
 
-   NetSpendChart
+   netChart
        .width(350)
        .height(200)
        .dimension(seasonDim)
        .group(numTransfersBySeason)
-       .x(d3.time.scale().domain([minDate, maxDate]))
+       .x(d3.time.scale().domain([minDate,maxDate]))
        .elasticY(true)
        .brushOn(false)
        .xAxisLabel("Season")
-       .yAxisLabel("Value(m)")
-       .yAxis().ticks(5);
+       .yAxisLabel("Spend(m)")
+       .legend(dc.legend().x(305).y(40).itemHeight(13).gap(5))
+       .renderArea(true);
+
+
 
    transferValueChart
 	.width(300)
@@ -127,21 +126,15 @@ function makeGraphs(error, dataJson) {
     .elasticX(true)
     .xAxis().ticks(4);
 
-   TransfersChart
+   transfersChart
        .width(350)
        .height(200)
        .dimension(seasonDim)
-       .group(numTransfersBySeason)
-       .stack(numTransfersBySeason)
-       .x(d3.time.scale().domain([minDate,maxDate]))
-       .elasticY(true)
-       .brushOn(false)
-       .xAxisLabel("Season")
-       .yAxisLabel("Spend(m)")
-       .legend(dc.legend().x(305).y(40).itemHeight(13).gap(5))
-       .renderArea(true);
+       .group(transferDirectionTotals)
+       .elasticX(true)
+       .xAxis().ticks(5);
 
-   TransferTypeChart
+   transferTypeChart
     .width(300)
     .height(200)
     .dimension(typeDim)
