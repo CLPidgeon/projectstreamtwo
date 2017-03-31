@@ -1,0 +1,2128 @@
+season,league_position,club,player_name,transfer_direction,transfer_type,transfer_value,net_transfer
+2006/07,1,Manchester United,Michael Carrick,Spent,Full Transfer,27.2,27.2
+2006/07,1,Manchester United,David Jones,Received,Full Transfer,1.5,-1.5
+2006/07,1,Manchester United,Jonathan Spector,Received,Full Transfer,0.75,-0.75
+2006/07,1,Manchester United,David Bellion,Received,Full Transfer,0.5,-0.5
+2006/07,1,Manchester United,Paul McShane,Received,Full Transfer,0.5,-0.5
+2006/07,1,Manchester United,Luke Steel,Received,Full Transfer,0.25,-0.25
+2006/07,1,Manchester United,Ruud Van Nistelrooy,Received,Full Transfer,15,-15
+2006/07,2,Chelsea,Andriy Schevchenko,Spent,Full Transfer,43.3,43.3
+2006/07,2,Chelsea,John Mikel Obi,Spent,Full Transfer,20,20
+2006/07,2,Chelsea,Khalid Boulahrouz,Spent,Full Transfer,13.2,13.2
+2006/07,2,Chelsea,Ashley Cole,Spent,Full Transfer,7.4,7.4
+2006/07,2,Chelsea,Salomon Kalou,Spent,Full Transfer,4,4
+2006/07,2,Chelsea,Ben Sahar,Spent,Full Transfer,0.5,0.5
+2006/07,2,Chelsea,Damien Duff,Received,Full Transfer,15.5,-15.5
+2006/07,2,Chelsea,Eidur Gudjohnsen,Received,Full Transfer,12,-12
+2006/07,2,Chelsea,Robert Huth,Received,Full Transfer,8.9,-8.9
+2006/07,2,Chelsea,Asier del Horno,Received,Full Transfer,7.5,-7.5
+2006/07,2,Chelsea,Jiri Jarosik,Received,Full Transfer,3.5,-3.5
+2006/07,2,Chelsea,Carlton Cole,Received,Full Transfer,3,-3
+2006/07,2,Chelsea,Juan Sebastian Veron,Received,Full Transfer,2.2,-2.2
+2006/07,3,Liverpool,Dirk Kuyt,Spent,Full Transfer,18,18
+2006/07,3,Liverpool,Jermaine Pennant,Spent,Full Transfer,9.1,9.1
+2006/07,3,Liverpool,Craig Bellamy,Spent,Full Transfer,9,9
+2006/07,3,Liverpool,Alvaro Arbeloa,Spent,Full Transfer,3.9,3.9
+2006/07,3,Liverpool,Gabriel Paletta,Spent,Full Transfer,2.7,2.7
+2006/07,3,Liverpool,Javier Mascherano,Spent,Loan Fee,2,2
+2006/07,3,Liverpool,Astrit Ajdarevic,Spent,Full Transfer,1.2,1.2
+2006/07,3,Liverpool,Emiliano Insua,Spent,Full Transfer,0.1,0.1
+2006/07,3,Liverpool,Fernando Morientes,Received,Full Transfer,5,-5
+2006/07,3,Liverpool,Jan Kromkamp,Received,Full Transfer,3,-3
+2006/07,3,Liverpool,Djimi Traore,Received,Full Transfer,2.8,-2.8
+2006/07,3,Liverpool,Antonio Barragan,Received,Full Transfer,2.5,-2.5
+2006/07,3,Liverpool,Neil Mellor,Received,Full Transfer,2.3,-2.3
+2006/07,3,Liverpool,Stephen Warnock,Received,Full Transfer,2.25,-2.25
+2006/07,3,Liverpool,Djibril Cisse,Received,Loan Fee,1.5,-1.5
+2006/07,3,Liverpool,Bruno Cheyrou,Received,Full Transfer,1,-1
+2006/07,3,Liverpool,Darren Potter,Received,Full Transfer,0.37,-0.37
+2006/07,3,Liverpool,Danny O'Donnell,Received,Full Transfer,0.15,-0.15
+2006/07,3,Liverpool,Florent Sinama Pongolle,Received,Loan Fee,0.12,-0.12
+2006/07,4,Arsenal,Tomas Rosicky,Spent,Full Transfer,10,10
+2006/07,4,Arsenal,Denilson,Spent,Full Transfer,5,5
+2006/07,4,Arsenal,Rui Fonte,Spent,Loan Fee,0.06,0.06
+2006/07,4,Arsenal,Ashley Cole,Received,Full Transfer,7.4,-7.4
+2006/07,4,Arsenal,Pascal Cygan,Received,Full Transfer,3,-3
+2006/07,4,Arsenal,Sebastian Larsson,Received,Full Transfer,1.5,-1.5
+2006/07,4,Arsenal,Lauren,Received,Full Transfer,0.55,-0.55
+2006/07,4,Arsenal,Sebastian Svard,Received,Full Transfer,0.3,-0.3
+2006/07,4,Arsenal,Alex Song,Received,Loan Fee,0.27,-0.27
+2006/07,5,Tottenham Hotspur,Dimitar Berbatov,Spent,Full Transfer,15.7,15.7
+2006/07,5,Tottenham Hotspur,Didier Zokora,Spent,Full Transfer,12.35,12.35
+2006/07,5,Tottenham Hotspur,Pascal Chimbonda,Spent,Full Transfer,10,10
+2006/07,5,Tottenham Hotspur,Mido,Spent,Full Transfer,6.75,6.75
+2006/07,5,Tottenham Hotspur,Ricardo Rocha,Spent,Full Transfer,5,5
+2006/07,5,Tottenham Hotspur,Benoit Assou Ekotto,Spent,Full Transfer,5,5
+2006/07,5,Tottenham Hotspur,Steed Malbranque,Spent,Full Transfer,3,3
+2006/07,5,Tottenham Hotspur,Dorian Dervite,Spent,Full Transfer,1.5,1.5
+2006/07,5,Tottenham Hotspur,Ben Alnwick,Spent,Full Transfer,1.5,1.5
+2006/07,5,Tottenham Hotspur,Radek Cerny,Spent,Full Transfer,0.2,0.2
+2006/07,5,Tottenham Hotspur,Michael Carrick,Received,Full Transfer,27.2,-27.2
+2006/07,5,Tottenham Hotspur,Andy Reid,Received,Full Transfer,4.2,-4.2
+2006/07,5,Tottenham Hotspur,Calum Davenport,Received,Full Transfer,4.2,-4.2
+2006/07,5,Tottenham Hotspur,Stephen Kelly,Received,Full Transfer,1.6,-1.6
+2006/07,5,Tottenham Hotspur,Marton Fulop,Received,Full Transfer,0.75,-0.75
+2006/07,5,Tottenham Hotspur,Rodrigo Defendi,Received,Loan Fee,0.37,-0.37
+2006/07,5,Tottenham Hotspur,Dean Marney,Received,Full Transfer,0.32,-0.32
+2006/07,6,Everton,Andy Johnson,Spent,Full Transfer,11,11
+2006/07,6,Everton,Joleon Lescott,Spent,Full Transfer,6.5,6.5
+2006/07,6,Everton,Manuel Fernandes,Spent,Loan Fee,0.4,0.4
+2006/07,6,Everton,Kevin Kilbane,Received,Full Transfer,2.5,-2.5
+2006/07,7,Bolton Wanderers,Nicolas Anelka,Spent,Full Transfer,12,12
+2006/07,7,Bolton Wanderers,Abdoulaye Faye,Spent,Full Transfer,3,3
+2006/07,7,Bolton Wanderers,Abdoulaye Meite,Spent,Full Transfer,1.5,1.5
+2006/07,7,Bolton Wanderers,Lubomir Michalik,Spent,Full Transfer,0.5,0.5
+2006/07,7,Bolton Wanderers,Radhi Jaidi,Received,Full Transfer,3.25,-3.25
+2006/07,7,Bolton Wanderers,Dietmar Hamann,Received,Full Transfer,0.6,-0.6
+2006/07,8,Reading,Greg Halford,Spent,Full Transfer,4.5,4.5
+2006/07,8,Reading,Ki Hyeon Seol,Spent,Full Transfer,1.5,1.5
+2006/07,8,Reading,Michael Duberry,Spent,Full Transfer,1.5,1.5
+2006/07,8,Reading,Sam Sodje,Spent,Full Transfer,0.75,0.75
+2006/07,8,Reading,Peter Mate,Spent,Loan Fee,0.57,0.57
+2006/07,8,Reading,Alan Bennett,Spent,Full Transfer,0.3,0.3
+2006/07,8,Reading,Mikkel Andersen,Spent,Full Transfer,0.1,0.1
+2006/07,9,Portsmouth,Niko Kranjcar,Spent,Full Transfer,4.5,4.5
+2006/07,9,Portsmouth,David James,Spent,Full Transfer,1.7,1.7
+2006/07,9,Portsmouth,Djimi Traore,Spent,Full Transfer,1.4,1.4
+2006/07,9,Portsmouth,Andrew Cole,Spent,Full Transfer,0.75,0.75
+2006/07,9,Portsmouth,Lauren,Spent,Full Transfer,0.55,0.55
+2006/07,9,Portsmouth,Arnold Mvuemba,Spent,Loan Fee,0.2,0.2
+2006/07,9,Portsmouth,Brian Prsike,Received,Full Transfer,1,-1
+2006/07,9,Portsmouth,Jhon Viafara,Received,Full Transfer,0.25,-0.25
+2006/07,10,Blackburn Rovers,Jason Roberts,Spent,Full Transfer,4.08,4.08
+2006/07,10,Blackburn Rovers,Benni McCarthy,Spent,Full Transfer,3.7,3.7
+2006/07,10,Blackburn Rovers,Andre Ooijer,Spent,Full Transfer,3,3
+2006/07,10,Blackburn Rovers,Stephen Warnock,Spent,Full Transfer,2.25,2.25
+2006/07,10,Blackburn Rovers,David Dunn,Spent,Full Transfer,1.75,1.75
+2006/07,10,Blackburn Rovers,Zurab Khizanishvili,Spent,Full Transfer,0.75,0.75
+2006/07,10,Blackburn Rovers,Christopher Samba,Spent,Full Transfer,0.5,0.5
+2006/07,10,Blackburn Rovers,Bruno Berner,Spent,Full Transfer,0.5,0.5
+2006/07,10,Blackburn Rovers,Craig Bellamy,Received,Full Transfer,9,-9
+2006/07,10,Blackburn Rovers,Shefki Kuqi,Received,Full Transfer,3.75,-3.75
+2006/07,10,Blackburn Rovers,Lucas Neill,Received,Full Transfer,2.3,-2.3
+2006/07,10,Blackburn Rovers,Jay McEveley,Received,Full Transfer,0.9,-0.9
+2006/07,10,Blackburn Rovers,Jemal Johnson,Received,Full Transfer,0.75,-0.75
+2006/07,10,Blackburn Rovers,Joe Garner,Received,Full Transfer,0.21,-0.21
+2006/07,11,Aston Villa,Ashley Young,Spent,Full Transfer,13.2,13.2
+2006/07,11,Aston Villa,Stiliyan Petrov,Spent,Full Transfer,10,10
+2006/07,11,Aston Villa,Shaun Maloney,Spent,Full Transfer,1.5,1.5
+2006/07,11,Aston Villa,Kevin Phillips,Received,Full Transfer,1.05,-1.05
+2006/07,11,Aston Villa,Peter Whittingham,Received,Full Transfer,0.52,-0.52
+2006/07,11,Aston Villa,Mathieu Berson,Received,Full Transfer,0.25,-0.25
+2006/07,12,Middlesbrough,Robert Huth,Spent,Full Transfer,8.9,8.9
+2006/07,12,Middlesbrough,Julio Arca,Spent,Full Transfer,2.4,2.4
+2006/07,12,Middlesbrough,Franck Queudrue,Received,Full Transfer,4.5,-4.5
+2006/07,12,Middlesbrough,David Wheater,Received,Loan Fee,0.17,-0.17
+2006/07,13,Newcastle United,Obafemi Martins,Spent,Full Transfer,16,16
+2006/07,13,Newcastle United,Damien Duff,Spent,Full Transfer,15.5,15.5
+2006/07,13,Newcastle United,Oguchi Onyewu,Spent,Loan Fee,0.37,0.37
+2006/07,13,Newcastle United,Jean Alain Boumsong,Received,Full Transfer,4,-4
+2006/07,13,Newcastle United,Amdy Faye,Received,Full Transfer,3,-3
+2006/07,13,Newcastle United,Hugo Viana,Received,Full Transfer,2.3,-2.3
+2006/07,13,Newcastle United,Lee Bowyer,Received,Full Transfer,1.13,-1.13
+2006/07,13,Newcastle United,Michael Chopra,Received,Full Transfer,0.75,-0.75
+2006/07,13,Newcastle United,Carl Finnigan,Received,Full Transfer,0.02,-0.02
+2006/07,14,Manchester City,Andreas Isaksson,Spent,Full Transfer,3,3
+2006/07,14,Manchester City,Bernardo Corradi,Spent,Full Transfer,3,3
+2006/07,14,Manchester City,Joe Hart,Spent,Full Transfer,0.9,0.9
+2006/07,14,Manchester City,Dietmar Hamann,Spent,Full Transfer,0.6,0.6
+2006/07,14,Manchester City,David James,Received,Full Transfer,1.7,-1.7
+2006/07,14,Manchester City,Lee Croft,Received,Full Transfer,0.9,-0.9
+2006/07,14,Manchester City,Ben Thatcher,Received,Full Transfer,0.75,-0.75
+2006/07,14,Manchester City,Andrew Cole,Received,Full Transfer,0.75,-0.75
+2006/07,14,Manchester City,Bradley Wright Phillips,Received,Full Transfer,0.1,-0.1
+2006/07,15,West Ham United,Carlos Tevez,Spent,Full Transfer,14.6,14.6
+2006/07,15,West Ham United,Javier Mascherano,Spent,Full Transfer,14.6,14.6
+2006/07,15,West Ham United,Matthew Upson,Spent,Full Transfer,12.6,12.6
+2006/07,15,West Ham United,Luis Boa Morte,Spent,Full Transfer,6.8,6.8
+2006/07,15,West Ham United,Calum Davenport,Spent,Full Transfer,4.2,4.2
+2006/07,15,West Ham United,Robert Green,Spent,Full Transfer,3,3
+2006/07,15,West Ham United,Carlton Cole,Spent,Full Transfer,3,3
+2006/07,15,West Ham United,Lucas Neill,Spent,Full Transfer,2.3,2.3
+2006/07,15,West Ham United,Nigel Quashie,Spent,Full Transfer,2.25,2.25
+2006/07,15,West Ham United,George McCartney,Spent,Full Transfer,1.63,1.63
+2006/07,15,West Ham United,John Paintsil,Spent,Full Transfer,1.5,1.5
+2006/07,15,West Ham United,Tyrone Mears,Spent,Full Transfer,1.5,1.5
+2006/07,15,West Ham United,Lee Bowyer,Spent,Full Transfer,1.13,1.13
+2006/07,15,West Ham United,Jonathan Spector,Spent,Full Transfer,0.75,0.75
+2006/07,15,West Ham United,Javier Mascherano,Received,Loan Fee,2,-2
+2006/07,15,West Ham United,Tyrone Mears,Received,Full Transfer,1.5,-1.5
+2006/07,15,West Ham United,Elliott Ward,Received,Full Transfer,1.25,-1.25
+2006/07,15,West Ham United,Stpehen Bywater,Received,Full Transfer,0.75,-0.75
+2006/07,15,West Ham United,Clive Clarke,Received,Full Transfer,0.65,-0.65
+2006/07,15,West Ham United,Carl Fletcher,Received,Full Transfer,0.6,-0.6
+2006/07,16,Fulham,Franck Queudrue,Spent,Full Transfer,4.5,4.5
+2006/07,16,Fulham,Jimmy Bullard,Spent,Full Transfer,3.75,3.75
+2006/07,16,Fulham,Clint Dempsey,Spent,Full Transfer,3,3
+2006/07,16,Fulham,Gabriel Zakuani,Spent,Full Transfer,1.5,1.5
+2006/07,16,Fulham,Bjorn Runstrom,Spent,Full Transfer,1.05,1.05
+2006/07,16,Fulham,Luis Boa Morte,Received,Full Transfer,6.8,-6.8
+2006/07,16,Fulham,Steed Malbranque,Received,Full Transfer,3,-3
+2006/07,16,Fulham,Dean Leacock,Received,Full Transfer,0.56,-0.56
+2006/07,16,Fulham,Darren Pratley,Received,Full Transfer,0.15,-0.15
+2006/07,17,Wigan Athletic,Emile Heskey,Spent,Full Transfer,7.5,7.5
+2006/07,17,Wigan Athletic,Fitz Hall,Spent,Full Transfer,4.5,4.5
+2006/07,17,Wigan Athletic,Denny Landzaat,Spent,Full Transfer,4.4,4.4
+2006/07,17,Wigan Athletic,David Cotterill,Spent,Full Transfer,3.2,3.2
+2006/07,17,Wigan Athletic,Kevin Kilbane,Spent,Full Transfer,2.5,2.5
+2006/07,17,Wigan Athletic,Emmerson Boyce,Spent,Full Transfer,1.5,1.5
+2006/07,17,Wigan Athletic,Caleb Folan,Spent,Full Transfer,0.75,0.75
+2006/07,17,Wigan Athletic,Carlo Nash,Spent,Full Transfer,0.45,0.45
+2006/07,17,Wigan Athletic,Antonio Valencia,Spent,Loan Fee,0.4,0.4
+2006/07,17,Wigan Athletic,Kristofer Haestad,Spent,Loan Fee,0.25,0.25
+2006/07,17,Wigan Athletic,Andreas Granqvist,Spent,Loan Fee,0.2,0.2
+2006/07,17,Wigan Athletic,Pascal Chimbonda,Received,Full Transfer,10,-10
+2006/07,17,Wigan Athletic,Jason Roberts,Received,Full Transfer,4.08,-4.08
+2006/07,17,Wigan Athletic,Jimmy Bullard,Received,Full Transfer,3.75,-3.75
+2006/07,17,Wigan Athletic,David Connolly,Received,Full Transfer,2.3,-2.3
+2006/07,17,Wigan Athletic,Damien Francis,Received,Full Transfer,2.25,-2.25
+2006/07,17,Wigan Athletic,Gary Teale,Received,Full Transfer,0.9,-0.9
+2006/07,17,Wigan Athletic,Graham Kavanagh,Received,Full Transfer,0.75,-0.75
+2006/07,17,Wigan Athletic,David Wright,Received,Full Transfer,0.3,-0.3
+2006/07,18,Sheffield United,Matthew Kilgallon,Spent,Full Transfer,3.8,3.8
+2006/07,18,Sheffield United,Claude Davis,Spent,Full Transfer,3.5,3.5
+2006/07,18,Sheffield United,Rob Hulse,Spent,Full Transfer,3.45,3.45
+2006/07,18,Sheffield United,Luton Shelton,Spent,Full Transfer,2.7,2.7
+2006/07,18,Sheffield United,Colin Kazim Richards,Spent,Full Transfer,1.5,1.5
+2006/07,18,Sheffield United,Jon Stead,Spent,Full Transfer,1.13,1.13
+2006/07,18,Sheffield United,Ahmed Fathi,Spent,Full Transfer,1.05,1.05
+2006/07,18,Sheffield United,Mikele Leigertwood,Spent,Full Transfer,0.75,0.75
+2006/07,18,Sheffield United,Ian Bennett,Spent,Full Transfer,0.15,0.15
+2006/07,18,Sheffield United,Paul Ifill,Received,Full Transfer,1.13,-1.13
+2006/07,18,Sheffield United,Ade Akinbiyi,Received,Full Transfer,1.1,-1.1
+2006/07,18,Sheffield United,Steve Kabba,Received,Full Transfer,0.75,-0.75
+2006/07,18,Sheffield United,Kevan Hurst,Received,Full Transfer,0.25,-0.25
+2006/07,18,Sheffield United,Simon Francis,Received,Full Transfer,0.1,-0.1
+2006/07,19,Charlton Athletic,Souleymane Diawara,Spent,Full Transfer,5.4,5.4
+2006/07,19,Charlton Athletic,Andy Reid,Spent,Full Transfer,4.2,4.2
+2006/07,19,Charlton Athletic,Madjid Bougherra,Spent,Full Transfer,3.79,3.79
+2006/07,19,Charlton Athletic,Amdy Faye,Spent,Full Transfer,3,3
+2006/07,19,Charlton Athletic,Djimi Traore,Spent,Full Transfer,2.8,2.8
+2006/07,19,Charlton Athletic,Ben Thatcher,Spent,Full Transfer,0.75,0.75
+2006/07,19,Charlton Athletic,Ismael Fofana,Spent,Full Transfer,0.7,0.7
+2006/07,19,Charlton Athletic,Simon Walton,Spent,Full Transfer,0.67,0.67
+2006/07,19,Charlton Athletic,Alex Song,Spent,Loan Fee,0.27,0.27
+2006/07,19,Charlton Athletic,Chris Dickson,Spent,Full Transfer,0.6,0.6
+2006/07,19,Charlton Athletic,Djimi Traore,Received,Full Transfer,1.4,-1.4
+2006/07,19,Charlton Athletic,Stephan Andersen,Received,Full Transfer,0.6,-0.6
+2006/07,19,Charlton Athletic,Ismael Fofana,Received,Loan Fee,0.27,-0.27
+2006/07,20,Watford,Danny Shittu,Spent,Full Transfer,2.4,2.4
+2006/07,20,Watford,Damien Francis,Spent,Full Transfer,2.25,2.25
+2006/07,20,Watford,Tamas Priskin,Spent,Full Transfer,1.5,1.5
+2006/07,20,Watford,Gareth Williams,Spent,Full Transfer,1.25,1.25
+2006/07,20,Watford,Will Hoskins,Spent,Full Transfer,1,1
+2006/07,20,Watford,Steve Kabba,Spent,Full Transfer,0.75,0.75
+2006/07,20,Watford,Tommy Smith,Spent,Full Transfer,0.75,0.75
+2006/07,20,Watford,Lee Williamson,Spent,Full Transfer,0.5,0.5
+2006/07,20,Watford,Moses Ashikodi,Spent,Full Transfer,0.1,0.1
+2006/07,20,Watford,Ashley Young,Received,Full Transfer,13.2,-13.2
+2006/07,20,Watford,Matthew Spring,Received,Full Transfer,0.3,-0.3
+2007/08,1,Manchester United,Anderson,Spent,Full Transfer,31.5,31.5
+2007/08,1,Manchester United,Nani,Spent,Full Transfer,25.5,25.5
+2007/08,1,Manchester United,Owen Hargreaves,Spent,Full Transfer,25,25
+2007/08,1,Manchester United,Carlos Tevez,Spent,Loan Fee,12.7,12.7
+2007/08,1,Manchester United,Tomasz Kuszczak,Spent,Full Transfer,4.3,4.3
+2007/08,1,Manchester United,Rodrigo Possebon,Spent,Full Transfer,3.5,3.5
+2007/08,1,Manchester United,Manucho,Spent,Full Transfer,1,1
+2007/08,1,Manchester United,Gabriel Heinze,Received,Full Transfer,12,-12
+2007/08,1,Manchester United,Giuseppe Rossi,Received,Full Transfer,10,-10
+2007/08,1,Manchester United,Alan Smith,Received,Full Transfer,9,-9
+2007/08,1,Manchester United,Kieran Richardson,Received,Full Transfer,8.2,-8.2
+2007/08,1,Manchester United,Tim Howard,Received,Full Transfer,4.2,-4.2
+2007/08,1,Manchester United,Phil Bardsley,Received,Full Transfer,3,-3
+2007/08,1,Manchester United,Manucho,Received,Loan Fee,0.2,-0.2
+2007/08,2,Chelsea,Florent Malouda,Spent,Full Transfer,19,19
+2007/08,2,Chelsea,Nicolas Anelka,Spent,Full Transfer,18,18
+2007/08,2,Chelsea,Branislav Ivanovic,Spent,Full Transfer,12,12
+2007/08,2,Chelsea,Belletti,Spent,Full Transfer,5.5,5.5
+2007/08,2,Chelsea,Franco Di Santo,Spent,Full Transfer,4.5,4.5
+2007/08,2,Chelsea,Arjen Robben,Spent,Full Transfer,36,36
+2007/08,2,Chelsea,Glen Johnson,Spent,Full Transfer,5.5,5.5
+2007/08,2,Chelsea,Lassana Diarra,Spent,Full Transfer,2.9,2.9
+2007/08,2,Chelsea,Slobodan Rajkovic,Spent,Loan Fee,0.25,0.25
+2007/08,3,Arsenal,Eduardo,Spent,Full Transfer,13.5,13.5
+2007/08,3,Arsenal,Barcary Sagna,Spent,Full Transfer,9,9
+2007/08,3,Arsenal,Lukasz Fabianski,Spent,Full Transfer,4.35,4.35
+2007/08,3,Arsenal,Lassana Diarra,Spent,Full Transfer,2.9,2.9
+2007/08,3,Arsenal,Pedro Botelho,Spent,Full Transfer,1.2,1.2
+2007/08,3,Arsenal,Thierry Henry,Received,Full Transfer,24,-24
+2007/08,3,Arsenal,Jose Antonio Reyes,Received,Full Transfer,12,-12
+2007/08,3,Arsenal,Lassana Diarra,Received,Full Transfer,7,-7
+2007/08,3,Arsenal,Fabrice Muamba,Received,Full Transfer,6,-6
+2007/08,3,Arsenal,Freddie Ljungberg,Received,Full Transfer,4.5,-4.5
+2007/08,3,Arsenal,Jeremie Aliadiere,Received,Full Transfer,3,-3
+2007/08,3,Arsenal,Matthew Connolly,Received,Full Transfer,0.37,-0.37
+2007/08,3,Arsenal,Pedro Botelho,Received,Loan Fee,0.12,-0.12
+2007/08,3,Arsenal,Mart Poom,Received,Full Transfer,0.1,-0.1
+2007/08,4,Liverpool,Fernando Torres,Spent,Full Transfer,38,38
+2007/08,4,Liverpool,Ryan Babel,Spent,Full Transfer,17.25,17.25
+2007/08,4,Liverpool,Lucas Leiva,Spent,Full Transfer,10,10
+2007/08,4,Liverpool,Martin Skrtel,Spent,Full Transfer,10,10
+2007/08,4,Liverpool,Yossi Benayoun,Spent,Full Transfer,7.3,7.3
+2007/08,4,Liverpool,Krisztian Nemeth,Spent,Full Transfer,3,3
+2007/08,4,Liverpool,Sebastian Leto,Spent,Full Transfer,3,3
+2007/08,4,Liverpool,Charles Itandje,Spent,Full Transfer,1.5,1.5
+2007/08,4,Liverpool,Damien Plessis,Spent,Full Transfer,0.5,0.5
+2007/08,4,Liverpool,Nikolay Mihaylov,Spent,Full Transfer,0.15,0.15
+2007/08,4,Liverpool,Craig Bellamy,Received,Full Transfer,11.25,-11.25
+2007/08,4,Liverpool,Mohamed Sissoko,Received,Full Transfer,11,-11
+2007/08,4,Liverpool,Djibril Cisse,Received,Full Transfer,9,-9
+2007/08,4,Liverpool,Mark Gonzalez,Received,Full Transfer,6,-6
+2007/08,4,Liverpool,Florent Sinama Pongolle,Received,Full Transfer,4,-4
+2007/08,4,Liverpool,Luis Garcia,Received,Full Transfer,4,-4
+2007/08,5,Everton,Yakubu Aiyegbeni,Spent,Full Transfer,16.5,16.5
+2007/08,5,Everton,Leighton Baines,Spent,Full Transfer,7.5,7.5
+2007/08,5,Everton,Phil Jagielka,Spent,Full Transfer,6,6
+2007/08,5,Everton,Tim Howard,Spent,Full Transfer,4.2,4.2
+2007/08,5,Everton,Dan Gosling,Spent,Full Transfer,1.5,1.5
+2007/08,5,Everton,Manuel Fernandes,Spent,Loan Fee,0.75,0.75
+2007/08,5,Everton,Lukas Jutkiewicz,Spent,Full Transfer,0.6,0.6
+2007/08,5,Everton,Steven Pienaar,Spent,Loan Fee,0.5,0.5
+2007/08,5,Everton,James McFadden,Received,Full Transfer,7.5,-7.5
+2007/08,5,Everton,James Beattie,Received,Full Transfer,6,-6
+2007/08,5,Everton,Gary Naysmith,Received,Full Transfer,1.5,-1.5
+2007/08,5,Everton,Anderson Silva,Received,Full Transfer,0.8,-0.8
+2007/08,6,Aston Villa,Nigel Reo Coker,Spent,Full Transfer,12.5,12.5
+2007/08,6,Aston Villa,Marlon Harewood,Spent,Full Transfer,5.5,5.5
+2007/08,6,Aston Villa,Zat Knight,Spent,Full Transfer,4.7,4.7
+2007/08,6,Aston Villa,Wayne Routledge,Spent,Full Transfer,1.7,1.7
+2007/08,6,Aston Villa,Moustapha Salifou,Spent,Full Transfer,0.5,0.5
+2007/08,6,Aston Villa,Gary Cahill,Received,Full Transfer,6,-6
+2007/08,6,Aston Villa,Steven Davis,Received,Full Transfer,5.9,-5.9
+2007/08,6,Aston Villa,Luke Moore,Received,Full Transfer,3.75,-3.75
+2007/08,6,Aston Villa,Liam Ridgewell,Received,Full Transfer,3,-3
+2007/08,6,Aston Villa,Gavin McCann,Received,Full Transfer,1.5,-1.5
+2007/08,6,Aston Villa,Aaron Hughes,Received,Full Transfer,1.5,-1.5
+2007/08,7,Blackburn Rovers,Roque Santa Cruz,Spent,Full Transfer,5,5
+2007/08,7,Blackburn Rovers,Maceo Rigters,Spent,Full Transfer,1.2,1.2
+2007/08,7,Blackburn Rovers,Robbie Savage,Received,Full Transfer,2.25,-2.25
+2007/08,7,Blackburn Rovers,Francis Jeffers,Received,Full Transfer,1.05,-1.05
+2007/08,7,Blackburn Rovers,Andy Todd,Received,Full Transfer,0.67,-0.67
+2007/08,8,Portsmouth,John Utaka,Spent,Full Transfer,10,10
+2007/08,8,Portsmouth,Sulley Muntari,Spent,Full Transfer,10,10
+2007/08,8,Portsmouth,Jermain Defoe,Spent,Full Transfer,9.3,9.3
+2007/08,8,Portsmouth,David Nugent,Spent,Full Transfer,9,9
+2007/08,8,Portsmouth,Lassana Diarra,Spent,Full Transfer,7,7
+2007/08,8,Portsmouth,Glen Johnson,Spent,Full Transfer,5.5,5.5
+2007/08,8,Portsmouth,Papa Bouba Diop,Spent,Full Transfer,5,5
+2007/08,8,Portsmouth,Arnold Mvuemba,Spent,Full Transfer,1.9,1.9
+2007/08,8,Portsmouth,Danijel Subotic,Spent,Full Transfer,0.4,0.4
+2007/08,8,Portsmouth,Gary O'Neil,Received,Full Transfer,7.5,-7.5
+2007/08,8,Portsmouth,Benjani,Received,Full Transfer,5.2,-5.2
+2007/08,8,Portsmouth,Matthew Taylor,Received,Full Transfer,4.7,-4.7
+2007/08,8,Portsmouth,Lomana LuaLua,Received,Full Transfer,4.1,-4.1
+2007/08,8,Portsmouth,Dejan Stefanovic,Received,Full Transfer,1.5,-1.5
+2007/08,8,Portsmouth,Collins Mbesuma,Received,Full Transfer,0.37,-0.37
+2007/08,9,Manchester City,Vedran Corluka,Spent,Full Transfer,13,13
+2007/08,9,Manchester City,Rolando Bianchi,Spent,Full Transfer,13,13
+2007/08,9,Manchester City,Elano,Spent,Full Transfer,12,12
+2007/08,9,Manchester City,Valeri Bojinov,Spent,Full Transfer,8,8
+2007/08,9,Manchester City,Martin Petrov,Spent,Full Transfer,7,7
+2007/08,9,Manchester City,Felipe Caicedo,Spent,Full Transfer,7,7
+2007/08,9,Manchester City,Gelson Fernandes,Spent,Full Transfer,5.5,5.5
+2007/08,9,Manchester City,Benjani,Spent,Full Transfer,5.2,5.2
+2007/08,9,Manchester City,Nery Castillo,Spent,Loan Fee,5,5
+2007/08,9,Manchester City,Javier Garrido,Spent,Full Transfer,2.25,2.25
+2007/08,9,Manchester City,Joey Barton,Received,Full Transfer,8.6,-8.6
+2007/08,9,Manchester City,Ishmael Miller,Received,Full Transfer,1.5,-1.5
+2007/08,9,Manchester City,Bernardo Corradi,Received,Loan Fee,0.2,-0.2
+2007/08,10,West Ham United,Kieron Dyer,Spent,Full Transfer,12,12
+2007/08,10,West Ham United,Craig Bellamy,Spent,Full Transfer,11.25,11.25
+2007/08,10,West Ham United,Scott Parker,Spent,Full Transfer,9.7,9.7
+2007/08,10,West Ham United,Julien Faubert,Spent,Full Transfer,9.15,9.15
+2007/08,10,West Ham United,Freddie Ljungberg,Spent,Full Transfer,4.5,4.5
+2007/08,10,West Ham United,Carlos Tevez,Received,Loan Fee,12.7,-12.7
+2007/08,10,West Ham United,Nigel Reo Coker,Received,Full Transfer,12.5,-12.5
+2007/08,10,West Ham United,Yossi Benayoun,Received,Full Transfer,7.3,-7.3
+2007/08,10,West Ham United,Marlon Harewood,Received,Full Transfer,5.5,-5.5
+2007/08,10,West Ham United,Paul Konchesky,Received,Full Transfer,3,-3
+2007/08,11,Tottenham Hotspur,Darren Bent,Spent,Full Transfer,24.75,24.75
+2007/08,11,Tottenham Hotspur,Gareth Bale,Spent,Full Transfer,14.7,14.7
+2007/08,11,Tottenham Hotspur,Alan Hutton,Spent,Full Transfer,13,13
+2007/08,11,Tottenham Hotspur,Younes Kaboul,Spent,Full Transfer,12,12
+2007/08,11,Tottenham Hotspur,Jonathan Woodgate,Spent,Full Transfer,10.8,10.8
+2007/08,11,Tottenham Hotspur,Kevin Prince Boateng,Spent,Full Transfer,7.9,7.9
+2007/08,11,Tottenham Hotspur,Adel Taarabt,Spent,Full Transfer,4,4
+2007/08,11,Tottenham Hotspur,Christ Gunter,Spent,Full Transfer,3.2,3.2
+2007/08,11,Tottenham Hotspur,Gilberto,Spent,Full Transfer,2.8,2.8
+2007/08,11,Tottenham Hotspur,Danny Rose,Spent,Full Transfer,1,1
+2007/08,11,Tottenham Hotspur,Jermain Defoe,Received,Full Transfer,9.3,-9.3
+2007/08,11,Tottenham Hotspur,Mido,Received,Full Transfer,8.8,-8.8
+2007/08,11,Tottenham Hotspur,Reto Ziegler,Received,Full Transfer,2,-2
+2007/08,11,Tottenham Hotspur,Wayne Routledge,Received,Full Transfer,1.7,-1.7
+2007/08,11,Tottenham Hotspur,Philip Ifil,Received,Full Transfer,0.47,-0.47
+2007/08,11,Tottenham Hotspur,Mark Yeates,Received,Full Transfer,0.27,-0.27
+2007/08,12,Newcastle United,Alan Smith,Spent,Full Transfer,9,9
+2007/08,12,Newcastle United,Jose Enrique,Spent,Full Transfer,8.7,8.7
+2007/08,12,Newcastle United,Joey Barton,Spent,Full Transfer,8.6,8.6
+2007/08,12,Newcastle United,David Rozehnal,Spent,Full Transfer,4.3,4.3
+2007/08,12,Newcastle United,Habib Beye,Spent,Full Transfer,2.8,2.8
+2007/08,12,Newcastle United,Abdoulaye Faye,Spent,Full Transfer,2.8,2.8
+2007/08,12,Newcastle United,Tamas Kadar,Spent,Full Transfer,1.35,1.35
+2007/08,12,Newcastle United,Ben Tozer,Spent,Full Transfer,0.3,0.3
+2007/08,12,Newcastle United,Kieron Dyer,Received,Full Transfer,12,-12
+2007/08,12,Newcastle United,Scott Parker,Received,Full Transfer,9.7,-9.7
+2007/08,12,Newcastle United,Albert Luque,Received,Full Transfer,8,-8
+2007/08,12,Newcastle United,David Rozehnal,Received,Loan Fee,1,-1
+2007/08,12,Newcastle United,Matthew Pattison,Received,Full Transfer,0.45,-0.45
+2007/08,13,Middlesbrough,Afonso Alves,Spent,Full Transfer,17,17
+2007/08,13,Middlesbrough,Jonathan Woodgate,Spent,Full Transfer,9.6,9.6
+2007/08,13,Middlesbrough,Mido,Spent,Full Transfer,8.8,8.8
+2007/08,13,Middlesbrough,Gary O'Neil,Spent,Full Transfer,7.5,7.5
+2007/08,13,Middlesbrough,Luke Young,Spent,Full Transfer,3.75,3.75
+2007/08,13,Middlesbrough,Jeremie Aliadiere,Spent,Full Transfer,3,3
+2007/08,13,Middlesbrough,Mohamed Shawky,Spent,Full Transfer,0.95,0.95
+2007/08,13,Middlesbrough,Yakubu Aiyegbeni,Received,Full Transfer,16.5,-16.5
+2007/08,13,Middlesbrough,Jonathan Woodgate,Received,Full Transfer,10.8,-10.8
+2007/08,13,Middlesbrough,James Morrison,Received,Full Transfer,2.25,-2.25
+2007/08,13,Middlesbrough,Ben Hutchinson,Received,Full Transfer,0.7,-0.7
+2007/08,13,Middlesbrough,Andrew Davies,Received,Full Transfer,0.3,-0.3
+2007/08,14,Wigan Athletic,Jason Koumas,Spent,Full Transfer,6.9,6.9
+2007/08,14,Wigan Athletic,Marlon King,Spent,Full Transfer,4,4
+2007/08,14,Wigan Athletic,Antonio Valencia,Spent,Full Transfer,2,2
+2007/08,14,Wigan Athletic,Michael Brown,Spent,Full Transfer,1.3,1.3
+2007/08,14,Wigan Athletic,Wilson Palacios,Spent,Full Transfer,1.3,1.3
+2007/08,14,Wigan Athletic,Andreas Granqvist,Spent,Full Transfer,1,1
+2007/08,14,Wigan Athletic,Erik Edman,Spent,Full Transfer,0.7,0.7
+2007/08,14,Wigan Athletic,Rachid Bouaouzan,Spent,Full Transfer,0.45,0.45
+2007/08,14,Wigan Athletic,Erik Hagen,Spent,Loan Fee,0.25,0.25
+2007/08,14,Wigan Athletic,Leighton Baines,Received,Full Transfer,7.5,-7.5
+2007/08,14,Wigan Athletic,Fitz Hall,Received,Full Transfer,4,-4
+2007/08,14,Wigan Athletic,Lee McCulloch,Received,Full Transfer,3.33,-3.33
+2007/08,14,Wigan Athletic,Denny Landzaat,Received,Full Transfer,1.5,-1.5
+2007/08,14,Wigan Athletic,Caleb Folan,Received,Full Transfer,1.5,-1.5
+2007/08,15,Sunderland,Craig Gordon,Spent,Full Transfer,10.82,10.82
+2007/08,15,Sunderland,Kenwyne Jones,Spent,Full Transfer,9,9
+2007/08,15,Sunderland,Kieran Richardson,Spent,Full Transfer,8.2,8.2
+2007/08,15,Sunderland,Michael Chopra,Spent,Full Transfer,7.5,7.5
+2007/08,15,Sunderland,Andy Reid,Spent,Full Transfer,6,6
+2007/08,15,Sunderland,Greg Halford,Spent,Full Transfer,5.2,5.2
+2007/08,15,Sunderland,Paul McShane,Spent,Full Transfer,3.75,3.75
+2007/08,15,Sunderland,Danny Higginbotham,Spent,Full Transfer,3.75,3.75
+2007/08,15,Sunderland,Phil Bardsley,Spent,Full Transfer,3,3
+2007/08,15,Sunderland,Rade Prica,Spent,Full Transfer,2.7,2.7
+2007/08,15,Sunderland,Dickson Etuhu,Spent,Full Transfer,2,2
+2007/08,15,Sunderland,Russell Anderson,Spent,Full Transfer,1.5,1.5
+2007/08,15,Sunderland,Roy O'Donovan,Spent,Full Transfer,0.5,0.5
+2007/08,15,Sunderland,Jean Yvas M'voto,Spent,Full Transfer,0.4,0.4
+2007/08,15,Sunderland,Tobias Hysen,Received,Full Transfer,2.5,-2.5
+2007/08,15,Sunderland,Stephen Elliott,Received,Full Transfer,0.7,-0.7
+2007/08,16,Bolton Wanderers,Gary Cahill,Spent,Full Transfer,6,6
+2007/08,16,Bolton Wanderers,Gretar Steinsson,Spent,Full Transfer,5.25,5.25
+2007/08,16,Bolton Wanderers,Matthew Taylor,Spent,Full Transfer,4.7,4.7
+2007/08,16,Bolton Wanderers,Heidar Helguson,Spent,Full Transfer,2.85,2.85
+2007/08,16,Bolton Wanderers,Gavin McCann,Spent,Full Transfer,1.5,1.5
+2007/08,16,Bolton Wanderers,Tamir Cohen,Spent,Full Transfer,0.8,0.8
+2007/08,16,Bolton Wanderers,Daniel Braaten,Spent,Full Transfer,0.75,0.75
+2007/08,16,Bolton Wanderers,Christian Wilhelmsson,Spent,Loan Fee,0.5,0.5
+2007/08,16,Bolton Wanderers,Nicolas Anelka,Received,Full Transfer,18,-18
+2007/08,16,Bolton Wanderers,Abdoulaye Faye,Received,Full Transfer,2.8,-2.8
+2007/08,16,Bolton Wanderers,Lubomir Michalik,Received,Full Transfer,0.67,-0.67
+2007/08,16,Bolton Wanderers,Idan Tal,Received,Full Transfer,0.366,-0.366
+2007/08,16,Bolton Wanderers,Przemyslaw Kazimierczak,Received,Full Transfer,0.12,-0.12
+2007/08,17,Fulham,Diomansy Kamara,Spent,Full Transfer,9,9
+2007/08,17,Fulham,Steven Davis,Spent,Full Transfer,5.9,5.9
+2007/08,17,Fulham,Chris Baird,Spent,Full Transfer,4.5,4.5
+2007/08,17,Fulham,Hameur Bouazza,Spent,Full Transfer,4.5,4.5
+2007/08,17,Fulham,Leon Andreasen,Spent,Full Transfer,4.3,4.3
+2007/08,17,Fulham,Lee Cook,Spent,Full Transfer,3.75,3.75
+2007/08,17,Fulham,Brede Hangeland,Spent,Full Transfer,3.3,3.3
+2007/08,17,Fulham,Paul Konchesky,Spent,Full Transfer,3,3
+2007/08,17,Fulham,Erik Nevland,Spent,Full Transfer,3,3
+2007/08,17,Fulham,Eddie Johnson,Spent,Full Transfer,2.5,2.5
+2007/08,17,Fulham,David Healy,Spent,Full Transfer,2.25,2.25
+2007/08,17,Fulham,Dejan Stefanovic,Spent,Full Transfer,1.5,1.5
+2007/08,17,Fulham,Aaron Hughes,Spent,Full Transfer,1.5,1.5
+2007/08,17,Fulham,Toni Kallio,Spent,Full Transfer,0.33,0.33
+2007/08,17,Fulham,Papa Bouba Diop,Received,Full Transfer,5,-5
+2007/08,17,Fulham,Zat Knight,Received,Full Transfer,4.7,-4.7
+2007/08,17,Fulham,Franck Queudrue,Received,Full Transfer,3.75,-3.75
+2007/08,17,Fulham,Heidar Helguson,Received,Full Transfer,2.85,-2.85
+2007/08,17,Fulham,Liam Rosenior,Received,Full Transfer,1.9,-1.9
+2007/08,17,Fulham,Michael Brown,Received,Full Transfer,1.3,-1.3
+2007/08,18,Reading,Emerse Fae,Spent,Full Transfer,3.5,3.5
+2007/08,18,Reading,Marek Matejovsky,Spent,Full Transfer,1.9,1.9
+2007/08,18,Reading,Liam Rosenior,Spent,Full Transfer,1.9,1.9
+2007/08,18,Reading,Jimmy Kebe,Spent,Full Transfer,1.8,1.8
+2007/08,18,Reading,Kalifa Cisse,Spent,Full Transfer,1.5,1.5
+2007/08,18,Reading,Andre Bikey Amougou,Spent,Full Transfer,1.5,1.5
+2007/08,18,Reading,Greg Halford,Received,Full Transfer,5.2,-5.2
+2007/08,18,Reading,Simon Cox,Received,Full Transfer,0.5,-0.5
+2007/08,19,Birmingham City,James McFadden,Spent,Full Transfer,7.5,7.5
+2007/08,19,Birmingham City,Fabrice Muamba,Spent,Full Transfer,6,6
+2007/08,19,Birmingham City,Garry O'Connor,Spent,Full Transfer,4,4
+2007/08,19,Birmingham City,Franck Queudrue,Spent,Full Transfer,3.75,3.75
+2007/08,19,Birmingham City,Liam Ridgewell,Spent,Full Transfer,3,3
+2007/08,19,Birmingham City,Olivier Kapo,Spent,Full Transfer,2.3,2.3
+2007/08,19,Birmingham City,David Murphy,Spent,Full Transfer,2.25,2.25
+2007/08,19,Birmingham City,Rafael,Spent,Loan Fee,0.5,0.5
+2007/08,19,Birmingham City,DJ Campbell,Received,Full Transfer,3.15,-3.15
+2007/08,19,Birmingham City,Stephen Clemence,Received,Full Transfer,1.5,-1.5
+2007/08,19,Birmingham City,Rowan Vine,Received,Full Transfer,1.5,-1.5
+2007/08,19,Birmingham City,Mat Sadler,Received,Full Transfer,1.1,-1.1
+2007/08,19,Birmingham City,Neil Danns,Received,Full Transfer,0.9,-0.9
+2007/08,19,Birmingham City,Neil Kilkenny,Received,Full Transfer,0.22,-0.22
+2007/08,19,Birmingham City,Bruno N'Gotty,Received,Full Transfer,0.1,-0.1
+2007/08,20,Derby County,Robert Earnshaw,Spent,Full Transfer,5.2,5.2
+2007/08,20,Derby County,Claude Davis,Spent,Full Transfer,4.5,4.5
+2007/08,20,Derby County,Kenny Miller,Spent,Full Transfer,4.5,4.5
+2007/08,20,Derby County,Emanuel Villa,Spent,Full Transfer,3,3
+2007/08,20,Derby County,Robbie Savage,Spent,Full Transfer,2.25,2.25
+2007/08,20,Derby County,Benny Feilhaber,Spent,Full Transfer,1.5,1.5
+2007/08,20,Derby County,Andy Todd,Spent,Full Transfer,0.67,0.67
+2007/08,20,Derby County,Mile Sterjovski,Spent,Full Transfer,0.4,0.4
+2007/08,20,Derby County,Lewis Price,Spent,Full Transfer,0.35,0.35
+2007/08,20,Derby County,Eddie Lewis,Spent,Full Transfer,0.3,0.3
+2007/08,20,Derby County,Steve Howard,Received,Full Transfer,2.25,-2.25
+2007/08,20,Derby County,Craig Fagan,Received,Full Transfer,1.03,-1.03
+2007/08,20,Derby County,Matt Oakley,Received,Full Transfer,0.66,-0.66
+2007/08,20,Derby County,Andy Griffin,Received,Full Transfer,0.45,-0.45
+2007/08,20,Derby County,Lee Camp,Received,Full Transfer,0.45,-0.45
+2007/08,20,Derby County,Jon Macken,Received,Full Transfer,0.4,-0.4
+2008/09,1,Manchester United,Dimitar Berbatov,Spent,Full Transfer,38,38
+2008/09,1,Manchester United,Zoran Tosic,Spent,Full Transfer,7,7
+2008/09,1,Manchester United,Ritchie De Laet,Spent,Full Transfer,0.25,0.25
+2008/09,1,Manchester United,Gerard Pique,Received,Full Transfer,5,-5
+2008/09,1,Manchester United,Chris Eagles,Received,Full Transfer,1.5,-1.5
+2008/09,1,Manchester United,Mikael Silvestre,Received,Full Transfer,0.95,-0.95
+2008/09,2,Liverpool,Robbie Keane,Spent,Full Transfer,24,24
+2008/09,2,Liverpool,Javier Mascherano,Spent,Full Transfer,22.5,22.5
+2008/09,2,Liverpool,Albert Riera,Spent,Full Transfer,9.8,9.8
+2008/09,2,Liverpool,Andrea Dossena,Spent,Full Transfer,9,9
+2008/09,2,Liverpool,Diego Cavalieri,Spent,Full Transfer,4.4,4.4
+2008/09,2,Liverpool,David N'Gog,Spent,Full Transfer,1.5,1.5
+2008/09,2,Liverpool,Robbie Keane,Received,Full Transfer,16.7,-16.7
+2008/09,2,Liverpool,Peter Crouch,Received,Full Transfer,13.7,-13.7
+2008/09,2,Liverpool,John Arne Riise,Received,Full Transfer,5,-5
+2008/09,2,Liverpool,Danny Guthrie,Received,Full Transfer,4.3,-4.3
+2008/09,2,Liverpool,Scott Carson,Received,Full Transfer,4,-4
+2008/09,2,Liverpool,Anthony Le Tallec,Received,Full Transfer,1.5,-1.5
+2008/09,2,Liverpool,Sebastian Leto,Received,Loan Fee,0.75,-0.75
+2008/09,3,Chelsea,Jose Bosingwa,Spent,Full Transfer,20.5,20.5
+2008/09,3,Chelsea,Deco,Spent,Full Transfer,10,10
+2008/09,3,Chelsea,Wayne Bridge,Received,Full Transfer,13,-13
+2008/09,3,Chelsea,Shaun Wright-Phillips,Received,Full Transfer,11.25,-11.25
+2008/09,3,Chelsea,Tal Ben Haim,Received,Full Transfer,6.4,-6.4
+2008/09,3,Chelsea,Steve Sidwell,Received,Full Transfer,6.3,-6.3
+2008/09,3,Chelsea,Khalid Boulahrouz,Received,Full Transfer,5,-5
+2008/09,3,Chelsea,Claudio Pizarro,Received,Loan Fee,2,-2
+2008/09,3,Chelsea,Alcides,Received,Full Transfer,0.6,-0.6
+2008/09,4,Arsenal,Andrey Arshavin,Spent,Full Transfer,16.5,16.5
+2008/09,4,Arsenal,Samir Nasri,Spent,Full Transfer,16,16
+2008/09,4,Arsenal,Aaron Ramsey,Spent,Full Transfer,6.4,6.4
+2008/09,4,Arsenal,Mikael Silvestre,Spent,Full Transfer,0.95,0.95
+2008/09,4,Arsenal,Amaury Bischoff,Spent,Full Transfer,0.3,0.3
+2008/09,4,Arsenal,Aleksandr Hleb,Received,Full Transfer,17,-17
+2008/09,4,Arsenal,Justin Hoyte,Received,Full Transfer,3.8,-3.8
+2008/09,4,Arsenal,Philippe Senderos,Received,Loan Fee,2.5,-2.5
+2008/09,4,Arsenal,Gilberto Silva,Received,Full Transfer,2.5,-2.5
+2008/09,5,Everton,Maroune Fellaini,Spent,Full Transfer,21.76,21.76
+2008/09,5,Everton,Steven Pienaar,Spent,Full Transfer,2.75,2.75
+2008/09,5,Everton,Segundo Castillo,Spent,Loan Fee,0.5,0.5
+2008/09,5,Everton,Seamus Coleman,Spent,Full Transfer,0.07,0.07
+2008/09,5,Everton,Andy Johnson,Received,Full Transfer,13.3,-13.3
+2008/09,6,Aston Villa,James Milner,Spent,Full Transfer,15,15
+2008/09,6,Aston Villa,Curtis Davies,Spent,Full Transfer,10,10
+2008/09,6,Aston Villa,Carlos Cuellar,Spent,Full Transfer,10,10
+2008/09,6,Aston Villa,Steve Sidwell,Spent,Full Transfer,6.3,6.3
+2008/09,6,Aston Villa,Nick Shorey,Spent,Full Transfer,4.4,4.4
+2008/09,6,Aston Villa,Emile Heskey,Spent,Full Transfer,3.7,3.7
+2008/09,6,Aston Villa,Luke Young,Spent,Full Transfer,3,3
+2008/09,6,Aston Villa,Brad Friedel,Spent,Full Transfer,2.5,2.5
+2008/09,6,Aston Villa,Brad Guzan,Spent,Full Transfer,1,1
+2008/09,6,Aston Villa,Shaun Maloney,Received,Full Transfer,3.1,-3.1
+2008/09,6,Aston Villa,Wayne Routledge,Received,Full Transfer,0.67,-0.67
+2008/09,7,Fulham,Andy Johnson,Spent,Full Transfer,13.3,13.3
+2008/09,7,Fulham,Bobby Zamora,Spent,Full Transfer,4.1,4.1
+2008/09,7,Fulham,John Paintsil,Spent,Full Transfer,3.8,3.8
+2008/09,7,Fulham,Fredrik Stoor,Spent,Full Transfer,3,3
+2008/09,7,Fulham,Dickson Etuhu,Spent,Full Transfer,1.85,1.85
+2008/09,7,Fulham,Julian Gray,Spent,Full Transfer,0.4,0.4
+2008/09,7,Fulham,David Stockdale,Spent,Full Transfer,0.4,0.4
+2008/09,7,Fulham,Jimmy Bullard,Received,Full Transfer,5.3,-5.3
+2008/09,7,Fulham,Steven Davis,Received,Full Transfer,3.8,-3.8
+2008/09,7,Fulham,Leon Andreasen,Received,Full Transfer,2.5,-2.5
+2008/09,7,Fulham,David Healy,Received,Full Transfer,1.5,-1.5
+2008/09,7,Fulham,Lee Cook,Received,Full Transfer,1.28,-1.28
+2008/09,7,Fulham,Dejan Stefanovic,Received,Full Transfer,0.9,-0.9
+2008/09,7,Fulham,Gabriel Zakuani,Received,Full Transfer,0.65,-0.65
+2008/09,7,Fulham,Ricardo Bastia,Received,Full Transfer,0.15,-0.15
+2008/09,7,Fulham,Nathan Ashton,Received,Full Transfer,0.1,-0.1
+2008/09,8,Tottenham Hotspur,David Bentley,Spent,Full Transfer,22,22
+2008/09,8,Tottenham Hotspur,Luka Modric,Spent,Full Transfer,21,21
+2008/09,8,Tottenham Hotspur,Roman Pavlyuchenko,Spent,Full Transfer,17.4,17.4
+2008/09,8,Tottenham Hotspur,Robbie Keane,Spent,Full Transfer,16.7,16.7
+2008/09,8,Tottenham Hotspur,Jermain Defoe,Spent,Full Transfer,16.4,16.4
+2008/09,8,Tottenham Hotspur,Wilson Palacios,Spent,Full Transfer,15,15
+2008/09,8,Tottenham Hotspur,Vedran Corluka,Spent,Full Transfer,13.75,13.75
+2008/09,8,Tottenham Hotspur,Heurelho Gomes,Spent,Full Transfer,9,9
+2008/09,8,Tottenham Hotspur,Giovani dos Santos,Spent,Full Transfer,6,6
+2008/09,8,Tottenham Hotspur,Pascal Chimbonda,Spent,Full Transfer,3.2,3.2
+2008/09,8,Tottenham Hotspur,John Bostock,Spent,Full Transfer,2,2
+2008/09,8,Tottenham Hotspur,Dimitar Berbatov,Received,Full Transfer,38,-38
+2008/09,8,Tottenham Hotspur,Robbie Keane,Received,Full Transfer,24,-24
+2008/09,8,Tottenham Hotspur,Younes Kaboul,Received,Full Transfer,6.25,-6.25
+2008/09,8,Tottenham Hotspur,Steed Malbranque,Received,Full Transfer,5,-5
+2008/09,8,Tottenham Hotspur,Paul Robinson,Received,Full Transfer,4.4,-4.4
+2008/09,8,Tottenham Hotspur,Anthony Gardner,Received,Full Transfer,3.2,-3.2
+2008/09,8,Tottenham Hotspur,Pascal Chimbonda,Received,Full Transfer,3.2,-3.2
+2008/09,8,Tottenham Hotspur,Teemu Tainio,Received,Full Transfer,3,-3
+2008/09,8,Tottenham Hotspur,Young Pyo Lee,Received,Full Transfer,0.5,-0.5
+2008/09,8,Tottenham Hotspur,Tommy Forecast,Received,Full Transfer,0.4,-0.4
+2008/09,8,Tottenham Hotspur,Kevin Prince Boateng,Received,Loan Fee,0.2,-0.2
+2008/09,9,West Ham United,Savio Nsereko,Spent,Full Transfer,8.5,8.5
+2008/09,9,West Ham United,Valon Behrami,Spent,Full Transfer,6.3,6.3
+2008/09,9,West Ham United,David di Michele,Spent,Loan Fee,0.7,0.7
+2008/09,9,West Ham United,Radoslav Kovac,Spent,Loan Fee,0.5,0.5
+2008/09,9,West Ham United,Javier Mascherano,Received,Full Transfer,22.5,-22.5
+2008/09,9,West Ham United,Craig Bellamy,Received,Full Transfer,15.5,-15.5
+2008/09,9,West Ham United,Anton Ferdinand,Received,Full Transfer,10,-10
+2008/09,9,West Ham United,Geroge McCartney,Received,Full Transfer,5.5,-5.5
+2008/09,9,West Ham United,Bobby Zamora,Received,Full Transfer,4.1,-4.1
+2008/09,9,West Ham United,John Paintsil,Received,Full Transfer,3.8,-3.8
+2008/09,9,West Ham United,Matthew Etherington,Received,Full Transfer,3,-3
+2008/09,9,West Ham United,Hayden Mullins,Received,Full Transfer,2.3,-2.3
+2008/09,9,West Ham United,Julien Faubert,Received,Loan Fee,1.5,-1.5
+2008/09,9,West Ham United,Richard Wright,Received,Full Transfer,0.63,-0.63
+2008/09,10,Manchester City,Robinho,Spent,Full Transfer,43,43
+2008/09,10,Manchester City,Jo,Spent,Full Transfer,24,24
+2008/09,10,Manchester City,Nigel de Jong,Spent,Full Transfer,18,18
+2008/09,10,Manchester City,Craig Bellamy,Spent,Full Transfer,15.5,15.5
+2008/09,10,Manchester City,Wayne Bridge,Spent,Full Transfer,13,13
+2008/09,10,Manchester City,Shaun Wright Phillips,Spent,Full Transfer,11.25,11.25
+2008/09,10,Manchester City,Shay Given,Spent,Full Transfer,9,9
+2008/09,10,Manchester City,Pablo Zabaleta,Spent,Full Transfer,8.7,8.7
+2008/09,10,Manchester City,Vincent Kompany,Spent,Full Transfer,8.5,8.5
+2008/09,10,Manchester City,Tal Ben Haim,Spent,Full Transfer,6.4,6.4
+2008/09,10,Manchester City,Vedran Corluka,Received,Full Transfer,13.75,-13.75
+2008/09,10,Manchester City,Rolando Bianchi,Received,Full Transfer,7,-7
+2008/09,10,Manchester City,Andreas Isaksson,Received,Full Transfer,2.8,-2.8
+2008/09,10,Manchester City,Georgios Samaras,Received,Full Transfer,2.5,-2.5
+2008/09,10,Manchester City,Matthew Mills,Received,Full Transfer,0.45,-0.45
+2008/09,10,Manchester City,Ashley Grimes,Received,Full Transfer,0.07,-0.07
+2008/09,11,Wigan Athletic,Charles N'Zogbia,Spent,Full Transfer,6.4,6.4
+2008/09,11,Wigan Athletic,Hugo Rodallega,Spent,Full Transfer,4.8,4.8
+2008/09,11,Wigan Athletic,Olivier Kapo,Spent,Full Transfer,4.4,4.4
+2008/09,11,Wigan Athletic,Lee Cattermole,Spent,Full Transfer,4.4,4.4
+2008/09,11,Wigan Athletic,Ben Watson,Spent,Full Transfer,2.1,2.1
+2008/09,11,Wigan Athletic,Amr Zaki,Spent,Loan Fee,2,2
+2008/09,11,Wigan Athletic,Wilson Palacios,Received,Full Transfer,15,-15
+2008/09,11,Wigan Athletic,Emile Heskey,Received,Full Transfer,3.7,-3.7
+2008/09,11,Wigan Athletic,David Cotterill,Received,Full Transfer,2.6,-2.6
+2008/09,11,Wigan Athletic,Andreas Granqvist,Received,Full Transfer,1,-1
+2008/09,11,Wigan Athletic,Julius Aghahowa,Received,Full Transfer,1,-1
+2008/09,11,Wigan Athletic,Kevin Kilbane,Received,Full Transfer,0.55,-0.55
+2008/09,11,Wigan Athletic,Andy Webster,Received,Full Transfer,0.35,-0.35
+2008/09,12,Stoke City,Dave Kitson,Spent,Full Transfer,7,7
+2008/09,12,Stoke City,James Beattie,Spent,Full Transfer,4,4
+2008/09,12,Stoke City,Seyi Olofinjana,Spent,Full Transfer,3.8,3.8
+2008/09,12,Stoke City,Ibrahima Sonko,Spent,Full Transfer,3,3
+2008/09,12,Stoke City,Danny Higginbotham,Spent,Full Transfer,3,3
+2008/09,12,Stoke City,Michael Tonge,Spent,Full Transfer,3,3
+2008/09,12,Stoke City,Matthew Etherington,Spent,Full Transfer,3,3
+2008/09,12,Stoke City,Abdoulaye Faye,Spent,Full Transfer,2.9,2.9
+2008/09,12,Stoke City,Tom Soares,Spent,Full Transfer,1.9,1.9
+2008/09,12,Stoke City,Andrew Davies,Spent,Full Transfer,1.9,1.9
+2008/09,12,Stoke City,Amdy Faye,Spent,Full Transfer,0.45,0.45
+2008/09,12,Stoke City,Demar Phillips,Received,Full Transfer,0.35,-0.35
+2008/09,12,Stoke City,Ritchie De Laet,Received,Full Transfer,0.25,-0.25
+2008/09,12,Stoke City,Lewis Buxton,Received,Full Transfer,0.1,-0.1
+2008/09,12,Stoke City,Adam Rooney,Received,Full Transfer,0.06,-0.06
+2008/09,13,Bolton Wanderers,Johan Elmander,Spent,Full Transfer,12.6,12.6
+2008/09,13,Bolton Wanderers,Fabrice Muamba,Spent,Full Transfer,6.4,6.4
+2008/09,13,Bolton Wanderers,Danny Shittu,Spent,Full Transfer,2.4,2.4
+2008/09,13,Bolton Wanderers,Ariza Makukula,Spent,Loan Fee,0.8,0.8
+2008/09,13,Bolton Wanderers,Mark Davies,Spent,Full Transfer,0.6,0.6
+2008/09,13,Bolton Wanderers,Sebastien Puygrenier,Spent,Loan Fee,0.5,0.5
+2008/09,13,Bolton Wanderers,Riga Mustapha,Spent,Full Transfer,0.4,0.4
+2008/09,13,Bolton Wanderers,Kevin Nolan,Received,Full Transfer,4.5,-4.5
+2008/09,13,Bolton Wanderers,El Hadji Diouf,Received,Full Transfer,3.2,-3.2
+2008/09,13,Bolton Wanderers,Abdoulaye Meite,Received,Full Transfer,2.6,-2.6
+2008/09,13,Bolton Wanderers,Heidar Helguson,Received,Full Transfer,0.45,-0.45
+2008/09,13,Bolton Wanderers,Jaroslaw Fojut,Received,Full Transfer,0.12,-0.12
+2008/09,14,Portsmouth,Peter Crouch,Spent,Full Transfer,13.7,13.7
+2008/09,14,Portsmouth,Younes Kaboul,Spent,Full Transfer,6.25,6.25
+2008/09,14,Portsmouth,Nadir Belhadj,Spent,Full Transfer,4.5,4.5
+2008/09,14,Portsmouth,Hayden Mullins,Spent,Full Transfer,2.3,2.3
+2008/09,14,Portsmouth,Theofanis Gekas,Spent,Loan Fee,0.8,0.8
+2008/09,14,Portsmouth,Pele,Spent,Loan Fee,0.65,0.65
+2008/09,14,Portsmouth,Lassana Diarra,Received,Full Transfer,20,-20
+2008/09,14,Portsmouth,Jermain Defoe,Received,Full Transfer,16.4,-16.4
+2008/09,14,Portsmouth,Sulley Muntari,Received,Full Transfer,15,-15
+2008/09,14,Portsmouth,Pedro Mendes,Received,Full Transfer,3.75,-3.75
+2008/09,15,Blackburn Rovers,Paul Robinson,Spent,Full Transfer,4.4,4.4
+2008/09,15,Blackburn Rovers,Vince Grella,Spent,Full Transfer,4,4
+2008/09,15,Blackburn Rovers,El Hadji Diouf,Spent,Full Transfer,2.2,2.2
+2008/09,15,Blackburn Rovers,Keith Andrews,Spent,Full Transfer,0.93,0.93
+2008/09,15,Blackburn Rovers,Mark Bunn,Spent,Full Transfer,0.15,0.15
+2008/09,15,Blackburn Rovers,David Bentley,Received,Full Transfer,22,-22
+2008/09,15,Blackburn Rovers,Brad Friedel,Received,Full Transfer,2.5,-2.5
+2008/09,15,Blackburn Rovers,Eddie Nolan,Received,Full Transfer,0.9,-0.9
+2008/09,15,Blackburn Rovers,Sergio Peter,Received,Full Transfer,0.6,-0.6
+2008/09,15,Blackburn Rovers,Matt Derbyshire,Received,Loan Fee,0.5,-0.5
+2008/09,16,Sunderland,Anton Ferdinand,Spent,Full Transfer,10,10
+2008/09,16,Sunderland,George McCartney,Spent,Full Transfer,5.5,5.5
+2008/09,16,Sunderland,Steed Malbranque,Spent,Full Transfer,5,5
+2008/09,16,Sunderland,Pascal Chimbonda,Spent,Full Transfer,3.2,3.2
+2008/09,16,Sunderland,El Hadji Diouf,Spent,Full Transfer,3.2,3.2
+2008/09,16,Sunderland,Teemu Tainio,Spent,Full Transfer,3,3
+2008/09,16,Sunderland,Djibril Cisse,Spent,Loan Fee,1.5,1.5
+2008/09,16,Sunderland,David Healy,Spent,Full Transfer,1.5,1.5
+2008/09,16,Sunderland,David Meyley,Spent,Full Transfer,0.21,0.21
+2008/09,16,Sunderland,Pascal Chimbonda,Received,Full Transfer,3.2,-3.2
+2008/09,16,Sunderland,Danny Higginbotham,Received,Full Transfer,3,-3
+2008/09,16,Sunderland,El Hadji Diouf,Received,Full Transfer,2.2,-2.2
+2008/09,16,Sunderland,Dickson Etuhu,Received,Full Transfer,1.85,-1.85
+2008/09,16,Sunderland,Rade Prica,Received,Full Transfer,0.8,-0.8
+2008/09,16,Sunderland,Liam Miller,Received,Full Transfer,0.1,-0.1
+2008/09,17,Hull City,Jimmy Bullard,Spent,Full Transfer,5.3,5.3
+2008/09,17,Hull City,Anthony Gardner,Spent,Full Transfer,3.2,3.2
+2008/09,17,Hull City,Kamil Zayatte,Spent,Full Transfer,2.5,2.5
+2008/09,17,Hull City,Peter Halmosi,Spent,Full Transfer,2.5,2.5
+2008/09,17,Hull City,Daniel Cousin,Spent,Full Transfer,1.9,1.9
+2008/09,17,Hull City,George Boateng,Spent,Full Transfer,1.2,1.2
+2008/09,17,Hull City,Kamil Zayatte,Spent,Loan Fee,0.6,0.6
+2008/09,17,Hull City,Kevin Kilbane,Spent,Full Transfer,0.55,0.55
+2008/09,17,Hull City,Mark Oxley,Spent,Full Transfer,0.19,0.19
+2008/09,18,Newcastle United,Fabricio Coloccini,Spent,Full Transfer,13,13
+2008/09,18,Newcastle United,Jonas Gutierrez,Spent,Full Transfer,5.8,5.8
+2008/09,18,Newcastle United,Xisco,Spent,Full Transfer,5.68,5.68
+2008/09,18,Newcastle United,Kevin Nolan,Spent,Full Transfer,4.5,4.5
+2008/09,18,Newcastle United,Danny Guthrie,Spent,Full Transfer,4.3,4.3
+2008/09,18,Newcastle United,Sebastien Bassong,Spent,Full Transfer,1.8,1.8
+2008/09,18,Newcastle United,Haris Vuckic,Spent,Full Transfer,0.1,0.1
+2008/09,18,Newcastle United,James Milner,Received,Full Transfer,15,-15
+2008/09,18,Newcastle United,Shay Given,Received,Full Transfer,9,-9
+2008/09,18,Newcastle United,Charles N'Zogbia,Received,Full Transfer,6.4,-6.4
+2008/09,18,Newcastle United,Emre Belozoglu,Received,Full Transfer,4.5,-4.5
+2008/09,18,Newcastle United,David Rozehnal,Received,Full Transfer,3.6,-3.6
+2008/09,18,Newcastle United,Abdoulaye Faye,Received,Full Transfer,2.9,-2.9
+2008/09,19,Middlesbrough,Didier Digard,Spent,Full Transfer,5,5
+2008/09,19,Middlesbrough,Marvin Emnes,Spent,Full Transfer,4,4
+2008/09,19,Middlesbrough,Justin Hoyte,Spent,Full Transfer,3.8,3.8
+2008/09,19,Middlesbrough,Lee Cattermole,Received,Full Transfer,4.4,-4.4
+2008/09,19,Middlesbrough,Luke Young,Received,Full Transfer,3,-3
+2008/09,19,Middlesbrough,George Boateng,Received,Full Transfer,1.2,-1.2
+2008/09,19,Middlesbrough,Tom Craddock,Received,Full Transfer,0.12,-0.12
+2008/09,20,West Bromwich Albion,Borja Valero,Spent,Full Transfer,5.9,5.9
+2008/09,20,West Bromwich Albion,Scott Carson,Spent,Full Transfer,4,4
+2008/09,20,West Bromwich Albion,Gianni Zuiverloon,Spent,Full Transfer,4,4
+2008/09,20,West Bromwich Albion,Abdoulaye Meite,Spent,Full Transfer,2.6,2.6
+2008/09,20,West Bromwich Albion,Marek Cech,Spent,Full Transfer,1.8,1.8
+2008/09,20,West Bromwich Albion,Jonas Olsson,Spent,Full Transfer,1,1
+2008/09,20,West Bromwich Albion,Do Heon Kim,Spent,Full Transfer,0.72,0.72
+2008/09,20,West Bromwich Albion,Graham Dorrans,Spent,Full Transfer,0.3,0.3
+2008/09,20,West Bromwich Albion,Youssouf Mulumbu,Spent,Loan Fee,0.25,0.25
+2008/09,20,West Bromwich Albion,Curtis Davies,Received,Full Transfer,10,-10
+2008/09,20,West Bromwich Albion,Bartosz Slusarski,Received,Full Transfer,0.25,-0.25
+2009/10,1,Chelsea,Yuri Zhirkov,Spent,Full Transfer,21,21
+2009/10,1,Chelsea,Daniel Sturridge,Spent,Full Transfer,7.25,7.25
+2009/10,1,Chelsea,Nemanja Matic,Spent,Full Transfer,1.75,1.75
+2009/10,1,Chelsea,Claudio Pizarro,Spent,Full Transfer,2,2
+2009/10,1,Chelsea,Ben Sahar,Spent,Full Transfer,1,1
+2009/10,1,Chelsea,Miroslav Stoch,Spent,Loan Fee,0.8,0.8
+2009/10,1,Chelsea,Shaun Cummings,Spent,Full Transfer,0.11,0.11
+2009/10,2,Manchester United,Antonio Valencia,Spent,Full Transfer,18.9,18.9
+2009/10,2,Manchester United,Mame Diouf,Spent,Full Transfer,4.5,4.5
+2009/10,2,Manchester United,Gabriel Obertan,Spent,Full Transfer,4,4
+2009/10,2,Manchester United,Cristiano Ronaldo,Received,Full Transfer,94,-94
+2009/10,2,Manchester United,Frazier Campbell,Received,Full Transfer,4.1,-4.1
+2009/10,2,Manchester United,Manucho,Received,Full Transfer,2.75,-2.75
+2009/10,2,Manchester United,Lee Martin,Received,Full Transfer,2.25,-2.25
+2009/10,2,Manchester United,Danny Simpson,Received,Full Transfer,0.86,-0.86
+2009/10,2,Manchester United,Zoran Tosic,Received,Loan Fee,0.5,-0.5
+2009/10,3,Arsenal,Thomas Vermaelen,Spent,Full Transfer,12,12
+2009/10,3,Arsenal,Emmanuel Adebayor,Received,Full Transfer,29,-29
+2009/10,3,Arsenal,Kolo Toure,Received,Full Transfer,18.7,-18.7
+2009/10,4,Tottenham Hotspur,Peter Crouch,Spent,Full Transfer,10.5,10.5
+2009/10,4,Tottenham Hotspur,Sebastien Bassong,Spent,Full Transfer,9.3,9.3
+2009/10,4,Tottenham Hotspur,Kyle Walker,Spent,Full Transfer,5.9,5.9
+2009/10,4,Tottenham Hotspur,Younes Kaboul,Spent,Full Transfer,5.9,5.9
+2009/10,4,Tottenham Hotspur,Kyle Naughton,Spent,Full Transfer,5.9,5.9
+2009/10,4,Tottenham Hotspur,Niko Kranjcar,Spent,Full Transfer,2.8,2.8
+2009/10,4,Tottenham Hotspur,Darren Bent,Received,Full Transfer,11.8,-11.8
+2009/10,4,Tottenham Hotspur,Didier Zokora,Received,Full Transfer,9,-9
+2009/10,4,Tottenham Hotspur,Kevin Prince Boateng,Received,Full Transfer,4.5,-4.5
+2009/10,4,Tottenham Hotspur,Chris Gunter,Received,Full Transfer,2,-2
+2009/10,4,Tottenham Hotspur,Pascal Chimbonda,Received,Full Transfer,1.7,-1.7
+2009/10,4,Tottenham Hotspur,Robbie Keane,Received,Loan Fee,1.2,-1.2
+2009/10,4,Tottenham Hotspur,Tomas Pekhart,Received,Full Transfer,0.8,-0.8
+2009/10,4,Tottenham Hotspur,Giovani dos Santos,Received,Loan Fee,0.7,-0.7
+2009/10,5,Manchester City,Emmanuel Adebayor,Spent,Full Transfer,29,29
+2009/10,5,Manchester City,Carlos Tevez,Spent,Full Transfer,29,29
+2009/10,5,Manchester City,Joleon Lescott,Spent,Full Transfer,27.5,27.5
+2009/10,5,Manchester City,Roque Santa Cruz,Spent,Full Transfer,21.2,21.2
+2009/10,5,Manchester City,Kolo Toure,Spent,Full Transfer,18.7,18.7
+2009/10,5,Manchester City,Gareth Barry,Spent,Full Transfer,13.9,13.9
+2009/10,5,Manchester City,Adam Johnson,Spent,Full Transfer,8,8
+2009/10,5,Manchester City,Daniel Sturridge,Received,Full Transfer,7.25,-7.25
+2009/10,5,Manchester City,Elano,Received,Full Transfer,7,-7
+2009/10,5,Manchester City,Richard Dunne,Received,Full Transfer,6.8,-6.8
+2009/10,5,Manchester City,Gelson Fernandes,Received,Full Transfer,3.5,-3.5
+2009/10,5,Manchester City,Ched Evans,Received,Full Transfer,3.5,-3.5
+2009/10,5,Manchester City,Kaspey Schmeichel,Received,Full Transfer,1.75,-1.75
+2009/10,5,Manchester City,Joe Hart,Received,Loan Fee,1.15,-1.15
+2009/10,6,Aston Villa,Stewart Downing,Spent,Full Transfer,13,13
+2009/10,6,Aston Villa,Fabian Delph,Spent,Full Transfer,9.5,9.5
+2009/10,6,Aston Villa,Stephen Warnock,Spent,Full Transfer,9,9
+2009/10,6,Aston Villa,Richard Dunne,Spent,Full Transfer,6.8,6.8
+2009/10,6,Aston Villa,James Collins ,Spent,Full Transfer,5.7,5.7
+2009/10,6,Aston Villa,Habib Beye,Spent,Full Transfer,2.9,2.9
+2009/10,6,Aston Villa,Gareth Barry,Received,Full Transfer,13.9,-13.9
+2009/10,6,Aston Villa,Zat Kinght,Received,Full Transfer,4.7,-4.7
+2009/10,6,Aston Villa,Craig Gardner,Received,Full Transfer,3.5,-3.5
+2009/10,7,Liverpool,Glen Johnson,Spent,Full Transfer,20.5,20.5
+2009/10,7,Liverpool,Alberto Aquilani,Spent,Full Transfer,20,20
+2009/10,7,Liverpool,Sotiris Kyrgiakos,Spent,Full Transfer,3,3
+2009/10,7,Liverpool,Xabi Alonso,Received,Full Transfer,35.4,-35.4
+2009/10,7,Liverpool,Alvaro Arbeloa,Received,Full Transfer,4,-4
+2009/10,7,Liverpool,Sebastian Leto,Received,Full Transfer,4,-4
+2009/10,7,Liverpool,Andrea Dossena,Received,Full Transfer,3.75,-3.75
+2009/10,7,Liverpool,Andriy Voronin,Received,Full Transfer,2,-2
+2009/10,7,Liverpool,Adam Hammill,Received,Full Transfer,0.45,-0.45
+2009/10,7,Liverpool,Charles Itandje,Received,Loan Fee,0.3,-0.3
+2009/10,8,Everton,Diniyar Bilyaletdinov,Spent,Full Transfer,10,10
+2009/10,8,Everton,Johnny Heitinga,Spent,Full Transfer,6.8,6.8
+2009/10,8,Everton,Sylvain Distin,Spent,Full Transfer,6.5,6.5
+2009/10,8,Everton,Joleon Lescott,Received,Full Transfer,27.5,-27.5
+2009/10,8,Everton,Lucas Neill,Received,Full Transfer,0.84,-0.84
+2009/10,9,Birmingham City,Roger Johnson,Spent,Full Transfer,5.9,5.9
+2009/10,9,Birmingham City,Scott Dann,Spent,Full Transfer,4,4
+2009/10,9,Birmingham City,Craig Gardner,Spent,Full Transfer,3.5,3.5
+2009/10,9,Birmingham City,Michel,Spent,Full Transfer,3.3,3.3
+2009/10,9,Birmingham City,Barry Ferguson,Spent,Full Transfer,1.2,1.2
+2009/10,9,Birmingham City,Joe Hart,Spent,Loan Fee,1.15,1.15
+2009/10,9,Birmingham City,Christian Benitez,Spent,Loan Fee,0.9,0.9
+2009/10,9,Birmingham City,Jay O'Shea,Spent,Full Transfer,0.1,0.1
+2009/10,9,Birmingham City,Krystian Pearce,Received,Full Transfer,0.4,-0.4
+2009/10,10,Blackburn Rovers,Nikola Kalinic,Spent,Full Transfer,7,7
+2009/10,10,Blackburn Rovers,Gael Givet,Spent,Full Transfer,4,4
+2009/10,10,Blackburn Rovers,Pascal Chimbonda,Spent,Full Transfer,1.7,1.7
+2009/10,10,Blackburn Rovers,Steven N'Zonzi,Spent,Full Transfer,0.58,0.58
+2009/10,10,Blackburn Rovers,Roque Santa Cruz,Received,Full Transfer,21.2,-21.2
+2009/10,10,Blackburn Rovers,Stephen Warnock,Received,Full Transfer,9,-9
+2009/10,10,Blackburn Rovers,Matt Derbyshire,Received,Full Transfer,3,-3
+2009/10,10,Blackburn Rovers,Benni McCarthy,Received,Full Transfer,2.6,-2.6
+2009/10,10,Blackburn Rovers,Paul Gallagher,Received,Full Transfer,0.85,-0.85
+2009/10,11,Stoke City,Robert Huth,Spent,Full Transfer,7,7
+2009/10,11,Stoke City,Tuncay Sanli,Spent,Full Transfer,5.7,5.7
+2009/10,11,Stoke City,Asmir Begovic,Spent,Full Transfer,3.75,3.75
+2009/10,11,Stoke City,Dean Whitehead,Spent,Full Transfer,3.5,3.5
+2009/10,11,Stoke City,Danny Collins,Spent,Full Transfer,3.1,3.1
+2009/10,11,Stoke City,Diego Arismendi,Spent,Full Transfer,3,3
+2009/10,11,Stoke City,Seyi Olofinjana,Received,Full Transfer,3.5,-3.5
+2009/10,11,Stoke City,Leon Cort,Received,Full Transfer,1.8,-1.8
+2009/10,11,Stoke City,Richard Cresswell,Received,Full Transfer,1.2,-1.2
+2009/10,12,Fulham,Damien Duff,Spent,Full Transfer,4,4
+2009/10,12,Fulham,Bjorn Helge Riise,Spent,Full Transfer,2,2
+2009/10,12,Fulham,David Elm,Spent,Full Transfer,0.6,0.6
+2009/10,12,Fulham,Kagisho Dikgacoi,Spent,Full Transfer,0.3,0.3
+2009/10,12,Fulham,Stefano Okaka,Spent,Loan Fee,0.17,0.17
+2009/10,12,Fulham,Stefan Payne,Spent,Full Transfer,0.03,0.03
+2009/10,13,Sunderland,Michael Turner,Spent,Full Transfer,13.6,13.6
+2009/10,13,Sunderland,Darren Bent,Spent,Full Transfer,11.8,11.8
+2009/10,13,Sunderland,Lee Cattermole,Spent,Full Transfer,7,7
+2009/10,13,Sunderland,Lorik Cana,Spent,Full Transfer,5.8,5.8
+2009/10,13,Sunderland,Frazier Campbell,Spent,Full Transfer,4.1,4.1
+2009/10,13,Sunderland,Matthew Kilgallon,Spent,Full Transfer,2.3,2.3
+2009/10,13,Sunderland,John Mensah,Spent,Loan Fee,1.5,1.5
+2009/10,13,Sunderland,Michael Chopra,Received,Full Transfer,4.7,-4.7
+2009/10,13,Sunderland,Dean Whitehead,Received,Full Transfer,3.5,-3.5
+2009/10,13,Sunderland,Danny Collins,Received,Full Transfer,3.1,-3.1
+2009/10,13,Sunderland,Grant Leadbitter,Received,Full Transfer,3,-3
+2009/10,13,Sunderland,Paul McShane,Received,Full Transfer,2.5,-2.5
+2009/10,13,Sunderland,Greg Halford,Received,Full Transfer,2.4,-2.4
+2009/10,13,Sunderland,Carlos Edwards,Received,Full Transfer,1.5,-1.5
+2009/10,13,Sunderland,Anthony Stokes,Received,Full Transfer,0.57,-0.57
+2009/10,14,Bolton Wanderers,Zat Kinght,Spent,Full Transfer,4.7,4.7
+2009/10,14,Bolton Wanderers,Chung Yong Lee,Spent,Full Transfer,2.5,2.5
+2009/10,14,Bolton Wanderers,Sam Ricketts,Spent,Full Transfer,2.4,2.4
+2009/10,14,Bolton Wanderers,Paul Robinson,Spent,Full Transfer,1.2,1.2
+2009/10,14,Bolton Wanderers,Mark Connolly,Spent,Full Transfer,1.2,1.2
+2009/10,14,Bolton Wanderers,Blerim Dzemaili,Received,Full Transfer,2,-2
+2009/10,15,Wolverhampton Wanderers,Kevin Doyle,Spent,Full Transfer,7.6,7.6
+2009/10,15,Wolverhampton Wanderers,Ronald Zubar,Spent,Full Transfer,3,3
+2009/10,15,Wolverhampton Wanderers,Nenad Milijas,Spent,Full Transfer,2.8,2.8
+2009/10,15,Wolverhampton Wanderers,Greg Halford,Spent,Full Transfer,2.4,2.4
+2009/10,15,Wolverhampton Wanderers,Stefan Maierhofer,Spent,Full Transfer,2,2
+2009/10,15,Wolverhampton Wanderers,Andrew Surman,Spent,Full Transfer,1.4,1.4
+2009/10,15,Wolverhampton Wanderers,Segundo Castillo,Spent,Loan Fee,0.25,0.25
+2009/10,15,Wolverhampton Wanderers,Darren Potter,Received,Full Transfer,0.4,-0.4
+2009/10,15,Wolverhampton Wanderers,Neill Collins,Received,Full Transfer,0.24,-0.24
+2009/10,15,Wolverhampton Wanderers,Elliott Bennett,Received,Full Transfer,0.23,-0.23
+2009/10,16,Wigan Athletic,James McCarthy,Spent,Full Transfer,5.1,5.1
+2009/10,16,Wigan Athletic,Victor Moses,Spent,Full Transfer,3,3
+2009/10,16,Wigan Athletic,Mohamed Diame,Spent,Full Transfer,3,3
+2009/10,16,Wigan Athletic,Jordi Gomez,Spent,Full Transfer,2.45,2.45
+2009/10,16,Wigan Athletic,Jason Scotland,Spent,Full Transfer,2.3,2.3
+2009/10,16,Wigan Athletic,Gary Caldwell,Spent,Full Transfer,1.1,1.1
+2009/10,16,Wigan Athletic,Antonio Amaya,Spent,Full Transfer,0.8,0.8
+2009/10,16,Wigan Athletic,Marcelo Moreno,Spent,Loan Fee,0.68,0.68
+2009/10,16,Wigan Athletic,Antonio Valencia,Received,Full Transfer,18.9,-18.9
+2009/10,16,Wigan Athletic,Lee Cattermole,Received,Full Transfer,7,-7
+2009/10,16,Wigan Athletic,Daniel de Ridder,Received,Loan Fee,0.18,-0.18
+2009/10,17,West Ham United,Alessandro Diamanti,Spent,Full Transfer,6.8,6.8
+2009/10,17,West Ham United,Radoslav Kovac,Spent,Full Transfer,3.8,3.8
+2009/10,17,West Ham United,Herita Ilunga,Spent,Full Transfer,3.5,3.5
+2009/10,17,West Ham United,Manuel da Costa,Spent,Full Transfer,2.7,2.7
+2009/10,17,West Ham United,Benni McCarthy,Spent,Full Transfer,2.6,2.6
+2009/10,17,West Ham United,Fabio Daprela,Spent,Full Transfer,1.2,1.2
+2009/10,17,West Ham United,Luis Jimenez,Spent,Loan Fee,0.6,0.6
+2009/10,17,West Ham United,Peter Kurucz,Spent,Full Transfer,0.45,0.45
+2009/10,17,West Ham United,Carlos Tevez,Received,Full Transfer,29,-29
+2009/10,17,West Ham United,Savio Nsereko,Received,Full Transfer,6.2,-6.2
+2009/10,17,West Ham United,James Collins ,Received,Full Transfer,5.7,-5.7
+2009/10,17,West Ham United,Kyel Reid,Received,Full Transfer,0.4,-0.4
+2009/10,18,Burnley,Steven Fletcher,Spent,Full Transfer,4.7,4.7
+2009/10,18,Burnley,Andre Bikey Amougou,Spent,Full Transfer,3.25,3.25
+2009/10,18,Burnley,Danny Fox,Spent,Full Transfer,2.1,2.1
+2009/10,18,Burnley,Leon Cort,Spent,Full Transfer,1.8,1.8
+2009/10,18,Burnley,Tyrone Mears,Spent,Full Transfer,0.59,0.59
+2009/10,18,Burnley,Brian Easton,Spent,Full Transfer,0.4,0.4
+2009/10,18,Burnley,David Edgar,Spent,Full Transfer,0.35,0.35
+2009/10,18,Burnley,Kevin Long,Spent,Full Transfer,0.35,0.35
+2009/10,18,Burnley,Besart Berisha,Received,Full Transfer,0.09,-0.09
+2009/10,19,Hull City,Stephen Hunt,Spent,Full Transfer,4,4
+2009/10,19,Hull City,Seyi Olofinjana,Spent,Full Transfer,3.5,3.5
+2009/10,19,Hull City,Paul McShane,Spent,Full Transfer,2.5,2.5
+2009/10,19,Hull City,Steven Mouyokolo,Spent,Full Transfer,2.15,2.15
+2009/10,19,Hull City,Kamel Ghilas,Spent,Full Transfer,2,2
+2009/10,19,Hull City,Amr Zaki,Spent,Loan Fee,0.7,0.7
+2009/10,19,Hull City,Michael Turner,Received,Full Transfer,13.6,-13.6
+2009/10,19,Hull City,Sam Ricketts,Received,Full Transfer,2.4,-2.4
+2009/10,19,Hull City,Daniel Cousin,Received,Loan Fee,0.2,-0.2
+2009/10,20,Portsmouth,Kevin Prince Boateng,Spent,Full Transfer,4.5,4.5
+2009/10,20,Portsmouth,Mike Williamson,Spent,Full Transfer,2.3,2.3
+2009/10,20,Portsmouth,Tommy Smith,Spent,Full Transfer,2,2
+2009/10,20,Portsmouth,Aruna Dindane,Spent,Loan Fee,0.5,0.5
+2009/10,20,Portsmouth,Frederic Piquionne,Spent,Loan Fee,0.5,0.5
+2009/10,20,Portsmouth,Hassan Yebda,Spent,Loan Fee,0.48,0.48
+2009/10,20,Portsmouth,Quincy Owusu Abeyie,Spent,Loan Fee,0.28,0.28
+2009/10,20,Portsmouth,Glen Johnson,Received,Full Transfer,20.5,-20.5
+2009/10,20,Portsmouth,Peter Crouch,Received,Full Transfer,10.5,-10.5
+2009/10,20,Portsmouth,Sylvain Distin,Received,Full Transfer,6.5,-6.5
+2009/10,20,Portsmouth,Younes Kaboul,Received,Full Transfer,5.9,-5.9
+2009/10,20,Portsmouth,Asmir Begovic,Received,Full Transfer,3.75,-3.75
+2009/10,20,Portsmouth,Niko Kranjcar,Received,Full Transfer,2.8,-2.8
+2009/10,20,Portsmouth,Mike Williamson,Received,Full Transfer,1.1,-1.1
+2009/10,20,Portsmouth,Martin Cranie,Received,Full Transfer,1,-1
+2010/11,1,Manchester United,Bebe,Spent,Full Transfer,8.8,8.8
+2010/11,1,Manchester United,Chris Smalling,Spent,Full Transfer,8,8
+2010/11,1,Manchester United,Chicharito,Spent,Full Transfer,7.5,7.5
+2010/11,1,Manchester United,Ander Lindegaard,Spent,Full Transfer,5,5
+2010/11,1,Manchester United,Zoran Tosic,Received,Full Transfer,9.5,-9.5
+2010/11,1,Manchester United,Ben Foster,Received,Full Transfer,7,-7
+2010/11,1,Manchester United,Federico Macheda,Received,Loan Fee,0.46,-0.46
+2010/11,1,Manchester United,Cameron Stewart,Received,Full Transfer,0.45,-0.45
+2010/11,1,Manchester United,James Chester,Received,Full Transfer,0.35,-0.35
+2010/11,2,Chelsea,Fernando Torres,Spent,Full Transfer,58.5,58.5
+2010/11,2,Chelsea,David Luiz,Spent,Full Transfer,25,25
+2010/11,2,Chelsea,Ramires,Spent,Full Transfer,22,22
+2010/11,2,Chelsea,Yossi Benayoun,Spent,Full Transfer,7,7
+2010/11,2,Chelsea,Tomas Kalas,Spent,Full Transfer,6,6
+2010/11,2,Chelsea,Matej Delac,Spent,Full Transfer,3,3
+2010/11,2,Chelsea,Richard Carvalho,Received,Full Transfer,8,-8
+2010/11,2,Chelsea,Miroslav Stoch,Received,Full Transfer,5.5,-5.5
+2010/11,2,Chelsea,Franco Di Santo,Received,Full Transfer,2.4,-2.4
+2010/11,2,Chelsea,Scott Sinclair,Received,Full Transfer,0.6,-0.6
+2010/11,3,Manchester City,Edin Dzeko,Spent,Full Transfer,37,37
+2010/11,3,Manchester City,Yaya Toure,Spent,Full Transfer,30,30
+2010/11,3,Manchester City,Mario Balotelli,Spent,Full Transfer,29.5,29.5
+2010/11,3,Manchester City,David Silva,Spent,Full Transfer,28.75,28.75
+2010/11,3,Manchester City,Aleksandar Kolarov,Spent,Full Transfer,22.7,22.7
+2010/11,3,Manchester City,James Milner,Spent,Full Transfer,22,22
+2010/11,3,Manchester City,Jerome Boateng,Spent,Full Transfer,12.5,12.5
+2010/11,3,Manchester City,Robinho,Received,Full Transfer,18,-18
+2010/11,3,Manchester City,Stephen Ireland,Received,Full Transfer,9.7,-9.7
+2010/11,3,Manchester City,Emmanuel Adebayor,Received,Loan Fee,4,-4
+2010/11,3,Manchester City,Javier Garrido,Received,Full Transfer,2.5,-2.5
+2010/11,3,Manchester City,Valeri Baojinov,Received,Full Transfer,2,-2
+2010/11,3,Manchester City,Vladimir Weiss,Received,Loan Fee,0.6,-0.6
+2010/11,3,Manchester City,Wayne Bridge,Received,Loan Fee,0.35,-0.35
+2010/11,3,Manchester City,David Ball,Received,Full Transfer,0.06,-0.06
+2010/11,4,Arsenal,Laurent Koscielny,Spent,Full Transfer,12.5,12.5
+2010/11,4,Arsenal,Sebastien Squillaci,Spent,Full Transfer,6.5,6.5
+2010/11,4,Arsenal,Wellington Silva,Spent,Full Transfer,4,4
+2010/11,4,Arsenal,Eduardo,Received,Full Transfer,7.2,-7.2
+2010/11,4,Arsenal,Jay Simpson,Received,Full Transfer,1.5,-1.5
+2010/11,4,Arsenal,Armand Traore,Received,Loan Fee,0.5,-0.5
+2010/11,4,Arsenal,Nacer Barazite,Received,Full Transfer,0.4,-0.4
+2010/11,5,Tottenham Hotspur,Rafael van der Vaart,Spent,Full Transfer,10.5,10.5
+2010/11,5,Tottenham Hotspur,Sandro,Spent,Full Transfer,10,10
+2010/11,5,Tottenham Hotspur,Steven Pienaar,Spent,Full Transfer,3.6,3.6
+2010/11,5,Tottenham Hotspur,Bongani Khumalo,Spent,Full Transfer,1.8,1.8
+2010/11,5,Tottenham Hotspur,Stipe Pletikosa,Spent,Loan Fee,0.7,0.7
+2010/11,5,Tottenham Hotspur,Adel Taarabt,Received,Full Transfer,1.2,-1.2
+2010/11,5,Tottenham Hotspur,Robbie Keane,Received,Loan Fee,1.2,-1.2
+2010/11,5,Tottenham Hotspur,Giovani dos Santos,Received,Loan Fee,0.3,-0.3
+2010/11,5,Tottenham Hotspur,Kyle Walker,Received,Loan Fee,0.23,-0.23
+2010/11,6,Liverpool,Andy Carroll,Spent,Full Transfer,41,41
+2010/11,6,Liverpool,Luis Suarez,Spent,Full Transfer,26.5,26.5
+2010/11,6,Liverpool,Raul Miereles,Spent,Full Transfer,13,13
+2010/11,6,Liverpool,Christian Poulsen,Spent,Full Transfer,5.48,5.48
+2010/11,6,Liverpool,Paul Konchesky,Spent,Full Transfer,4,4
+2010/11,6,Liverpool,Brad Jones,Spent,Full Transfer,2.8,2.8
+2010/11,6,Liverpool,Danny Wilson,Spent,Full Transfer,2.75,2.75
+2010/11,6,Liverpool,Jonjo Shelvey,Spent,Full Transfer,2,2
+2010/11,6,Liverpool,Fernando Torres,Received,Full Transfer,58.5,-58.5
+2010/11,6,Liverpool,Javier Mascherano,Received,Full Transfer,20,-20
+2010/11,6,Liverpool,Yossi Benayoun,Received,Full Transfer,7,-7
+2010/11,6,Liverpool,Ryan Babel,Received,Full Transfer,7,-7
+2010/11,6,Liverpool,Albert Riera,Received,Full Transfer,6,-6
+2010/11,6,Liverpool,Krisztian Nemeth,Received,Full Transfer,1.2,-1.2
+2010/11,6,Liverpool,Damien Plessis,Received,Full Transfer,0.8,-0.8
+2010/11,6,Liverpool,Emiliano Insua,Received,Loan Fee,0.75,-0.75
+2010/11,6,Liverpool,Nabil El Zhar,Received,Loan Fee,0.25,-0.25
+2010/11,7,Everton,Magaye Gueye,Spent,Full Transfer,1.4,1.4
+2010/11,7,Everton,Apostolos Vellios,Spent,Full Transfer,0.3,0.3
+2010/11,7,Everton,Steven Pienaar,Received,Full Transfer,3.6,-3.6
+2010/11,7,Everton,Yakubu Aiyegbeni,Received,Loan Fee,1.2,-1.2
+2010/11,7,Everton,John Ruddy,Received,Full Transfer,0.6,-0.6
+2010/11,7,Everton,Joseph Yobo,Received,Loan Fee,0.6,-0.6
+2010/11,7,Everton,Lukas Jutkiewicz,Received,Full Transfer,0.6,-0.6
+2010/11,8,Fulham,Mousa Dembele,Spent,Full Transfer,6,6
+2010/11,8,Fulham,Rafik Halliche,Spent,Full Transfer,2.5,2.5
+2010/11,8,Fulham,Carlos Salcido,Spent,Full Transfer,1.95,1.95
+2010/11,8,Fulham,Steve Sidwell,Spent,Full Transfer,0.6,0.6
+2010/11,8,Fulham,Chris Smalling,Received,Full Transfer,8,-8
+2010/11,8,Fulham,Paul Konchesky,Received,Full Transfer,4,-4
+2010/11,8,Fulham,David Elm,Received,Full Transfer,0.36,-0.36
+2010/11,9,Aston Villa,Darren Bent,Spent,Full Transfer,21.5,21.5
+2010/11,9,Aston Villa,Stephen Ireland,Spent,Full Transfer,9.7,9.7
+2010/11,9,Aston Villa,Jean II Makoun,Spent,Full Transfer,6.2,6.2
+2010/11,9,Aston Villa,James Milner,Received,Full Transfer,22,-22
+2010/11,9,Aston Villa,Curtis Davies,Received,Full Transfer,4,-4
+2010/11,9,Aston Villa,Nicky Shorey,Received,Full Transfer,1.8,-1.8
+2010/11,9,Aston Villa,Steve Sidwell,Received,Full Transfer,0.6,-0.6
+2010/11,10,Sunderland,Asamoah Gyan,Spent,Full Transfer,16,16
+2010/11,10,Sunderland,Stephane Sessegnon,Spent,Full Transfer,7,7
+2010/11,10,Sunderland,Simon Mignolet,Spent,Full Transfer,2.5,2.5
+2010/11,10,Sunderland,Marco Angeleri,Spent,Full Transfer,1.8,1.8
+2010/11,10,Sunderland,Titus Bramble,Spent,Full Transfer,1.2,1.2
+2010/11,10,Sunderland,Ahmed Elmohamady,Spent,Loan Fee,0.6,0.6
+2010/11,10,Sunderland,Darren Bent,Received,Full Transfer,21.5,-21.5
+2010/11,10,Sunderland,Kenwyne Jones,Received,Full Transfer,9.7,-9.7
+2010/11,10,Sunderland,Lorik Cana,Received,Full Transfer,4.5,-4.5
+2010/11,10,Sunderland,Martyn Waghorn,Received,Full Transfer,3.6,-3.6
+2010/11,10,Sunderland,Daryl Murphy,Received,Full Transfer,1.7,-1.7
+2010/11,10,Sunderland,Marton Fulop,Received,Full Transfer,0.42,-0.42
+2010/11,10,Sunderland,Paulo da Silva,Received,Full Transfer,0.35,-0.35
+2010/11,11,West Bromwich Albion,Peter Odemwingie,Spent,Full Transfer,3,3
+2010/11,11,West Bromwich Albion,Somen Tchoyi,Spent,Full Transfer,3,3
+2010/11,11,West Bromwich Albion,Marc Antoine Fortune,Spent,Full Transfer,3,3
+2010/11,11,West Bromwich Albion,Nicky Shorey,Spent,Full Transfer,1.8,1.8
+2010/11,11,West Bromwich Albion,Boaz Myhill,Spent,Full Transfer,1.8,1.8
+2010/11,11,West Bromwich Albion,Gabriel Tamas,Spent,Full Transfer,0.93,0.93
+2010/11,11,West Bromwich Albion,Craig Dawson,Spent,Full Transfer,0.3,0.3
+2010/11,11,West Bromwich Albion,Luke Moore,Received,Full Transfer,1,-1
+2010/11,11,West Bromwich Albion,Leon Barnett,Received,Full Transfer,0.85,-0.85
+2010/11,12,Newcastle United,Hatem Ben Arfa,Spent,Full Transfer,6,6
+2010/11,12,Newcastle United,Cheik Tiote,Spent,Full Transfer,4.28,4.28
+2010/11,12,Newcastle United,Hatem Ben Arfa,Spent,Loan Fee,2.5,2.5
+2010/11,12,Newcastle United,James Perch,Spent,Full Transfer,1.2,1.2
+2010/11,12,Newcastle United,Andy Carroll,Received,Full Transfer,41,-41
+2010/11,12,Newcastle United,Fraser Forster,Received,Loan Fee,0.75,-0.75
+2010/11,13,Stoke City,Kenwyne Jones,Spent,Full Transfer,9.7,9.7
+2010/11,13,Stoke City,Marc Wilson,Spent,Full Transfer,3.6,3.6
+2010/11,13,Stoke City,Jonathan Walters,Spent,Full Transfer,3.3,3.3
+2010/11,13,Stoke City,Eidur Gudjohnsen,Spent,Full Transfer,2.5,2.5
+2010/11,13,Stoke City,Jermaine Pennant,Spent,Full Transfer,2,2
+2010/11,13,Stoke City,Tuncay Sanli,Received,Full Transfer,4.5,-4.5
+2010/11,13,Stoke City,James Beattie,Received,Full Transfer,1.8,-1.8
+2010/11,13,Stoke City,Andy Griffin,Received,Full Transfer,0.47,-0.47
+2010/11,14,Bolton Wanderers,David Wheater,Spent,Full Transfer,2.75,2.75
+2010/11,14,Bolton Wanderers,Marcos Alonso,Spent,Full Transfer,2.4,2.4
+2010/11,14,Bolton Wanderers,Tom Eaves,Spent,Full Transfer,0.24,0.24
+2010/11,14,Bolton Wanderers,Chris Basham,Received,Full Transfer,1.4,-1.4
+2010/11,15,Blackburn Rovers,Mauro Formica,Spent,Full Transfer,4,4
+2010/11,15,Blackburn Rovers,Jermaine Jones,Spent,Loan Fee,0.6,0.6
+2010/11,15,Blackburn Rovers,Ruben Rochina,Spent,Full Transfer,0.45,0.45
+2010/11,15,Blackburn Rovers,Alex Marrow,Received,Full Transfer,0.27,-0.27
+2010/11,16,Wigan Athletic,Ronnie Stam,Spent,Full Transfer,4,4
+2010/11,16,Wigan Athletic,Mauro Boselli,Spent,Full Transfer,3.7,3.7
+2010/11,16,Wigan Athletic,Franco Di Santo,Spent,Full Transfer,2.4,2.4
+2010/11,16,Wigan Athletic,Conor Sammon,Spent,Full Transfer,0.7,0.7
+2010/11,16,Wigan Athletic,James McArthur,Spent,Full Transfer,0.6,0.6
+2010/11,16,Wigan Athletic,Titus Bramble,Received,Full Transfer,1.2,-1.2
+2010/11,16,Wigan Athletic,Jason Scotland,Received,Full Transfer,1.2,-1.2
+2010/11,16,Wigan Athletic,Mauro Boselli,Received,Loan Fee,1,-1
+2010/11,17,Wolverhampton Wanderers,Steven Fletcher,Spent,Full Transfer,7.2,7.2
+2010/11,17,Wolverhampton Wanderers,Stephen Hunt,Spent,Full Transfer,3.6,3.6
+2010/11,17,Wolverhampton Wanderers,Jelle Van Damme,Spent,Full Transfer,3.25,3.25
+2010/11,17,Wolverhampton Wanderers,Steven Mouyokolo,Spent,Full Transfer,3,3
+2010/11,17,Wolverhampton Wanderers,Adlene Guedioura,Spent,Full Transfer,2.3,2.3
+2010/11,17,Wolverhampton Wanderers,Adam Hammill,Spent,Full Transfer,0.6,0.6
+2010/11,17,Wolverhampton Wanderers,Leigh Griffiths,Spent,Full Transfer,0.17,0.17
+2010/11,17,Wolverhampton Wanderers,Matt Doherty,Spent,Full Transfer,0.02,0.02
+2010/11,17,Wolverhampton Wanderers,Jelle Van Damme,Received,Full Transfer,2.5,-2.5
+2010/11,17,Wolverhampton Wanderers,Andrew Surman,Received,Full Transfer,1.68,-1.68
+2010/11,17,Wolverhampton Wanderers,Jason Shackell,Received,Full Transfer,0.78,-0.78
+2010/11,17,Wolverhampton Wanderers,Chris Iwelumo,Received,Full Transfer,0.75,-0.75
+2010/11,18,Birmingham City,Nikola Zigic,Spent,Full Transfer,7,7
+2010/11,18,Birmingham City,Ben Foster,Spent,Full Transfer,7,7
+2010/11,18,Birmingham City,Jean Beausejour ,Spent,Full Transfer,4.8,4.8
+2010/11,18,Birmingham City,Curtis Davies,Spent,Full Transfer,4,4
+2010/11,18,Birmingham City,Aleksandr Hleb,Spent,Loan Fee,1.2,1.2
+2010/11,18,Birmingham City,Martin Jiranek,Spent,Full Transfer,0.6,0.6
+2010/11,18,Birmingham City,Matt Derbyshire,Spent,Loan Fee,0.6,0.6
+2010/11,18,Birmingham City,Obafemi Martins,Spent,Loan Fee,0.4,0.4
+2010/11,18,Birmingham City,Michel,Received,Loan Fee,0.17,-0.17
+2010/11,19,Blackpool,Elliot Grandin,Spent,Full Transfer,1.5,1.5
+2010/11,19,Blackpool,DJ Campbell,Spent,Full Transfer,1.5,1.5
+2010/11,19,Blackpool,Chris Basham,Spent,Full Transfer,1.4,1.4
+2010/11,19,Blackpool,Craig Cathcart,Spent,Full Transfer,0.62,0.62
+2010/11,19,Blackpool,Matt Phillips,Spent,Full Transfer,0.4,0.4
+2010/11,19,Blackpool,Sergey Kornilenko,Spent,Loan Fee,0.3,0.3
+2010/11,19,Blackpool,Ben Burgess,Received,Full Transfer,0.7,-0.7
+2010/11,20,West Ham United,Pablo Barrera,Spent,Full Transfer,4.8,4.8
+2010/11,20,West Ham United,Winson Raid,Spent,Full Transfer,4.2,4.2
+2010/11,20,West Ham United,Gary O'Neil,Spent,Full Transfer,2.9,2.9
+2010/11,20,West Ham United,Robbie Keane,Spent,Loan Fee,1.2,1.2
+2010/11,20,West Ham United,Frederic Piquionne,Spent,Full Transfer,1.2,1.2
+2010/11,20,West Ham United,Demba Ba,Spent,Full Transfer,0.8,0.8
+2010/11,20,West Ham United,Wayne Bridge,Spent,Loan Fee,0.35,0.35
+2010/11,20,West Ham United,Ruud Boffin,Spent,Full Transfer,0.3,0.3
+2010/11,20,West Ham United,Paul McCallum,Spent,Full Transfer,0.07,0.07
+2010/11,20,West Ham United,Alessandro Diamanti,Received,Full Transfer,2.2,-2.2
+2010/11,20,West Ham United,Valon Behrami,Received,Full Transfer,2,-2
+2010/11,20,West Ham United,Fabio Daprela,Received,Full Transfer,0.75,-0.75
+2011/12,1,Manchester City,Sergio Aguero,Spent,Full Transfer,36,36
+2011/12,1,Manchester City,Samir Nasri,Spent,Full Transfer,27.5,27.5
+2011/12,1,Manchester City,Stefan Savic,Spent,Full Transfer,12,12
+2011/12,1,Manchester City,Gael Clichy,Spent,Full Transfer,7.75,7.75
+2011/12,1,Manchester City,Costel Pantilimon,Spent,Full Transfer,3.3,3.3
+2011/12,1,Manchester City,Costel Pantilimon,Spent,Loan Fee,0.5,0.5
+2011/12,1,Manchester City,Jerome Boateng,Received,Full Transfer,13.5,-13.5
+2011/12,1,Manchester City,Nedum Onouha,Received,Full Transfer,4.7,-4.7
+2011/12,1,Manchester City,Shaun Wright Phillips,Received,Full Transfer,4.5,-4.5
+2011/12,1,Manchester City,Shay Given,Received,Full Transfer,3.75,-3.75
+2011/12,1,Manchester City,Emmanuel Adebayor,Received,Loan Fee,2.25,-2.25
+2011/12,1,Manchester City,Felipe Caicedo,Received,Full Transfer,1,-1
+2011/12,2,Manchester United,David de Gea,Spent,Full Transfer,25,25
+2011/12,2,Manchester United,Phil Jones,Spent,Full Transfer,19.3,19.3
+2011/12,2,Manchester United,Ashley Young,Spent,Full Transfer,18,18
+2011/12,2,Manchester United,John O'Shea,Received,Full Transfer,4.5,-4.5
+2011/12,2,Manchester United,Gabriel Obertan,Received,Full Transfer,3.4,-3.4
+2011/12,2,Manchester United,Mame Diouf,Received,Full Transfer,1.8,-1.8
+2011/12,2,Manchester United,Wes Brown,Received,Full Transfer,1.5,-1.5
+2011/12,2,Manchester United,Bebe,Received,Loan Fee,1,-1
+2011/12,2,Manchester United,Danny Drinkwater,Received,Full Transfer,0.9,-0.9
+2011/12,2,Manchester United,Darron Gibson,Received,Full Transfer,0.6,-0.6
+2011/12,2,Manchester United,Corry Evans,Received,Full Transfer,0.57,-0.57
+2011/12,2,Manchester United,Joshua King,Received,Loan Fee,0.1,-0.1
+2011/12,2,Manchester United,Joe Dudgeon,Received,Full Transfer,0.01,-0.01
+2011/12,3,Arsenal,Alex Oxlade Chamberlain,Spent,Full Transfer,13.8,13.8
+2011/12,3,Arsenal,Gervinho,Spent,Full Transfer,12,12
+2011/12,3,Arsenal,Mikel Arteta,Spent,Full Transfer,12,12
+2011/12,3,Arsenal,Per Mertesacker,Spent,Full Transfer,11.3,11.3
+2011/12,3,Arsenal,Andre Santos,Spent,Full Transfer,7,7
+2011/12,3,Arsenal,Chu Young Park,Spent,Full Transfer,6.5,6.5
+2011/12,3,Arsenal,Carl Jenkinson,Spent,Full Transfer,1.13,1.13
+2011/12,3,Arsenal,Joel Campbell,Spent,Full Transfer,1,1
+2011/12,3,Arsenal,Thomas Eisfeld,Spent,Full Transfer,0.75,0.75
+2011/12,3,Arsenal,Cesc Fabregas,Received,Full Transfer,34,-34
+2011/12,3,Arsenal,Samir Nasri,Received,Full Transfer,27.5,-27.5
+2011/12,3,Arsenal,Gael Clichy,Received,Full Transfer,7.75,-7.75
+2011/12,3,Arsenal,Emmanuel Eboue,Received,Full Transfer,3.5,-3.5
+2011/12,3,Arsenal,Armand Traore,Received,Full Transfer,1.35,-1.35
+2011/12,3,Arsenal,Jay Emmanuel Thomas,Received,Full Transfer,1.25,-1.25
+2011/12,3,Arsenal,Andrey Arshavin,Received,Loan Fee,1.2,-1.2
+2011/12,3,Arsenal,Nicklas Bendtner,Received,Loan Fee,1,-1
+2011/12,3,Arsenal,Denilson,Received,Loan Fee,0.4,-0.4
+2011/12,3,Arsenal,Pedro Botelho,Received,Loan Fee,0.34,-0.34
+2011/12,4,Tottenham Hotspur,Scott Parker,Spent,Full Transfer,6.2,6.2
+2011/12,4,Tottenham Hotspur,Emmanuel Adebayor,Spent,Loan Fee,2.25,2.25
+2011/12,4,Tottenham Hotspur,Iago Falque,Spent,Full Transfer,1,1
+2011/12,4,Tottenham Hotspur,Peter Crouch,Received,Full Transfer,11.3,-11.3
+2011/12,4,Tottenham Hotspur,Roman Pavlyuchenko,Received,Full Transfer,9,-9
+2011/12,4,Tottenham Hotspur,Wilson Palacios,Received,Full Transfer,9,-9
+2011/12,4,Tottenham Hotspur,Alan Hutton,Received,Full Transfer,4.5,-4.5
+2011/12,4,Tottenham Hotspur,Jamie O'Hara,Received,Full Transfer,3.75,-3.75
+2011/12,4,Tottenham Hotspur,Robbie Keane,Received,Full Transfer,3.75,-3.75
+2011/12,4,Tottenham Hotspur,Jermaine Jenas,Received,Loan Fee,1,-1
+2011/12,4,Tottenham Hotspur,Vedran Corluka,Received,Loan Fee,0.55,-0.55
+2011/12,4,Tottenham Hotspur,Paul Jose Mpoku,Received,Full Transfer,0.4,-0.4
+2011/12,5,Newcastle United,Papiss Demba Cisse,Spent,Full Transfer,12,12
+2011/12,5,Newcastle United,Davide Santon,Spent,Full Transfer,5.65,5.65
+2011/12,5,Newcastle United,Yohan Cabaye,Spent,Full Transfer,5,5
+2011/12,5,Newcastle United,Gabriel Obertan,Spent,Full Transfer,3.4,3.4
+2011/12,5,Newcastle United,Jose Enrique,Received,Full Transfer,8,-8
+2011/12,5,Newcastle United,Kevin Nolan,Received,Full Transfer,3.4,-3.4
+2011/12,5,Newcastle United,Wayne Routledge,Received,Full Transfer,3.25,-3.25
+2011/12,5,Newcastle United,Kazenga LuaLua,Received,Full Transfer,1.28,-1.28
+2011/12,5,Newcastle United,Fraser Forster,Received,Loan Fee,0.11,-0.11
+2011/12,6,Chelsea,Juan Mata,Spent,Full Transfer,26.7,26.7
+2011/12,6,Chelsea,Romelu Lukaku,Spent,Full Transfer,15,15
+2011/12,6,Chelsea,Raul Miereles,Spent,Full Transfer,13.5,13.5
+2011/12,6,Chelsea,Thibaut Courtois,Spent,Full Transfer,8.95,8.95
+2011/12,6,Chelsea,Gary Cahill,Spent,Full Transfer,8.4,8.4
+2011/12,6,Chelsea,Kevin De Bruyne,Spent,Full Transfer,8,8
+2011/12,6,Chelsea,Lucas Piazon,Spent,Full Transfer,7.5,7.5
+2011/12,6,Chelsea,Oriol Romeu,Spent,Full Transfer,4.6,4.6
+2011/12,6,Chelsea,Ulises Davila,Spent,Full Transfer,2,2
+2011/12,6,Chelsea,Patrick Bamford,Spent,Full Transfer,1.8,1.8
+2011/12,6,Chelsea,Yuri Zhirkov,Received,Full Transfer,15,-15
+2011/12,6,Chelsea,Alex,Received,Full Transfer,5,-5
+2011/12,6,Chelsea,Nemanja Matic,Received,Full Transfer,5,-5
+2011/12,6,Chelsea,Michael Mancienne,Received,Full Transfer,2.5,-2.5
+2011/12,6,Chelsea,Slobodan Rajkovic,Received,Full Transfer,2,-2
+2011/12,6,Chelsea,Thibaut Courtois,Received,Loan Fee,1.2,-1.2
+2011/12,6,Chelsea,Jack Cork,Received,Full Transfer,0.84,-0.84
+2011/12,6,Chelsea,Jeffrey Bruma,Received,Loan Fee,0.5,-0.5
+2011/12,6,Chelsea,Fabio Borini,Received,Full Transfer,0.36,-0.36
+2011/12,7,Everton,Nikica Jelavic,Spent,Full Transfer,6.6,6.6
+2011/12,7,Everton,Darron Gibson,Spent,Full Transfer,0.6,0.6
+2011/12,7,Everton,Mikel Arteta,Received,Full Transfer,12,-12
+2011/12,7,Everton,Diniyar Bilyaletdinov,Received,Full Transfer,6.7,-6.7
+2011/12,7,Everton,Jermaine Beckford,Received,Full Transfer,3.4,-3.4
+2011/12,7,Everton,James Vaughan,Received,Full Transfer,2.3,-2.3
+2011/12,7,Everton,Yakubu Aiyegbeni,Received,Full Transfer,1.7,-1.7
+2011/12,7,Everton,Joseph Yobo,Received,Loan Fee,0.7,-0.7
+2011/12,8,Liverpool,Stewart Downing,Spent,Full Transfer,22.8,22.8
+2011/12,8,Liverpool,Jordan Henderson,Spent,Full Transfer,18,18
+2011/12,8,Liverpool,Charlie Adam,Spent,Full Transfer,8.4,8.4
+2011/12,8,Liverpool,Sebastian Coates,Spent,Full Transfer,8,8
+2011/12,8,Liverpool,Jose Enrique,Spent,Full Transfer,8,8
+2011/12,8,Liverpool,Joao Teixeira,Spent,Full Transfer,1.2,1.2
+2011/12,8,Liverpool,Danny Ward,Spent,Full Transfer,0.12,0.12
+2011/12,8,Liverpool,Raul Miereles,Received,Full Transfer,13.5,-13.5
+2011/12,8,Liverpool,David N'Gog,Received,Full Transfer,4.5,-4.5
+2011/12,8,Liverpool,Paul Konchesky,Received,Full Transfer,1.7,-1.7
+2011/12,8,Liverpool,Emiliano Insua,Received,Full Transfer,1.5,-1.5
+2011/12,8,Liverpool,Tom Ince,Received,Full Transfer,1.05,-1.05
+2011/12,8,Liverpool,Daniel Ayala,Received,Full Transfer,0.9,-0.9
+2011/12,8,Liverpool,Milan Jovanovic,Received,Full Transfer,0.8,-0.8
+2011/12,9,Fulham,Bryan Ruiz,Spent,Full Transfer,12,12
+2011/12,9,Fulham,John Arne Riise,Spent,Full Transfer,2.6,2.6
+2011/12,9,Fulham,Pajtim Kasami,Spent,Full Transfer,1.6,1.6
+2011/12,9,Fulham,Marcel Gecov,Spent,Full Transfer,0.8,0.8
+2011/12,9,Fulham,Ryan Williams,Spent,Full Transfer,0.6,0.6
+2011/12,9,Fulham,Pavel Pogrebnyak,Spent,Full Transfer,0.5,0.5
+2011/12,9,Fulham,Jack Grimmer,Spent,Full Transfer,0.25,0.25
+2011/12,9,Fulham,Bobby Zamora,Received,Full Transfer,5.8,-5.8
+2011/12,9,Fulham,Jonathan Greening,Received,Full Transfer,0.7,-0.7
+2011/12,9,Fulham,Kagisho Dikgacoi,Received,Full Transfer,0.67,-0.67
+2011/12,9,Fulham,Carlos Salcido,Received,Full Transfer,0.5,-0.5
+2011/12,10,West Bromwich Albion,Shane Long,Spent,Full Transfer,5.1,5.1
+2011/12,10,West Bromwich Albion,Liam Ridgewell,Spent,Full Transfer,2.4,2.4
+2011/12,10,West Bromwich Albion,Ben Foster,Spent,Loan Fee,1.1,1.1
+2011/12,10,West Bromwich Albion,Scott Allan,Spent,Full Transfer,0.48,0.48
+2011/12,10,West Bromwich Albion,Borja Valero,Received,Full Transfer,6,-6
+2011/12,10,West Bromwich Albion,Scott Carson,Received,Full Transfer,2.2,-2.2
+2011/12,10,West Bromwich Albion,Ishmael Miller,Received,Full Transfer,1.35,-1.35
+2011/12,10,West Bromwich Albion,Marek Cech,Received,Full Transfer,1,-1
+2011/12,10,West Bromwich Albion,Pablo Ibanez,Received,Full Transfer,0.57,-0.57
+2011/12,11,Swansea City,Danny Graham,Spent,Full Transfer,3.9,3.9
+2011/12,11,Swansea City,Wayne Routledge,Spent,Full Transfer,3.25,3.25
+2011/12,11,Swansea City,Leroy Lita,Spent,Full Transfer,2,2
+2011/12,11,Swansea City,Michel Vorm,Spent,Full Transfer,1.7,1.7
+2011/12,11,Swansea City,Jose Moreira,Spent,Full Transfer,0.85,0.85
+2011/12,11,Swansea City,Gylfi Sigurdsson,Spent,Loan Fee,0.5,0.5
+2011/12,11,Swansea City,Darnel Situ,Spent,Full Transfer,0.28,0.28
+2011/12,11,Swansea City,Curtis Obeng,Spent,Full Transfer,0.24,0.24
+2011/12,11,Swansea City,Rory Donnelly,Spent,Full Transfer,0.12,0.12
+2011/12,11,Swansea City,Ryan Harley,Received,Full Transfer,0.28,-0.28
+2011/12,11,Swansea City,Shaun MacDonald,Received,Full Transfer,0.17,-0.17
+2011/12,12,Norwich City,Ryan Bennett,Spent,Full Transfer,3.85,3.85
+2011/12,12,Norwich City,Steve Morison,Spent,Full Transfer,3.15,3.15
+2011/12,12,Norwich City,James Vaughan,Spent,Full Transfer,2.3,2.3
+2011/12,12,Norwich City,Anthony Pilkington,Spent,Full Transfer,2.25,2.25
+2011/12,12,Norwich City,Elliott Bennett,Spent,Full Transfer,1.7,1.7
+2011/12,12,Norwich City,Jonathan Howson,Spent,Full Transfer,1.1,1.1
+2011/12,12,Norwich City,Daniel Ayala,Spent,Full Transfer,0.9,0.9
+2011/12,12,Norwich City,Cody McDonald,Received,Full Transfer,0.45,-0.45
+2011/12,13,Sunderland,Connor Wickham,Spent,Full Transfer,9,9
+2011/12,13,Sunderland,Craig Gardner,Spent,Full Transfer,6.6,6.6
+2011/12,13,Sunderland,John O'Shea,Spent,Full Transfer,4.5,4.5
+2011/12,13,Sunderland,Ahmed Elmohamady,Spent,Full Transfer,2.5,2.5
+2011/12,13,Sunderland,Dong Won Ji,Spent,Full Transfer,2.4,2.4
+2011/12,13,Sunderland,Wes Brown,Spent,Full Transfer,1.5,1.5
+2011/12,13,Sunderland,Nicklas Bendtner,Spent,Loan Fee,1,1
+2011/12,13,Sunderland,James McClean,Spent,Full Transfer,0.75,0.75
+2011/12,13,Sunderland,Jordan Henderson,Received,Full Transfer,18,-18
+2011/12,13,Sunderland,Asamoah Gyan,Received,Loan Fee,7,-7
+2011/12,13,Sunderland,Anton Ferdinand,Received,Full Transfer,1.13,-1.13
+2011/12,13,Sunderland,Cristian Riveros,Received,Loan Fee,0.2,-0.2
+2011/12,14,Stoke City,Peter Crouch,Spent,Full Transfer,11.3,11.3
+2011/12,14,Stoke City,Wilson Palacios,Spent,Full Transfer,9,9
+2011/12,14,Stoke City,Cameron Jerome,Spent,Full Transfer,4.5,4.5
+2011/12,14,Stoke City,Ben Marshall,Received,Full Transfer,1.1,-1.1
+2011/12,14,Stoke City,Danny Pugh,Received,Full Transfer,0.59,-0.59
+2011/12,14,Stoke City,Carl Dickinson,Received,Full Transfer,0.28,-0.28
+2011/12,15,Wigan Athletic,Jean Beausejour ,Spent,Full Transfer,4.7,4.7
+2011/12,15,Wigan Athletic,Ali Al Habsi,Spent,Full Transfer,4.3,4.3
+2011/12,15,Wigan Athletic,Albert Crusat,Spent,Full Transfer,2.25,2.25
+2011/12,15,Wigan Athletic,Shaun Maloney,Spent,Full Transfer,1.13,1.13
+2011/12,15,Wigan Athletic,Charles N'Zogbia,Received,Full Transfer,10.8,-10.8
+2011/12,15,Wigan Athletic,Antonio Amaya,Received,Full Transfer,0.28,-0.28
+2011/12,15,Wigan Athletic,Mauro Boselli,Received,Loan Fee,0.2,-0.2
+2011/12,16,Aston Villa,Charles N'Zogbia,Spent,Full Transfer,10.8,10.8
+2011/12,16,Aston Villa,Alan Hutton,Spent,Full Transfer,4.5,4.5
+2011/12,16,Aston Villa,Shay Given,Spent,Full Transfer,3.75,3.75
+2011/12,16,Aston Villa,Jermaine Jenas,Spent,Loan Fee,1,1
+2011/12,16,Aston Villa,Enda Stevens,Spent,Full Transfer,0.28,0.28
+2011/12,16,Aston Villa,Stewart Downing,Received,Full Transfer,22.8,-22.8
+2011/12,16,Aston Villa,Ashley Young,Received,Full Transfer,18,-18
+2011/12,16,Aston Villa,Jean II Makoun,Received,Loan Fee,1.55,-1.55
+2011/12,16,Aston Villa,Luke Young,Received,Full Transfer,1.13,-1.13
+2011/12,16,Aston Villa,Shane Lowry,Received,Full Transfer,0.27,-0.27
+2011/12,17,Queens Park Rangers,Bobby Zamora,Spent,Full Transfer,5.8,5.8
+2011/12,17,Queens Park Rangers,Djibril Cisse,Spent,Full Transfer,5,5
+2011/12,17,Queens Park Rangers,Nedum Onouha,Spent,Full Transfer,4.7,4.7
+2011/12,17,Queens Park Rangers,Shaun Wright Phillips,Spent,Full Transfer,4.5,4.5
+2011/12,17,Queens Park Rangers,DJ Campbell,Spent,Full Transfer,2,2
+2011/12,17,Queens Park Rangers,Armand Traore,Spent,Full Transfer,1.35,1.35
+2011/12,17,Queens Park Rangers,Anton Ferdinand,Spent,Full Transfer,1.13,1.13
+2011/12,17,Queens Park Rangers,Luke Young,Spent,Full Transfer,1.13,1.13
+2011/12,17,Queens Park Rangers,Samba Diakite,Spent,Loan Fee,0.4,0.4
+2011/12,17,Queens Park Rangers,Jason Puncheon,Spent,Loan Fee,0.22,0.22
+2011/12,17,Queens Park Rangers,Bradley Orr,Received,Full Transfer,1.8,-1.8
+2011/12,17,Queens Park Rangers,Kaspars Gorkss,Received,Full Transfer,1,-1
+2011/12,18,Bolton Wanderers,David N'Gog,Spent,Full Transfer,4.5,4.5
+2011/12,18,Bolton Wanderers,Marvin Sordell,Spent,Full Transfer,3.6,3.6
+2011/12,18,Bolton Wanderers,Tim Ream,Spent,Full Transfer,3.1,3.1
+2011/12,18,Bolton Wanderers,Chris Eagles,Spent,Full Transfer,1.7,1.7
+2011/12,18,Bolton Wanderers,Tyrone Mears,Spent,Full Transfer,1.7,1.7
+2011/12,18,Bolton Wanderers,Tuncay Sanli,Spent,Loan Fee,1,1
+2011/12,18,Bolton Wanderers,Gary Cahill,Received,Full Transfer,8.4,-8.4
+2011/12,18,Bolton Wanderers,Ali Al Habsi,Received,Full Transfer,4.3,-4.3
+2011/12,18,Bolton Wanderers,Matthew Taylor,Received,Full Transfer,2.5,-2.5
+2011/12,18,Bolton Wanderers,Danny Ward,Received,Full Transfer,1.13,-1.13
+2011/12,19,Blackburn Rovers,Scott Dann,Spent,Full Transfer,6.8,6.8
+2011/12,19,Blackburn Rovers,David Goodwillie,Spent,Full Transfer,3.4,3.4
+2011/12,19,Blackburn Rovers,Radosav Petrovic,Spent,Full Transfer,3.3,3.3
+2011/12,19,Blackburn Rovers,Simon Vukcevic,Spent,Full Transfer,2.3,2.3
+2011/12,19,Blackburn Rovers,Bardley Orr,Spent,Full Transfer,1.8,1.8
+2011/12,19,Blackburn Rovers,Yakubu Aiyegbeni,Spent,Full Transfer,1.7,1.7
+2011/12,19,Blackburn Rovers,Jordan Slew,Spent,Full Transfer,1.25,1.25
+2011/12,19,Blackburn Rovers,Phil Jones,Received,Full Transfer,19.3,-19.3
+2011/12,19,Blackburn Rovers,Christopher Samba,Received,Full Transfer,14,-14
+2011/12,19,Blackburn Rovers,Nikola Kalinic,Received,Full Transfer,6,-6
+2011/12,19,Blackburn Rovers,Jason Roberts,Received,Full Transfer,0.5,-0.5
+2011/12,19,Blackburn Rovers,Frank Fielding,Received,Full Transfer,0.35,-0.35
+2011/12,20,Wolverhampton Wanderers,Roger Johnson,Spent,Full Transfer,8,8
+2011/12,20,Wolverhampton Wanderers,Jamie O'Hara,Spent,Full Transfer,3.75,3.75
+2011/12,20,Wolverhampton Wanderers,Eggert Gunnthor Jonsson,Spent,Full Transfer,0.3,0.3
+2011/12,20,Wolverhampton Wanderers,Stegan Maierhofer,Received,Full Transfer,1.15,-1.15
+2011/12,20,Wolverhampton Wanderers,Greg Halford,Received,Full Transfer,1,-1
+2011/12,20,Wolverhampton Wanderers,Andy Keogh,Received,Full Transfer,0.27,-0.27
+2011/12,20,Wolverhampton Wanderers,Scott Malone,Received,Full Transfer,0.18,-0.18
+2012/13,1,Manchester United,Robin van Persie,Spent,Full Transfer,30.7,30.7
+2012/13,1,Manchester United,Shinji Kagawa,Spent,Full Transfer,16,16
+2012/13,1,Manchester United,Wilfried Zaha,Spent,Full Transfer,11.75,11.75
+2012/13,1,Manchester United,Nick Powell,Spent,Full Transfer,7.5,7.5
+2012/13,1,Manchester United,Angelo Henriquez,Spent,Full Transfer,5.5,5.5
+2012/13,1,Manchester United,Alexander Buttner,Spent,Full Transfer,5,5
+2012/13,1,Manchester United,Dimitar Berbatov,Received,Full Transfer,5,-5
+2012/13,1,Manchester United,Ji Sung Park,Received,Full Transfer,3.1,-3.1
+2012/13,1,Manchester United,Ritchie De Laet,Received,Full Transfer,1.25,-1.25
+2012/13,1,Manchester United,Joshua King,Received,Full Transfer,1.23,-1.23
+2012/13,1,Manchester United,Federico Macheda,Received,Loan Fee,0.3,-0.3
+2012/13,2,Manchester City,Javi Garcia,Spent,Full Transfer,20.2,20.2
+2012/13,2,Manchester City,Matija Nastasic,Spent,Full Transfer,15.2,15.2
+2012/13,2,Manchester City,Jack Rodwell,Spent,Full Transfer,15,15
+2012/13,2,Manchester City,Scott Sinclair,Spent,Full Transfer,7.8,7.8
+2012/13,2,Manchester City,Maicon,Spent,Full Transfer,3.75,3.75
+2012/13,2,Manchester City,Mario Balotelli,Received,Full Transfer,20,-20
+2012/13,2,Manchester City,Adam Johnson,Received,Full Transfer,12.6,-12.6
+2012/13,2,Manchester City,Emmanuel Adebayor,Received,Full Transfer,6.4,-6.4
+2012/13,2,Manchester City,Nigel de Jong,Received,Full Transfer,3.5,-3.5
+2012/13,2,Manchester City,Vladimir Weiss,Received,Full Transfer,1.8,-1.8
+2012/13,3,Chelsea,Eden Hazard,Spent,Full Transfer,35,35
+2012/13,3,Chelsea,Oscar,Spent,Full Transfer,32,32
+2012/13,3,Chelsea,Victor Moses,Spent,Full Transfer,11.5,11.5
+2012/13,3,Chelsea,Cesar Azpilicueta,Spent,Full Transfer,8.8,8.8
+2012/13,3,Chelsea,Demba Ba,Spent,Full Transfer,8.5,8.5
+2012/13,3,Chelsea,Marko Marin,Spent,Full Transfer,8,8
+2012/13,3,Chelsea,Wallace Oliveira,Spent,Full Transfer,5.4,5.4
+2012/13,3,Chelsea,Thorgan Hazard,Spent,Full Transfer,0.5,0.5
+2012/13,3,Chelsea,Daniel Sturridge,Received,Full Transfer,15,-15
+2012/13,3,Chelsea,Raul Miereles,Received,Full Transfer,10,-10
+2012/13,3,Chelsea,Kevin De Bruyne,Received,Loan Fee,0.45,-0.45
+2012/13,4,Arsenal,Santi Cazorla,Spent,Full Transfer,19,19
+2012/13,4,Arsenal,Lukas Podolski,Spent,Full Transfer,15,15
+2012/13,4,Arsenal,Olivier Giroud,Spent,Full Transfer,12,12
+2012/13,4,Arsenal,Nacho Monreal,Spent,Full Transfer,10,10
+2012/13,4,Arsenal,Robin van Persie,Received,Full Transfer,30.7,-30.7
+2012/13,4,Arsenal,Alex Song,Received,Full Transfer,19,-19
+2012/13,4,Arsenal,Carlos Vela,Received,Full Transfer,14,-14
+2012/13,4,Arsenal,Henri Lansbury,Received,Full Transfer,1.25,-1.25
+2012/13,4,Arsenal,Chu Young Park,Received,Loan Fee,0.5,-0.5
+2012/13,4,Arsenal,Johan Djourou,Received,Loan Fee,0.4,-0.4
+2012/13,5,Tottenham Hotspur,Mousa Dembele,Spent,Full Transfer,19,19
+2012/13,5,Tottenham Hotspur,Hugo Lloris,Spent,Full Transfer,12.6,12.6
+2012/13,5,Tottenham Hotspur,Jan Vertonghen,Spent,Full Transfer,12.5,12.5
+2012/13,5,Tottenham Hotspur,Gylfi Sigurdsson,Spent,Full Transfer,10,10
+2012/13,5,Tottenham Hotspur,Clint Dempsey,Spent,Full Transfer,7.5,7.5
+2012/13,5,Tottenham Hotspur,Emmanuel Adebayor,Spent,Full Transfer,6.4,6.4
+2012/13,5,Tottenham Hotspur,Zeki Fryers,Spent,Full Transfer,3.5,3.5
+2012/13,5,Tottenham Hotspur,Lewis Holtby,Spent,Full Transfer,1.75,1.75
+2012/13,5,Tottenham Hotspur,Luka Modric,Received,Full Transfer,30,-30
+2012/13,5,Tottenham Hotspur,Rafael van der Vaart,Received,Full Transfer,13,-13
+2012/13,5,Tottenham Hotspur,Niko Kranjcar,Received,Full Transfer,7,-7
+2012/13,5,Tottenham Hotspur,Vedran Corluka,Received,Full Transfer,7,-7
+2012/13,5,Tottenham Hotspur,Steven Pienaar,Received,Full Transfer,5.75,-5.75
+2012/13,5,Tottenham Hotspur,Sebastien Bassong,Received,Full Transfer,3,-3
+2012/13,5,Tottenham Hotspur,Giovani dos Santos,Received,Full Transfer,1,-1
+2012/13,5,Tottenham Hotspur,David Button,Received,Full Transfer,0.63,-0.63
+2012/13,5,Tottenham Hotspur,Heurelho Gomes,Received,Loan Fee,0.4,-0.4
+2012/13,6,Everton,Kevin Mirallas,Spent,Full Transfer,7.65,7.65
+2012/13,6,Everton,Steven Pienaar,Spent,Full Transfer,5.75,5.75
+2012/13,6,Everton,Bryan Oviedo,Spent,Full Transfer,4.5,4.5
+2012/13,6,Everton,John Stones,Spent,Full Transfer,3.5,3.5
+2012/13,6,Everton,Matthew Kennedy,Spent,Full Transfer,0.25,0.25
+2012/13,6,Everton,Jack Rodwell,Received,Full Transfer,15,-15
+2012/13,6,Everton,Joseph Yobo,Received,Full Transfer,2.5,-2.5
+2012/13,6,Everton,Tim Cahill,Received,Full Transfer,1.25,-1.25
+2012/13,7,Liverpool,Joe Allen,Spent,Full Transfer,19,19
+2012/13,7,Liverpool,Daniel Sturridge,Spent,Full Transfer,15,15
+2012/13,7,Liverpool,Fabio Borini,Spent,Full Transfer,13.3,13.3
+2012/13,7,Liverpool,Philippe Coutinho,Spent,Full Transfer,13,13
+2012/13,7,Liverpool,Nuri Sahin,Spent,Loan Fee,5,5
+2012/13,7,Liverpool,Oussama Assaidi,Spent,Full Transfer,4,4
+2012/13,7,Liverpool,Samed Yesil,Spent,Full Transfer,1.3,1.3
+2012/13,7,Liverpool,Charlie Adam,Received,Full Transfer,6.2,-6.2
+2012/13,7,Liverpool,Alberto Aquilani,Received,Full Transfer,2,-2
+2012/13,7,Liverpool,Andy Carroll,Received,Loan Fee,1.25,-1.25
+2012/13,7,Liverpool,Dirk Kuyt,Received,Full Transfer,1,-1
+2012/13,8,West Bromwich Albion,Ben Foster,Spent,Full Transfer,5,5
+2012/13,8,West Bromwich Albion,Simon Cox,Received,Full Transfer,2.5,-2.5
+2012/13,8,West Bromwich Albion,Chris Wood,Received,Full Transfer,1.23,-1.23
+2012/13,9,Swansea City,Sung Yong Ki,Spent,Full Transfer,7,7
+2012/13,9,Swansea City,Pablo Hernandez,Spent,Full Transfer,7,7
+2012/13,9,Swansea City,Michu,Spent,Full Transfer,2.57,2.57
+2012/13,9,Swansea City,Chico,Spent,Full Transfer,2.5,2.5
+2012/13,9,Swansea City,Kyle Bartley,Spent,Full Transfer,1.3,1.3
+2012/13,9,Swansea City,Itay Shechter,Spent,Loan Fee,0.1,0.1
+2012/13,9,Swansea City,Joe Allen,Received,Full Transfer,19,-19
+2012/13,9,Swansea City,Scott Sinclair,Received,Full Transfer,7.8,-7.8
+2012/13,9,Swansea City,Danny Graham,Received,Full Transfer,5.8,-5.8
+2012/13,10,West Ham United,Matt Jarvis,Spent,Full Transfer,9.5,9.5
+2012/13,10,West Ham United,Modibo Maiga,Spent,Full Transfer,6,6
+2012/13,10,West Ham United,James Collins ,Spent,Full Transfer,3.2,3.2
+2012/13,10,West Ham United,Alou Diarra,Spent,Full Transfer,2.5,2.5
+2012/13,10,West Ham United,Andy Carroll,Spent,Loan Fee,1.25,1.25
+2012/13,10,West Ham United,Stephen Henderson,Spent,Full Transfer,0.74,0.74
+2012/13,10,West Ham United,Raphael Spiegel,Spent,Full Transfer,0.4,0.4
+2012/13,10,West Ham United,Emmanuel Pogatetz,Spent,Loan Fee,0.3,0.3
+2012/13,10,West Ham United,Nicky Maynard,Received,Full Transfer,3.15,-3.15
+2012/13,10,West Ham United,Sam Baldock,Received,Full Transfer,1.9,-1.9
+2012/13,11,Norwich City,Robert Snodgrass,Spent,Full Transfer,3.2,3.2
+2012/13,11,Norwich City,Sebastien Bassong,Spent,Full Transfer,3,3
+2012/13,11,Norwich City,Michael Turner,Spent,Full Transfer,1.9,1.9
+2012/13,11,Norwich City,Alexander Tettey,Spent,Full Transfer,1.5,1.5
+2012/13,11,Norwich City,Mark Bunn,Spent,Full Transfer,1.25,1.25
+2012/13,11,Norwich City,Luciano Becchio,Spent,Full Transfer,0.23,0.23
+2012/13,11,Norwich City,Andrew Crofts,Received,Full Transfer,0.38,-0.38
+2012/13,12,Fulham,Dimitar Berbatov,Spent,Full Transfer,5,5
+2012/13,12,Fulham,Ashkan Dejagh,Spent,Full Transfer,2.5,2.5
+2012/13,12,Fulham,Kieran Richardson,Spent,Full Transfer,2.5,2.5
+2012/13,12,Fulham,Mousa Dembele,Received,Full Transfer,19,-19
+2012/13,12,Fulham,Clint Dempsey,Received,Full Transfer,7.5,-7.5
+2012/13,12,Fulham,Dickson Etuhu,Received,Full Transfer,1.9,-1.9
+2012/13,12,Fulham,Stephen Kelly,Received,Full Transfer,1.5,-1.5
+2012/13,12,Fulham,Marcel Gecov,Received,Full Transfer,0.78,-0.78
+2012/13,12,Fulham,Danny Hoesen,Received,Full Transfer,0.5,-0.5
+2012/13,12,Fulham,David Stockdale,Received,Loan Fee,0.24,-0.24
+2012/13,13,Stoke City,Charlie Adam,Spent,Full Transfer,6.2,6.2
+2012/13,13,Stoke City,Steven N'Zonzi,Spent,Full Transfer,4.4,4.4
+2012/13,13,Stoke City,Jack Butland,Spent,Full Transfer,3.8,3.8
+2012/13,13,Stoke City,Michael Kightly,Spent,Full Transfer,3.5,3.5
+2012/13,13,Stoke City,Brek Shea,Spent,Full Transfer,3,3
+2012/13,13,Stoke City,Geoff Cameron,Spent,Full Transfer,2.15,2.15
+2012/13,13,Stoke City,Maurice Edu,Spent,Full Transfer,0.63,0.63
+2012/13,13,Stoke City,Danny Collins,Received,Full Transfer,0.64,-0.64
+2012/13,14,Southampton,Gaston Ramirez,Spent,Full Transfer,15.2,15.2
+2012/13,14,Southampton,Jay Rodriguez,Spent,Full Transfer,8.65,8.65
+2012/13,14,Southampton,Emmanuel Mayuka,Spent,Full Transfer,4,4
+2012/13,14,Southampton,Vegard Forren,Spent,Full Transfer,3.5,3.5
+2012/13,14,Southampton,Nathaniel Clyne,Spent,Full Transfer,3.2,3.2
+2012/13,14,Southampton,Paulo Gazzaniga,Spent,Full Transfer,3.15,3.15
+2012/13,14,Southampton,Maya Yoshida,Spent,Full Transfer,2.8,2.8
+2012/13,14,Southampton,Steven Davis,Spent,Full Transfer,1,1
+2012/13,15,Aston Villa,Christian Benteke,Spent,Full Transfer,8.8,8.8
+2012/13,15,Aston Villa,Ron Vlaar,Spent,Full Transfer,3.8,3.8
+2012/13,15,Aston Villa,Matthew Lowton,Spent,Full Transfer,3.75,3.75
+2012/13,15,Aston Villa,Joe Bennett,Spent,Full Transfer,3.15,3.15
+2012/13,15,Aston Villa,Karim El Ahmadi,Spent,Full Transfer,2.8,2.8
+2012/13,15,Aston Villa,Ashley Westwood,Spent,Full Transfer,2.5,2.5
+2012/13,15,Aston Villa,Yacouba Sylla,Spent,Full Transfer,2.4,2.4
+2012/13,15,Aston Villa,Jordan Bowery,Spent,Full Transfer,0.63,0.63
+2012/13,15,Aston Villa,James Collins ,Received,Full Transfer,3.2,-3.2
+2012/13,16,Newcastle United,Vurnon Anita,Spent,Full Transfer,8.5,8.5
+2012/13,16,Newcastle United,Mapou Yanga Mbiwa,Spent,Full Transfer,8,8
+2012/13,16,Newcastle United,Mathieu Debuchy,Spent,Full Transfer,6.2,6.2
+2012/13,16,Newcastle United,Massadio Haidara,Spent,Full Transfer,2.5,2.5
+2012/13,16,Newcastle United,Yoan Gouffran,Spent,Full Transfer,2,2
+2012/13,16,Newcastle United,Moussa Sissoko,Spent,Full Transfer,2,2
+2012/13,16,Newcastle United,Gael Bigirimana,Spent,Full Transfer,1.25,1.25
+2012/13,16,Newcastle United,Kevin Mbabu,Spent,Full Transfer,1,1
+2012/13,16,Newcastle United,Curtis Good,Spent,Full Transfer,0.51,0.51
+2012/13,16,Newcastle United,Demba Ba,Received,Full Transfer,8.5,-8.5
+2012/13,16,Newcastle United,Leon Best,Received,Full Transfer,3.8,-3.8
+2012/13,16,Newcastle United,Fraser Forster,Received,Full Transfer,2.5,-2.5
+2012/13,17,Sunderland,Steven Fletcher,Spent,Full Transfer,15.2,15.2
+2012/13,17,Sunderland,Adam Johnson,Spent,Full Transfer,12.6,12.6
+2012/13,17,Sunderland,Danny Graham,Spent,Full Transfer,5.8,5.8
+2012/13,17,Sunderland,Alfred N'Diaye,Spent,Full Transfer,4.7,4.7
+2012/13,17,Sunderland,Asamoah Gyan,Received,Full Transfer,7.5,-7.5
+2012/13,17,Sunderland,Kieran Richardson,Received,Full Transfer,2.5,-2.5
+2012/13,17,Sunderland,Michael Turner,Received,Full Transfer,1.9,-1.9
+2012/13,17,Sunderland,David Meyler,Received,Full Transfer,1.8,-1.8
+2012/13,17,Sunderland,Frazier Campbell,Received,Full Transfer,0.77,-0.77
+2012/13,17,Sunderland,Cristian Riveros,Received,Full Transfer,0.3,-0.3
+2012/13,17,Sunderland,Dong Won Ji,Received,Loan Fee,0.05,-0.05
+2012/13,18,Wigan Athletic,Ivan Ramis,Spent,Full Transfer,6,6
+2012/13,18,Wigan Athletic,Arouna Kone,Spent,Full Transfer,3.8,3.8
+2012/13,18,Wigan Athletic,Fraser Fyvie,Spent,Full Transfer,0.63,0.63
+2012/13,18,Wigan Athletic,Paul Scharner,Spent,Loan Fee,0.1,0.1
+2012/13,18,Wigan Athletic,Victor Moses,Received,Full Transfer,11.5,-11.5
+2012/13,18,Wigan Athletic,Conor Sammon,Spent,Full Transfer,1.5,1.5
+2012/13,18,Wigan Athletic,Mauro Boselli,Spent,Loan Fee,0.25,0.25
+2012/13,19,Reading,Adrian Mariappa,Spent,Full Transfer,3.8,3.8
+2012/13,19,Reading,Chris Gunter,Spent,Full Transfer,3,3
+2012/13,19,Reading,Stephen Kelly,Spent,Full Transfer,1.5,1.5
+2012/13,19,Reading,Nick Blackman,Spent,Full Transfer,1.4,1.4
+2012/13,19,Reading,Daniel Carrico,Spent,Full Transfer,0.75,0.75
+2012/13,19,Reading,Hope Akpan,Spent,Full Transfer,0.37,0.37
+2012/13,19,Reading,Michail Antonio,Received,Full Transfer,0.9,-0.9
+2012/13,20,Queens Park Rangers,Christopher Samba,Spent,Full Transfer,15,15
+2012/13,20,Queens Park Rangers,Loic Remy,Spent,Full Transfer,10.5,10.5
+2012/13,20,Queens Park Rangers,Esteban Granero,Spent,Full Transfer,8,8
+2012/13,20,Queens Park Rangers,Stephane Mbia,Spent,Full Transfer,6,6
+2012/13,20,Queens Park Rangers,Samba Diakite,Spent,Full Transfer,4,4
+2012/13,20,Queens Park Rangers,Junior Hoilett,Spent,Full Transfer,3.75,3.75
+2012/13,20,Queens Park Rangers,Ji Sung Park,Spent,Full Transfer,3.1,3.1
+2012/13,20,Queens Park Rangers,Djibril Cisse,Received,Loan Fee,2,-2
+2012/13,20,Queens Park Rangers,Alejandro Faurlin,Received,Loan Fee,1,-1
+2012/13,20,Queens Park Rangers,Matthew Connolly,Received,Full Transfer,0.63,-0.63
+2012/13,20,Queens Park Rangers,Paddy Kenny,Received,Full Transfer,0.5,-0.5
+2012/13,20,Queens Park Rangers,Tommy Smith,Received,Full Transfer,0.38,-0.38
+2013/14,1,Manchester City,Fernandinho,Spent,Full Transfer,40,40
+2013/14,1,Manchester City,Stevan Jovetic,Spent,Full Transfer,26,26
+2013/14,1,Manchester City,Alvaro Negredo,Spent,Full Transfer,25,25
+2013/14,1,Manchester City,Jesus Navas,Spent,Full Transfer,20,20
+2013/14,1,Manchester City,Martin Demichelis,Spent,Full Transfer,5,5
+2013/14,1,Manchester City,Carlos Tevez,Received,Full Transfer,9,-9
+2013/14,1,Manchester City,Scott Sinclair,Received,Loan Fee,2.3,-2.3
+2013/14,2,Liverpool,Mamadou Sakho,Spent,Full Transfer,19,19
+2013/14,2,Liverpool,Iago Aspas,Spent,Full Transfer,10.8,10.8
+2013/14,2,Liverpool,Simon Mignolet,Spent,Full Transfer,10.6,10.6
+2013/14,2,Liverpool,Luis Alberto,Spent,Full Transfer,8,8
+2013/14,2,Liverpool,Tiago Ilori,Spent,Full Transfer,7.5,7.5
+2013/14,2,Liverpool,Victor Moses,Spent,Loan Fee,1.2,1.2
+2013/14,2,Liverpool,Aly Cissokho,Spent,Loan Fee,1,1
+2013/14,2,Liverpool,Andy Carroll,Received,Full Transfer,17.5,-17.5
+2013/14,2,Liverpool,Jonjo Shelvey,Received,Full Transfer,5.9,-5.9
+2013/14,2,Liverpool,Stewart Downing,Received,Full Transfer,5.8,-5.8
+2013/14,2,Liverpool,Fabio Borini,Received,Loan Fee,1.8,-1.8
+2013/14,2,Liverpool,Jay Spearing,Received,Full Transfer,1.6,-1.6
+2013/14,3,Chelsea,Willian,Spent,Full Transfer,35.5,35.5
+2013/14,3,Chelsea,Nemanja Matic,Spent,Full Transfer,25,25
+2013/14,3,Chelsea,Andre Schurrle,Spent,Full Transfer,22,22
+2013/14,3,Chelsea,Mohamed Salah,Spent,Full Transfer,16.5,16.5
+2013/14,3,Chelsea,Kurt Zouma,Spent,Full Transfer,14.6,14.6
+2013/14,3,Chelsea,Marco van Ginkel,Spent,Full Transfer,9.4,9.4
+2013/14,3,Chelsea,Christian Atsu,Spent,Full Transfer,3,3
+2013/14,3,Chelsea,Stipe Perica,Spent,Full Transfer,2.45,2.45
+2013/14,3,Chelsea,Cristian Cuevas,Spent,Full Transfer,1.9,1.9
+2013/14,3,Chelsea,Juan Mata,Received,Full Transfer,44.73,-44.73
+2013/14,3,Chelsea,Kevin De Bruyne,Received,Full Transfer,22,-22
+2013/14,3,Chelsea,Jeffrey Bruma,Received,Full Transfer,3.5,-3.5
+2013/14,3,Chelsea,Romelu Lukaku,Received,Loan Fee,3.5,-3.5
+2013/14,3,Chelsea,Wallace Oliveira,Received,Loan Fee,1.5,-1.5
+2013/14,3,Chelsea,Victor Moses,Received,Loan Fee,1.2,-1.2
+2013/14,3,Chelsea,Oriol Romeu,Received,Loan Fee,1,-1
+2013/14,4,Arsenal,Mesut Ozil,Spent,Full Transfer,47,47
+2013/14,4,Arsenal,Emiliano Viviano,Spent,Loan Fee,1,1
+2013/14,4,Arsenal,Kim Kallstrom,Spent,Loan Fee,0.75,0.75
+2013/14,4,Arsenal,Semi Ajayi,Spent,Full Transfer,0.5,0.5
+2013/14,4,Arsenal,Gervinho,Received,Full Transfer,8,-8
+2013/14,4,Arsenal,Vito Mannone,Received,Full Transfer,2.4,-2.4
+2013/14,4,Arsenal,Marouane Chamakh,Received,Full Transfer,1.2,-1.2
+2013/14,4,Arsenal,Emmanuel Frimpong,Received,Full Transfer,0.25,-0.25
+2013/14,4,Arsenal,Francis Coquelin,Received,Loan Fee,0.2,-0.2
+2013/14,4,Arsenal,Nico Yennaris,Received,Full Transfer,0.1,-0.1
+2013/14,5,Everton,James McCarthy,Spent,Full Transfer,15.3,15.3
+2013/14,5,Everton,Arouna Kone,Spent,Full Transfer,7,7
+2013/14,5,Everton,Joel Robles,Spent,Full Transfer,4,4
+2013/14,5,Everton,Romelu Lukaku,Spent,Loan Fee,3.5,3.5
+2013/14,5,Everton,Aiden McGeady,Spent,Full Transfer,2,2
+2013/14,5,Everton,Marouane Fellaini,Received,Full Transfer,32.4,-32.4
+2013/14,5,Everton,Nikica Jelavic,Received,Full Transfer,7.8,-7.8
+2013/14,5,Everton,Victor Anichebe,Received,Full Transfer,5.9,-5.9
+2013/14,6,Tottenham Hotspur,Roberto Soldado,Spent,Full Transfer,30,30
+2013/14,6,Tottenham Hotspur,Erik Lamela,Spent,Full Transfer,30,30
+2013/14,6,Tottenham Hotspur,Paulinho,Spent,Full Transfer,19.73,19.73
+2013/14,6,Tottenham Hotspur,Christian Eriksen,Spent,Full Transfer,13.5,13.5
+2013/14,6,Tottenham Hotspur,Etienne Capoue,Spent,Full Transfer,11,11
+2013/14,6,Tottenham Hotspur,Vlad Chiriches,Spent,Full Transfer,9.5,9.5
+2013/14,6,Tottenham Hotspur,Nacer Chadli,Spent,Full Transfer,8.15,8.15
+2013/14,6,Tottenham Hotspur,Gareth Bale,Received,Full Transfer,101,-101
+2013/14,6,Tottenham Hotspur,Steven Caulker,Received,Full Transfer,9.15,-9.15
+2013/14,6,Tottenham Hotspur,Jermain Defoe,Received,Full Transfer,7.3,-7.3
+2013/14,6,Tottenham Hotspur,Clint Dempsey,Received,Full Transfer,6.8,-6.8
+2013/14,6,Tottenham Hotspur,Tom Huddlestone,Received,Full Transfer,5.8,-5.8
+2013/14,6,Tottenham Hotspur,Scott Parker,Received,Full Transfer,4.5,-4.5
+2013/14,6,Tottenham Hotspur,Simon Dawkins,Received,Full Transfer,0.57,-0.57
+2013/14,6,Tottenham Hotspur,Massimo Luongo,Received,Full Transfer,0.47,-0.47
+2013/14,6,Tottenham Hotspur,Jake Livermore,Received,Loan Fee,0.3,-0.3
+2013/14,7,Manchester United,Juan Mata,Spent,Full Transfer,44.73,44.73
+2013/14,7,Manchester United,Marouane Fellaini,Spent,Full Transfer,32.4,32.4
+2013/14,7,Manchester United,Saidy Janko,Spent,Full Transfer,0.83,0.83
+2013/14,7,Manchester United,Wilfried Zaha,Received,Loan Fee,1.8,-1.8
+2013/14,8,Southampton,Daniel Osvaldo,Spent,Full Transfer,15.1,15.1
+2013/14,8,Southampton,Victor Wanyama,Spent,Full Transfer,14.5,14.5
+2013/14,8,Southampton,Dejan Lovren,Spent,Full Transfer,10,10
+2013/14,8,Southampton,Jason Puncheon,Received,Full Transfer,2.2,-2.2
+2013/14,8,Southampton,Vegard Forren,Received,Full Transfer,2,-2
+2013/14,9,Stoke City,Erik Pieters,Spent,Full Transfer,3.6,3.6
+2013/14,9,Stoke City,Marko Arnautovic,Spent,Full Transfer,2.8,2.8
+2013/14,9,Stoke City,Stephen Ireland,Spent,Loan Fee,0.6,0.6
+2013/14,10,Newcastle United,Loic Remy,Spent,Loan Fee,2.3,2.3
+2013/14,10,Newcastle United,Luuk de Jong,Spent,Loan Fee,1.5,1.5
+2013/14,10,Newcastle United,Yohan Cabaye,Received,Full Transfer,25,-25
+2013/14,10,Newcastle United,James Perch,Received,Full Transfer,0.87,-0.87
+2013/14,11,Crystal Palace,Dwight Gayle,Spent,Full Transfer,5.3,5.3
+2013/14,11,Crystal Palace,Wayne Hennessey,Spent,Full Transfer,3.65,3.65
+2013/14,11,Crystal Palace,Adrian Mariappa,Spent,Full Transfer,3.5,3.5
+2013/14,11,Crystal Palace,Adlene Guedioura,Spent,Full Transfer,3.5,3.5
+2013/14,11,Crystal Palace,Joe Ledley,Spent,Full Transfer,3.5,3.5
+2013/14,11,Crystal Palace,Jack Hunt,Spent,Full Transfer,2.35,2.35
+2013/14,11,Crystal Palace,Jason Puncheon,Spent,Full Transfer,2.2,2.2
+2013/14,11,Crystal Palace,Barry Bannan,Spent,Full Transfer,2.1,2.1
+2013/14,11,Crystal Palace,Jose Campana,Spent,Full Transfer,2,2
+2013/14,11,Crystal Palace,Scott Dann,Spent,Full Transfer,1.83,1.83
+2013/14,11,Crystal Palace,Marouna Chamakh,Spent,Full Transfer,1.2,1.2
+2013/14,11,Crystal Palace,Stephen Dobbie,Spent,Full Transfer,0.99,0.99
+2013/14,11,Crystal Palace,Jimmy Kebe,Spent,Full Transfer,0.88,0.88
+2013/14,12,Swansea City,Wilfried Bony,Spent,Full Transfer,16,16
+2013/14,12,Swansea City,Jonjo Shelvey,Spent,Full Transfer,5.9,5.9
+2013/14,12,Swansea City,Jordi Amat,Spent,Full Transfer,2.9,2.9
+2013/14,12,Swansea City,Alvaro Vazquez,Spent,Loan Fee,1.2,1.2
+2013/14,12,Swansea City,Alejnadro Pozuelo,Spent,Full Transfer,0.5,0.5
+2013/14,12,Swansea City,Adam King,Spent,Full Transfer,0.21,0.21
+2013/14,13,West Ham United,Andy Carroll,Spent,Full Transfer,17.5,17.5
+2013/14,13,West Ham United,Stewart Downing,Spent,Full Transfer,5.8,5.8
+2013/14,13,West Ham United,Marco Borriello,Spent,Loan Fee,0.7,0.7
+2013/14,13,West Ham United,Rob Hall,Received,Full Transfer,0.53,-0.53
+2013/14,14,Sunderland,Jozy Altidore,Spent,Full Transfer,10,10
+2013/14,14,Sunderland,Emmanuele Giaccherini,Spent,Full Transfer,7.5,7.5
+2013/14,14,Sunderland,Liam Bridcutt,Spent,Full Transfer,3.66,3.66
+2013/14,14,Sunderland,Ignacio Scocco,Spent,Full Transfer,3.65,3.65
+2013/14,14,Sunderland,Charalampos Mavrias,Spent,Full Transfer,3,3
+2013/14,14,Sunderland,Vito Mannone,Spent,Full Transfer,2.4,2.4
+2013/14,14,Sunderland,Fabio Borini,Spent,Loan Fee,1.8,1.8
+2013/14,14,Sunderland,David Moberg Karlsson,Spent,Full Transfer,1.75,1.75
+2013/14,14,Sunderland,Ondrej Celustka,Spent,Loan Fee,0.15,0.15
+2013/14,14,Sunderland,Simon Mignolet,Received,Full Transfer,10.6,-10.6
+2013/14,14,Sunderland,Stephane Sessegnon,Received,Full Transfer,7,-7
+2013/14,14,Sunderland,James McClean,Received,Full Transfer,2.33,-2.33
+2013/14,14,Sunderland,Ahmed Elmohamady,Received,Full Transfer,2.3,-2.3
+2013/14,14,Sunderland,Cabral,Received,Loan Fee,0.15,-0.15
+2013/14,15,Aston Villa,Libor Kozak,Spent,Full Transfer,6.5,6.5
+2013/14,15,Aston Villa,Jores Okore,Spent,Full Transfer,4.7,4.7
+2013/14,15,Aston Villa,Aleksandar Tonev,Spent,Full Transfer,3.2,3.2
+2013/14,15,Aston Villa,Antonio Luna,Spent,Full Transfer,2,2
+2013/14,15,Aston Villa,Nicklas Helenius,Spent,Full Transfer,1.5,1.5
+2013/14,15,Aston Villa,Leandro Bacuna,Spent,Full Transfer,1.13,1.13
+2013/14,15,Aston Villa,Jed Steer,Spent,Full Transfer,0.54,0.54
+2013/14,15,Aston Villa,Jean II Makoun,Received,Full Transfer,3,-3
+2013/14,15,Aston Villa,Darren Bent,Received,Loan Fee,2.4,-2.4
+2013/14,15,Aston Villa,Barry Bannan,Received,Full Transfer,2.1,-2.1
+2013/14,15,Aston Villa,Stephen Ireland,Received,Loan Fee,0.6,-0.6
+2013/14,16,Hull City,Shane Long,Spent,Full Transfer,8.5,8.5
+2013/14,16,Hull City,Nikica Jelavic,Spent,Full Transfer,7.8,7.8
+2013/14,16,Hull City,Tom Huddlestone,Spent,Full Transfer,5.8,5.8
+2013/14,16,Hull City,Curtis Davies,Spent,Full Transfer,2.65,2.65
+2013/14,16,Hull City,Ahmed Elmohamady,Spent,Full Transfer,2.3,2.3
+2013/14,16,Hull City,Yannick Sagbo,Spent,Full Transfer,1.8,1.8
+2013/14,16,Hull City,Allan McGregor,Spent,Full Transfer,1.75,1.75
+2013/14,16,Hull City,Jake Livermore,Spent,Loan Fee,0.3,0.3
+2013/14,16,Hull City,Gedo,Spent,Loan Fee,0.2,0.2
+2013/14,16,Hull City,Corry Evans,Received,Full Transfer,0.88,-0.88
+2013/14,17,West Bromwich Albion,Stephane Sessegnon,Spent,Full Transfer,7,7
+2013/14,17,West Bromwich Albion,Victor Anichebe,Spent,Full Transfer,5.9,5.9
+2013/14,17,West Bromwich Albion,Scott Sinclair,Spent,Loan Fee,2.3,2.3
+2013/14,17,West Bromwich Albion,Thievy Bifouma,Spent,Loan Fee,0.5,0.5
+2013/14,17,West Bromwich Albion,Shane Long,Received,Full Transfer,8.5,-8.5
+2013/14,17,West Bromwich Albion,Peter Odemwingie,Received,Full Transfer,2.9,-2.9
+2013/14,18,Norwich City,Ricky van Wolfswinkel,Spent,Full Transfer,10,10
+2013/14,18,Norwich City,Gary Hooper,Spent,Full Transfer,6.3,6.3
+2013/14,18,Norwich City,Leroy Fer,Spent,Full Transfer,5.5,5.5
+2013/14,18,Norwich City,Martin Olsson,Spent,Full Transfer,2.9,2.9
+2013/14,18,Norwich City,Nathan Redmond,Spent,Full Transfer,2.3,2.3
+2013/14,18,Norwich City,Javier Garrido,Spent,Full Transfer,1.5,1.5
+2013/14,18,Norwich City,Joseph Yobo,Spent,Loan Fee,0.85,0.85
+2013/14,18,Norwich City,Johan Elmander,Spent,Loan Fee,0.7,0.7
+2013/14,18,Norwich City,Grant Holt,Received,Full Transfer,1.8,-1.8
+2013/14,18,Norwich City,James Vaughan,Received,Full Transfer,0.87,-0.87
+2013/14,18,Norwich City,Jacob Butterfield,Received,Full Transfer,0.62,-0.62
+2013/14,18,Norwich City,Leon Barnett,Received,Full Transfer,0.58,-0.58
+2013/14,18,Norwich City,Jed Steer,Received,Full Transfer,0.54,-0.54
+2013/14,18,Norwich City,Daniel Ayala,Received,Full Transfer,0.42,-0.42
+2013/14,19,Fulham,Konstantinos Mitroglou,Spent,Full Transfer,15.2,15.2
+2013/14,19,Fulham,Maarten Stekelnburg,Spent,Full Transfer,5.6,5.6
+2013/14,19,Fulham,Scott Parker,Spent,Full Transfer,4.5,4.5
+2013/14,19,Fulham,Darren Bent,Spent,Loan Fee,2.4,2.4
+2013/14,19,Fulham,Sascha Riether,Spent,Full Transfer,1.4,1.4
+2013/14,19,Fulham,Elsad Zverotic,Spent,Full Transfer,0.4,0.4
+2013/14,19,Fulham,Kerim Frei,Received,Full Transfer,3.15,-3.15
+2013/14,19,Fulham,Bryan Ruiz,Received,Loan Fee,1,-1
+2013/14,20,Cardiff City,Gary Medel,Spent,Full Transfer,13,13
+2013/14,20,Cardiff City,Steven Caulker,Spent,Full Transfer,9.15,9.15
+2013/14,20,Cardiff City,Andreas Cornelius,Spent,Full Transfer,8.7,8.7
+2013/14,20,Cardiff City,Mats Moller Daehli,Spent,Full Transfer,3,3
+2013/14,20,Cardiff City,Peter Odemwingie,Spent,Full Transfer,2.9,2.9
+2013/14,20,Cardiff City,Kevin Theophile Catherine,Spent,Full Transfer,2.5,2.5
+2013/14,20,Cardiff City,Magnus Wolff Eikrem,Spent,Full Transfer,2.5,2.5
+2013/14,20,Cardiff City,Wilfried Zaha,Spent,Loan Fee,1.8,1.8
+2013/14,20,Cardiff City,John Brayford,Spent,Full Transfer,1.74,1.74
+2013/14,20,Cardiff City,Cala,Spent,Full Transfer,0.35,0.35
+2013/14,20,Cardiff City,Simon Moore,Spent,Full Transfer,0.17,0.17
+2013/14,20,Cardiff City,Andreas Cornelius,Received,Full Transfer,3.5,-3.5
+2013/14,20,Cardiff City,Rudy Gestede,Received,Full Transfer,0.24,-0.24
+2014/15,1,Chelsea,Diego Costa,Spent,Full Transfer,38,38
+2014/15,1,Chelsea,Cesc Fabregas,Spent,Full Transfer,33,33
+2014/15,1,Chelsea,Juan Cuadrado,Spent,Full Transfer,31,31
+2014/15,1,Chelsea,Filipe Luis,Spent,Full Transfer,20,20
+2014/15,1,Chelsea,Loic Remy,Spent,Full Transfer,13.2,13.2
+2014/15,1,Chelsea,Mario Pasalic,Spent,Full Transfer,2.5,2.5
+2014/15,1,Chelsea,David Luiz,Received,Full Transfer,49.5,-49.5
+2014/15,1,Chelsea,Romelu Lukaku,Received,Full Transfer,35.36,-35.36
+2014/15,1,Chelsea,Andre Schurrle,Received,Full Transfer,32,-32
+2014/15,1,Chelsea,Ryan Bertrand,Received,Full Transfer,13.34,-13.34
+2014/15,1,Chelsea,Demba Ba,Received,Full Transfer,6,-6
+2014/15,1,Chelsea,Fernando Torres,Received,Full Transfer,3,-3
+2014/15,1,Chelsea,Patrick van Aanholt,Received,Full Transfer,1.9,-1.9
+2014/15,1,Chelsea,Thorgan Hazard,Received,Loan Fee,1.5,-1.5
+2014/15,1,Chelsea,George Saville,Received,Full Transfer,1.25,-1.25
+2014/15,1,Chelsea,Marco van Ginkel,Received,Loan Fee,1,-1
+2014/15,1,Chelsea,Lucas Piazon,Received,Loan Fee,0.8,-0.8
+2014/15,1,Chelsea,Oriol Romeu,Received,Loan Fee,0.25,-0.25
+2014/15,1,Chelsea,Tomas Kalas,Received,Loan Fee,0.2,-0.2
+2014/15,2,Manchester City,Wilfried Bony,Spent,Full Transfer,32.3,32.3
+2014/15,2,Manchester City,Eliaquim Mangala,Spent,Full Transfer,30.5,30.5
+2014/15,2,Manchester City,Fernando,Spent,Full Transfer,15,15
+2014/15,2,Manchester City,Willy Caballero,Spent,Full Transfer,8,8
+2014/15,2,Manchester City,Bruno Zuculini,Spent,Full Transfer,2.5,2.5
+2014/15,2,Manchester City,Javi Garcia,Received,Full Transfer,16.8,-16.8
+2014/15,2,Manchester City,Jack Rodwell,Received,Full Transfer,12.6,-12.6
+2014/15,2,Manchester City,Micah Richards,Received,Loan Fee,1,-1
+2014/15,2,Manchester City,Albert Rusnak,Received,Full Transfer,0.22,-0.22
+2014/15,3,Arsenal,Alexis Sanchez,Spent,Full Transfer,42.5,42.5
+2014/15,3,Arsenal,Calum Chambers,Spent,Full Transfer,20.23,20.23
+2014/15,3,Arsenal,Danny Welbeck,Spent,Full Transfer,20,20
+2014/15,3,Arsenal,Gabriel Paulista,Spent,Full Transfer,15,15
+2014/15,3,Arsenal,Mathieu Debuchy,Spent,Full Transfer,15,15
+2014/15,3,Arsenal,David Ospina,Spent,Full Transfer,4,4
+2014/15,3,Arsenal,Krystian Bielik,Spent,Full Transfer,2.25,2.25
+2014/15,3,Arsenal,Thomas Vermaelen,Received,Full Transfer,19,-19
+2014/15,3,Arsenal,Johan Djourou,Received,Full Transfer,2.8,-2.8
+2014/15,3,Arsenal,Ignasi Miquel,Received,Full Transfer,1.9,-1.9
+2014/15,3,Arsenal,Thomas Eisfeld,Received,Full Transfer,1.5,-1.5
+2014/15,3,Arsenal,Kristoffer Olsson,Received,Full Transfer,1,-1
+2014/15,3,Arsenal,Joel Campbell,Received,Full Transfer,1,-1
+2014/15,3,Arsenal,Lukas Podolski,Received,Full Transfer,0.6,-0.6
+2014/15,4,Manchester United,Angel Di Maria,Spent,Full Transfer,75,75
+2014/15,4,Manchester United,Luke Shaw,Spent,Full Transfer,37.5,37.5
+2014/15,4,Manchester United,Ander Herrera,Spent,Full Transfer,36,36
+2014/15,4,Manchester United,Marcos Rojo,Spent,Full Transfer,20,20
+2014/15,4,Manchester United,Daley Blind,Spent,Full Transfer,17.5,17.5
+2014/15,4,Manchester United,Falcao,Spent,Loan Fee,7.6,7.6
+2014/15,4,Manchester United,Vanja Milinkovic Savic,Spent,Full Transfer,1.75,1.75
+2014/15,4,Manchester United,Danny Welback,Received,Full Transfer,20,-20
+2014/15,4,Manchester United,Shinji Kagawa,Received,Full Transfer,8,-8
+2014/15,4,Manchester United,Alexander Buttner,Received,Full Transfer,5.5,-5.5
+2014/15,4,Manchester United,Wilfried Zaha,Received,Full Transfer,3.83,-3.83
+2014/15,4,Manchester United,Chicharito,Received,Loan Fee,3,-3
+2014/15,4,Manchester United,Bebe,Received,Full Transfer,3,-3
+2014/15,4,Manchester United,Michael Keane,Received,Full Transfer,2.56,-2.56
+2014/15,4,Manchester United,Patrice Evra,Received,Full Transfer,1.9,-1.9
+2014/15,4,Manchester United,Angelo Henriquez,Received,Loan Fee,1.5,-1.5
+2014/15,5,Tottenham Hotspur,Ben Davies,Spent,Full Transfer,12.65,12.65
+2014/15,5,Tottenham Hotspur,Federico Fazio,Spent,Full Transfer,10,10
+2014/15,5,Tottenham Hotspur,Dele Alli,Spent,Full Transfer,6.63,6.63
+2014/15,5,Tottenham Hotspur,Benjamin Stambouli,Spent,Full Transfer,5.9,5.9
+2014/15,5,Tottenham Hotspur,Michel Vorm,Spent,Full Transfer,5.69,5.69
+2014/15,5,Tottenham Hotspur,Eric Dier,Spent,Full Transfer,5,5
+2014/15,5,Tottenham Hotspur,DeAndre Yedlin,Spent,Full Transfer,2.6,2.6
+2014/15,5,Tottenham Hotspur,Gylfi Sigurdsson,Received,Full Transfer,10.1,-10.1
+2014/15,5,Tottenham Hotspur,Sandro,Received,Full Transfer,7.5,-7.5
+2014/15,5,Tottenham Hotspur,Jake Livermore,Received,Full Transfer,7,-7
+2014/15,5,Tottenham Hotspur,Kyle Naughton,Received,Full Transfer,6.6,-6.6
+2014/15,5,Tottenham Hotspur,Michael Dawson,Received,Full Transfer,4.4,-4.4
+2014/15,5,Tottenham Hotspur,Zeki Fryers,Received,Full Transfer,3.8,-3.8
+2014/15,5,Tottenham Hotspur,Lewis Holtby,Received,Full Transfer,2.5,-2.5
+2014/15,5,Tottenham Hotspur,Iago Falque,Received,Full Transfer,2,-2
+2014/15,5,Tottenham Hotspur,Jonathan Obika,Received,Full Transfer,0.25,-0.25
+2014/15,6,Liverpool,Adam Lallana,Spent,Full Transfer,31,31
+2014/15,6,Liverpool,Dejan Lovren,Spent,Full Transfer,25.3,25.3
+2014/15,6,Liverpool,Lazar Markovic,Spent,Full Transfer,25,25
+2014/15,6,Liverpool,Mario Balotelli,Spent,Full Transfer,20,20
+2014/15,6,Liverpool,Alberto Moreno,Spent,Full Transfer,18,18
+2014/15,6,Liverpool,Divock Origi,Spent,Full Transfer,12.63,12.63
+2014/15,6,Liverpool,Emre Can,Spent,Full Transfer,12,12
+2014/15,6,Liverpool,Rickie Lambert,Spent,Full Transfer,5.5,5.5
+2014/15,6,Liverpool,Javier Manquillo,Spent,Loan Fee,2,2
+2014/15,6,Liverpool,Luis Suarez,Received,Full Transfer,81.72,-81.72
+2014/15,6,Liverpool,Oussama Assaidi,Received,Full Transfer,6,-6
+2014/15,6,Liverpool,Daneil Agger,Received,Full Transfer,4,-4
+2014/15,6,Liverpool,Pepe Reina,Received,Full Transfer,3,-3
+2014/15,6,Liverpool,Martin Kelly,Received,Full Transfer,2,-2
+2014/15,6,Liverpool,Suso,Received,Full Transfer,1.3,-1.3
+2014/15,6,Liverpool,Jack Robinson,Received,Full Transfer,1.25,-1.25
+2014/15,7,Southampton,Sadio Mane,Spent,Full Transfer,15,15
+2014/15,7,Southampton,Shane Long,Spent,Full Transfer,14.9,14.9
+2014/15,7,Southampton,Dusan Tadic,Spent,Full Transfer,14,14
+2014/15,7,Southampton,Ryan Bertrand,Spent,Full Transfer,13.34,13.34
+2014/15,7,Southampton,Fraser Forster,Spent,Full Transfer,12.5,12.5
+2014/15,7,Southampton,Graziano Pelle,Spent,Full Transfer,11,11
+2014/15,7,Southampton,Florian Gardos,Spent,Full Transfer,6.8,6.8
+2014/15,7,Southampton,Eljero Elia,Spent,Loan Fee,0.5,0.5
+2014/15,7,Southampton,Luke Shaw,Received,Full Transfer,37.5,-37.5
+2014/15,7,Southampton,Adam Lallana,Received,Full Transfer,31,-31
+2014/15,7,Southampton,Dejan Lovren,Received,Full Transfer,25.3,-25.3
+2014/15,7,Southampton,Callum Chambers,Received,Full Transfer,20.23,-20.23
+2014/15,7,Southampton,Rickie Lambert,Received,Full Transfer,5.5,-5.5
+2014/15,7,Southampton,Jack Cork,Received,Full Transfer,4,-4
+2014/15,7,Southampton,Billy Sharp,Received,Full Transfer,0.3,-0.3
+2014/15,8,Swansea City,Gylfi Sigurdsson,Spent,Full Transfer,10.1,10.1
+2014/15,8,Swansea City,Federico Fernandez,Spent,Full Transfer,10,10
+2014/15,8,Swansea City,Kyle Naughton,Spent,Full Transfer,6.6,6.6
+2014/15,8,Swansea City,Jefferson Montero,Spent,Full Transfer,5,5
+2014/15,8,Swansea City,Jack Cork,Spent,Full Transfer,4,4
+2014/15,8,Swansea City,Matt Grimes,Spent,Full Transfer,2.24,2.24
+2014/15,8,Swansea City,Modou Barrow,Spent,Full Transfer,1.89,1.89
+2014/15,8,Swansea City,Marvin Emnes,Spent,Full Transfer,1.7,1.7
+2014/15,8,Swansea City,Wilfried Bony,Received,Full Transfer,32.3,-32.3
+2014/15,8,Swansea City,Ben Davies,Received,Full Transfer,12.65,-12.65
+2014/15,8,Swansea City,Michel Vorm,Received,Full Transfer,5.69,-5.69
+2014/15,8,Swansea City,Chico,Received,Full Transfer,5,-5
+2014/15,8,Swansea City,Pablo Hernandez,Received,Full Transfer,5,-5
+2014/15,8,Swansea City,Michu,Received,Loan Fee,1.25,-1.25
+2014/15,9,Stoke City,Bojan Krkic,Spent,Full Transfer,1.8,1.8
+2014/15,9,Stoke City,Michael Kightly,Received,Full Transfer,1.9,-1.9
+2014/15,9,Stoke City,Cameron Jerome,Received,Full Transfer,1.9,-1.9
+2014/15,10,Crystal Palace,James McArthur,Spent,Full Transfer,8.8,8.8
+2014/15,10,Crystal Palace,Jordon Mutch,Spent,Full Transfer,6.34,6.34
+2014/15,10,Crystal Palace,Pape Souare,Spent,Full Transfer,5.33,5.33
+2014/15,10,Crystal Palace,Wilfried Zaha,Spent,Full Transfer,3.83,3.83
+2014/15,10,Crystal Palace,Zeki Fryers,Spent,Full Transfer,3.8,3.8
+2014/15,10,Crystal Palace,Martin Kelly,Spent,Full Transfer,2,2
+2014/15,10,Crystal Palace,Frazier Campbell,Spent,Full Transfer,1.14,1.14
+2014/15,10,Crystal Palace,Keshi Anderson,Spent,Full Transfer,0.04,0.04
+2014/15,10,Crystal Palace,Jose Campana,Received,Full Transfer,1.8,-1.8
+2014/15,10,Crystal Palace,Stuart O'Keefe,Received,Full Transfer,1.07,-1.07
+2014/15,11,Everton,Romelu Lukaku,Spent,Full Transfer,35.36,35.36
+2014/15,11,Everton,Muhamed Besic,Spent,Full Transfer,4.8,4.8
+2014/15,11,Everton,Shane Duffy,Received,Full Transfer,1.9,-1.9
+2014/15,12,West Ham United,Enner Valencia,Spent,Full Transfer,15,15
+2014/15,12,West Ham United,Cheikhou Kouyate,Spent,Full Transfer,7.5,7.5
+2014/15,12,West Ham United,Diafra Sakho,Spent,Full Transfer,5,5
+2014/15,12,West Ham United,Aaron Cresswell,Spent,Full Transfer,4.75,4.75
+2014/15,12,West Ham United,Doneil Henry,Spent,Full Transfer,1.9,1.9
+2014/15,12,West Ham United,Morgan Amalfitano,Spent,Full Transfer,1,1
+2014/15,12,West Ham United,Mohamed Diame,Received,Full Transfer,4.4,-4.4
+2014/15,13,West Bromwich Albion,Brown Ideye,Spent,Full Transfer,12.63,12.63
+2014/15,13,West Bromwich Albion,Callum McManaman,Spent,Full Transfer,6.35,6.35
+2014/15,13,West Bromwich Albion,Cristian Gamboa,Spent,Full Transfer,2.4,2.4
+2014/15,13,West Bromwich Albion,Sebastian Blanco,Spent,Full Transfer,2,2
+2014/15,13,West Bromwich Albion,Sebastien Pocognoli,Spent,Full Transfer,1.5,1.5
+2014/15,13,West Bromwich Albion,George Thorne,Received,Full Transfer,2.3,-2.3
+2014/15,14,Leicester City,Leonardo Ulloa,Spent,Full Transfer,10.12,10.12
+2014/15,14,Leicester City,Andrej Kramaric,Spent,Full Transfer,9,9
+2014/15,14,Leicester City,Danny Simpson,Spent,Full Transfer,2.5,2.5
+2014/15,14,Leicester City,Tom Lawrence,Spent,Full Transfer,1.26,1.26
+2014/15,15,Newcastle United,Remy Cabella,Spent,Full Transfer,10,10
+2014/15,15,Newcastle United,Siem de Jong,Spent,Full Transfer,8.7,8.7
+2014/15,15,Newcastle United,Emmanuel Riviere,Spent,Full Transfer,6.32,6.32
+2014/15,15,Newcastle United,Daryl Janmaat,Spent,Full Transfer,6,6
+2014/15,15,Newcastle United,Jamaal Lascelles,Spent,Full Transfer,5,5
+2014/15,15,Newcastle United,Karl Darlow,Spent,Full Transfer,5,5
+2014/15,15,Newcastle United,Facundo Ferreyra,Spent,Loan Fee,2,2
+2014/15,15,Newcastle United,Ayoze Perez,Spent,Full Transfer,2,2
+2014/15,15,Newcastle United,Mathieu Debuchy,Received,Full Transfer,15,-15
+2014/15,15,Newcastle United,Mapou Yanga Mbiwa,Received,Full Transfer,7.35,-7.35
+2014/15,15,Newcastle United,Mapou Yanga Mbiwa,Received,Loan Fee,1.26,-1.26
+2014/15,16,Sunderland,Jack Rodwell,Spent,Full Transfer,12.6,12.6
+2014/15,16,Sunderland,Will Buckley,Spent,Full Transfer,3.12,3.12
+2014/15,16,Sunderland,Patrick van Aanholt,Spent,Full Transfer,1.9,1.9
+2014/15,16,Sunderland,Ricardo Alvarez,Spent,Loan Fee,1.5,1.5
+2014/15,16,Sunderland,Alfred N'Diaye,Received,Full Transfer,3.5,-3.5
+2014/15,16,Sunderland,Ignacio Scocco,Received,Full Transfer,3.25,-3.25
+2014/15,16,Sunderland,David Moberg Karlsson,Received,Full Transfer,0.5,-0.5
+2014/15,17,Aston Villa,Carlos Sanchez,Spent,Full Transfer,6,6
+2014/15,17,Aston Villa,Carles Gil,Spent,Full Transfer,4.2,4.2
+2014/15,17,Aston Villa,Aly Cissokho,Spent,Full Transfer,2.5,2.5
+2014/15,17,Aston Villa,Kieran Richardson,Spent,Full Transfer,0.75,0.75
+2014/15,17,Aston Villa,Karim El Ahmadi,Received,Full Transfer,0.7,-0.7
+2014/15,17,Aston Villa,Jordan Bowery,Received,Full Transfer,0.3,-0.3
+2014/15,17,Aston Villa,Samir Carruthers,Received,Full Transfer,0.25,-0.25
+2014/15,17,Aston Villa,Daniel Johnson,Received,Full Transfer,0.06,-0.06
+2014/15,18,Hull City,Abel Hernandez,Spent,Full Transfer,12,12
+2014/15,18,Hull City,Robert Snodgrass,Spent,Full Transfer,7.5,7.5
+2014/15,18,Hull City,Jake Livermore,Spent,Full Transfer,7,7
+2014/15,18,Hull City,Michael Dawson,Spent,Full Transfer,4.4,4.4
+2014/15,18,Hull City,Mohamed Diame,Spent,Full Transfer,4.4,4.4
+2014/15,18,Hull City,Dame N'Doye,Spent,Full Transfer,3.96,3.96
+2014/15,18,Hull City,Andrew Robertson,Spent,Full Transfer,3.6,3.6
+2014/15,18,Hull City,Harry Maguire,Spent,Full Transfer,3.16,3.16
+2014/15,18,Hull City,Tom Ince,Spent,Full Transfer,1.95,1.95
+2014/15,18,Hull City,Shane Long,Received,Full Transfer,14.9,-14.9
+2014/15,18,Hull City,George Boyd,Received,Full Transfer,3.8,-3.8
+2014/15,19,Burnley,George Boyd,Spent,Full Transfer,3.8,3.8
+2014/15,19,Burnley,Lukas Jutkiewicz,Spent,Full Transfer,3.1,3.1
+2014/15,19,Burnley,Michael Keane,Spent,Full Transfer,2.56,2.56
+2014/15,19,Burnley,Michael Kightly,Spent,Full Transfer,1.9,1.9
+2014/15,19,Burnley,Stephen Ward,Spent,Full Transfer,0.63,0.63
+2014/15,19,Burnley,Marvin Sordell,Spent,Full Transfer,0.63,0.63
+2014/15,20,Queens Park Rangers,Stephen Caulker,Spent,Full Transfer,10.75,10.75
+2014/15,20,Queens Park Rangers,Leroy Fer,Spent,Full Transfer,10,10
+2014/15,20,Queens Park Rangers,Jordon Mutch,Spent,Full Transfer,7.57,7.57
+2014/15,20,Queens Park Rangers,Sandro,Spent,Full Transfer,7.5,7.5
+2014/15,20,Queens Park Rangers,Alex McCarthy,Spent,Full Transfer,3.8,3.8
+2014/15,20,Queens Park Rangers,Eduardo Vargas,Spent,Loan Fee,1.4,1.4
+2014/15,20,Queens Park Rangers,Jack Robinson,Spent,Full Transfer,1.25,1.25
+2014/15,20,Queens Park Rangers,Mauricio Isla,Spent,Loan Fee,1.2,1.2
+2014/15,20,Queens Park Rangers,Loic Remy,Received,Full Transfer,13.2,-13.2
+2014/15,20,Queens Park Rangers,Jordon Mutch,Received,Full Transfer,6.34,-6.34
+2014/15,20,Queens Park Rangers,Esteban Granero,Received,Full Transfer,4,-4
+2014/15,20,Queens Park Rangers,Danny Simpson,Received,Full Transfer,2.5,-2.5
+2015/16,1,Leicester City,Shinji Okazaki,Spent,Full Transfer,11,11
+2015/16,1,Leicester City,N'Golo Kante,Spent,Full Transfer,9,9
+2015/16,1,Leicester City,Yohan Benalouane,Spent,Full Transfer,7,7
+2015/16,1,Leicester City,Gokhan Inler,Spent,Full Transfer,7,7
+2015/16,1,Leicester City,Daniel Amartey,Spent,Full Transfer,6.6,6.6
+2015/16,1,Leicester City,Demarai Gray,Spent,Full Transfer,5.1,5.1
+2015/16,1,Leicester City,Robert Huth,Spent,Full Transfer,4.2,4.2
+2015/16,1,Leicester City,David Nugent,Received,Full Transfer,5.6,-5.6
+2015/16,1,Leicester City,Chris Wood,Received,Full Transfer,3.6,-3.6
+2015/16,1,Leicester City,Yohan Benalouane,Received,Loan Fee,0.25,-0.25
+2015/16,2,Arsenal,Petr Cech,Spent,Full Transfer,14,14
+2015/16,2,Arsenal,Mohamed Elneny,Spent,Full Transfer,12.5,12.5
+2015/16,2,Arsenal,Jeff Reine Adelaide,Spent,Full Transfer,2.5,2.5
+2015/16,2,Arsenal,Lukas Podolski,Received,Full Transfer,2.5,-2.5
+2015/16,3,Tottenham Hotspur,Heung Min Son,Spent,Full Transfer,30,30
+2015/16,3,Tottenham Hotspur,Toby Alderweireld,Spent,Full Transfer,16,16
+2015/16,3,Tottenham Hotspur,Clinton N'Jie,Spent,Full Transfer,14.1,14.1
+2015/16,3,Tottenham Hotspur,Kevin Wimmer,Spent,Full Transfer,6,6
+2015/16,3,Tottenham Hotspur,Kieran Trippier,Spent,Full Transfer,4.9,4.9
+2015/16,3,Tottenham Hotspur,Roberto Soldado,Received,Full Transfer,16,-16
+2015/16,3,Tottenham Hotspur,Andros Townsend,Received,Full Transfer,15.7,-15.7
+2015/16,3,Tottenham Hotspur,Paulinho,Received,Full Transfer,14,-14
+2015/16,3,Tottenham Hotspur,Etienne Capoue,Received,Full Transfer,8.9,-8.9
+2015/16,3,Tottenham Hotspur,Benjamin Stambouli,Received,Full Transfer,8.6,-8.6
+2015/16,3,Tottenham Hotspur,Vlad Chiriches,Received,Full Transfer,7,-7
+2015/16,3,Tottenham Hotspur,Lewis Holtby,Received,Full Transfer,6.5,-6.5
+2015/16,3,Tottenham Hotspur,Aaron Lennon,Received,Full Transfer,6,-6
+2015/16,3,Tottenham Hotspur,Younes Kaboul,Received,Full Transfer,4.3,-4.3
+2015/16,3,Tottenham Hotspur,Milos Veljkovic,Received,Full Transfer,0.33,-0.33
+2015/16,3,Tottenham Hotspur,Ryan Fredericks,Received,Full Transfer,0.25,-0.25
+2015/16,4,Manchester City,Kevin De Bruyne,Spent,Full Transfer,74,74
+2015/16,4,Manchester City,Raheem Sterling,Spent,Full Transfer,62.5,62.5
+2015/16,4,Manchester City,Nicolas Otamendi,Spent,Full Transfer,44.6,44.6
+2015/16,4,Manchester City,Patrick Roberts,Spent,Full Transfer,15,15
+2015/16,4,Manchester City,Fabian Delph,Spent,Full Transfer,11.5,11.5
+2015/16,4,Manchester City,Enes Unal,Spent,Full Transfer,3,3
+2015/16,4,Manchester City,Anthony Caceres,Spent,Full Transfer,0.32,0.32
+2015/16,4,Manchester City,Florian Lejeune,Spent,Full Transfer,0.3,0.3
+2015/16,4,Manchester City,Ruben Sobrino,Spent,Full Transfer,0.27,0.27
+2015/16,4,Manchester City,Alvaro Negredo,Received,Full Transfer,28,-28
+2015/16,4,Manchester City,Rony Lopes,Received,Full Transfer,12,-12
+2015/16,4,Manchester City,Matija Nastasic,Received,Full Transfer,9.5,-9.5
+2015/16,4,Manchester City,Karim Rekik,Received,Full Transfer,5,-5
+2015/16,4,Manchester City,Edin Dzeko,Received,Loan Fee,4,-4
+2015/16,4,Manchester City,Scott Sinclair,Received,Full Transfer,3.5,-3.5
+2015/16,4,Manchester City,Stevan Jovetic,Received,Loan Fee,2.5,-2.5
+2015/16,4,Manchester City,Dedryck Boyata,Received,Full Transfer,2,-2
+2015/16,4,Manchester City,Jose Pozo,Received,Full Transfer,0.5,-0.5
+2015/16,4,Manchester City,Jason Denayer,Received,Loan Fee,0.43,-0.43
+2015/16,5,Manchester United,Anthony Martial,Spent,Full Transfer,50,50
+2015/16,5,Manchester United,Morgan Schneiderlin,Spent,Full Transfer,35,35
+2015/16,5,Manchester United,Memphis Depay,Spent,Full Transfer,34,34
+2015/16,5,Manchester United,Matteo Darmian,Spent,Full Transfer,18,18
+2015/16,5,Manchester United,Bastian Schweinsteiger,Spent,Full Transfer,9,9
+2015/16,5,Manchester United,Angel Di Maria,Spent,Full Transfer,63,63
+2015/16,5,Manchester United,Chicharito,Spent,Full Transfer,12,12
+2015/16,5,Manchester United,Jonny Evans,Spent,Full Transfer,8.3,8.3
+2015/16,5,Manchester United,Nani,Spent,Full Transfer,6,6
+2015/16,5,Manchester United,Robin van Persie,Spent,Full Transfer,5.5,5.5
+2015/16,5,Manchester United,Rafael,Spent,Full Transfer,3.2,3.2
+2015/16,5,Manchester United,Angelo Henriquez,Spent,Full Transfer,1.67,1.67
+2015/16,5,Manchester United,Reece James,Spent,Full Transfer,1.4,1.4
+2015/16,5,Manchester United,Saidy Janko,Spent,Full Transfer,0.28,0.28
+2015/16,6,Southampton,Virgil van Dijk,Spent,Full Transfer,15.7,15.7
+2015/16,6,Southampton,Jordy Clasie,Spent,Full Transfer,12,12
+2015/16,6,Southampton,Oriol Romeu,Spent,Full Transfer,7,7
+2015/16,6,Southampton,Juanmi,Spent,Full Transfer,7,7
+2015/16,6,Southampton,Cedric Soares,Spent,Full Transfer,5.5,5.5
+2015/16,6,Southampton,Charlie Austin,Spent,Full Transfer,5.2,5.2
+2015/16,6,Southampton,Steven Caulker,Spent,Loan Fee,1.7,1.7
+2015/16,6,Southampton,Cuco Martina,Spent,Full Transfer,1.5,1.5
+2015/16,6,Southampton,Morgan Schneiderlin,Received,Full Transfer,35,-35
+2015/16,6,Southampton,Nathaniel Clyne,Received,Full Transfer,17.7,-17.7
+2015/16,7,West Ham United,Dimitri Payet,Spent,Full Transfer,15,15
+2015/16,7,West Ham United,Angelo Ogbonna,Spent,Full Transfer,11,11
+2015/16,7,West Ham United,Michail Antonio,Spent,Full Transfer,9.5,9.5
+2015/16,7,West Ham United,Pedro Obiang,Spent,Full Transfer,6,6
+2015/16,7,West Ham United,Sam Byram,Spent,Full Transfer,4.8,4.8
+2015/16,7,West Ham United,Nikica Jelavic,Spent,Full Transfer,4.1,4.1
+2015/16,7,West Ham United,Stephen Hendrie,Spent,Full Transfer,1.3,1.3
+2015/16,7,West Ham United,Emmanuel Emenike,Spent,Loan Fee,1,1
+2015/16,7,West Ham United,Stewart Downing,Received,Full Transfer,7.9,-7.9
+2015/16,7,West Ham United,Nikica Jelavic,Spent,Full Transfer,5.15,5.15
+2015/16,7,West Ham United,Modibo Maiga,Spent,Full Transfer,4,4
+2015/16,7,West Ham United,Matt Jarvis,Spent,Full Transfer,3.4,3.4
+2015/16,7,West Ham United,Mauro Zarate,Spent,Full Transfer,2.1,2.1
+2015/16,8,Liverpool,Christian Benteke,Spent,Full Transfer,46.5,46.5
+2015/16,8,Liverpool,Roberto Firmino,Spent,Full Transfer,41,41
+2015/16,8,Liverpool,Nathaniel Clyne,Spent,Full Transfer,17.7,17.7
+2015/16,8,Liverpool,Danny Ings,Spent,Full Transfer,8.3,8.3
+2015/16,8,Liverpool,Marko Grujic,Spent,Full Transfer,7,7
+2015/16,8,Liverpool,Joe Gomez,Spent,Full Transfer,4.9,4.9
+2015/16,8,Liverpool,Raheem Sterling,Spent,Full Transfer,62.5,62.5
+2015/16,8,Liverpool,Fabio Borini,Spent,Full Transfer,10.7,10.7
+2015/16,8,Liverpool,Iago Aspas,Spent,Full Transfer,6,6
+2015/16,8,Liverpool,Rickie Lambert,Spent,Full Transfer,4.2,4.2
+2015/16,8,Liverpool,Sebastian Coates,Spent,Full Transfer,2.8,2.8
+2015/16,8,Liverpool,Andre Wisdom,Spent,Loan Fee,1.8,1.8
+2015/16,8,Liverpool,Marko Grujic,Spent,Loan Fee,1,1
+2015/16,8,Liverpool,Tiago Ilori,Spent,Loan Fee,0.35,0.35
+2015/16,9,Stoke City,Giannelli Imbula,Spent,Full Transfer,24.25,24.25
+2015/16,9,Stoke City,Xherdan Shaqiri,Spent,Full Transfer,17,17
+2015/16,9,Stoke City,Joselu,Spent,Full Transfer,8,8
+2015/16,9,Stoke City,Philipp Wollscheid,Spent,Full Transfer,3.8,3.8
+2015/16,9,Stoke City,Jakob Haugaard,Spent,Full Transfer,0.6,0.6
+2015/16,9,Stoke City,Asmir Begovic,Received,Full Transfer,11,-11
+2015/16,9,Stoke City,Steven N'Zonzi,Received,Full Transfer,8,-8
+2015/16,9,Stoke City,Robert Huth,Received,Full Transfer,4.2,-4.2
+2015/16,10,Chelsea,Pedro,Spent,Full Transfer,27,27
+2015/16,10,Chelsea,Abdul Rahman Baba,Spent,Full Transfer,20,20
+2015/16,10,Chelsea,Asmir Begovic,Spent,Full Transfer,11,11
+2015/16,10,Chelsea,Kenedy,Spent,Full Transfer,8,8
+2015/16,10,Chelsea,Falcao,Spent,Loan Fee,7,7
+2015/16,10,Chelsea,Michael Hector,Spent,Full Transfer,5.4,5.4
+2015/16,10,Chelsea,Matt Miazga,Spent,Full Transfer,4.6,4.6
+2015/16,10,Chelsea,Nathan,Spent,Full Transfer,4,4
+2015/16,10,Chelsea,Papy Djilobodji,Spent,Full Transfer,3.5,3.5
+2015/16,10,Chelsea,Ramires,Received,Full Transfer,28,-28
+2015/16,10,Chelsea,Filipe Luis,Received,Full Transfer,16,-16
+2015/16,10,Chelsea,Petr Cech,Received,Full Transfer,14,-14
+2015/16,10,Chelsea,Thorgan Hazard,Received,Full Transfer,8,-8
+2015/16,10,Chelsea,Oriol Romeu,Received,Full Transfer,7,-7
+2015/16,10,Chelsea,Gael Kakuta,Received,Full Transfer,6,-6
+2015/16,10,Chelsea,Mohamed Salah,Received,Loan Fee,5,-5
+2015/16,10,Chelsea,Juan Cuadrado,Received,Loan Fee,1.8,-1.8
+2015/16,10,Chelsea,Josh McEachran,Received,Full Transfer,1.04,-1.04
+2015/16,10,Chelsea,Papy Djilobodji,Received,Loan Fee,0.4,-0.4
+2015/16,10,Chelsea,Nathaniel Chalobah,Received,Loan Fee,0.25,-0.25
+2015/16,11,Everton,Oumar Niasse,Spent,Full Transfer,17.9,17.9
+2015/16,11,Everton,Ramiro Funes Mori,Spent,Full Transfer,12.9,12.9
+2015/16,11,Everton,Gerard Deulofeu,Spent,Full Transfer,6,6
+2015/16,11,Everton,Aaron Lennon,Spent,Full Transfer,6,6
+2015/16,11,Everton,Shani Tarashaj,Spent,Full Transfer,4,4
+2015/16,11,Everton,Mason Holgate,Spent,Full Transfer,1.4,1.4
+2015/16,11,Everton,Leandro Rodriguez,Spent,Full Transfer,0.7,0.7
+2015/16,11,Everton,David Henen,Spent,Full Transfer,0.28,0.28
+2015/16,11,Everton,Steven Naismith,Received,Full Transfer,11,-11
+2015/16,12,Swansea City,Alberto Paloschi,Spent,Full Transfer,9.5,9.5
+2015/16,12,Swansea City,Eder,Spent,Full Transfer,6.7,6.7
+2015/16,12,Swansea City,Franck Tabanou,Spent,Full Transfer,4.9,4.9
+2015/16,12,Swansea City,Kristoffer Nordfeldt,Spent,Full Transfer,0.85,0.85
+2015/16,12,Swansea City,Botti Biabi,Spent,Full Transfer,0.21,0.21
+2015/16,12,Swansea City,Jonjo Shelvey,Spent,Full Transfer,16,16
+2015/16,12,Swansea City,Jazz Richards,Spent,Full Transfer,0.7,0.7
+2015/16,12,Swansea City,Gerhard Tremmel,Spent,Loan Fee,0.1,0.1
+2015/16,13,Watford,Abdoulaye Doucare,Spent,Full Transfer,10.6,10.6
+2015/16,13,Watford,Adalberto Penaranda,Spent,Full Transfer,10.6,10.6
+2015/16,13,Watford,Etienne Capoue,Spent,Full Transfer,8.9,8.9
+2015/16,13,Watford,Jose Manuel Jurado,Spent,Full Transfer,8.6,8.6
+2015/16,13,Watford,Nordin Amrabat,Spent,Full Transfer,8.4,8.4
+2015/16,13,Watford,Meteg Vydra,Spent,Full Transfer,8.4,8.4
+2015/16,13,Watford,Obbi Oulare,Spent,Full Transfer,8.23,8.23
+2015/16,13,Watford,Steven Berhuis,Spent,Full Transfer,6.5,6.5
+2015/16,13,Watford,Mario Suarez,Spent,Full Transfer,5.3,5.3
+2015/16,13,Watford,Valon Behrami,Spent,Full Transfer,3.5,3.5
+2015/16,13,Watford,Jose Holebas,Spent,Full Transfer,2.5,2.5
+2015/16,13,Watford,Victor Ibarbo,Spent,Loan Fee,2,2
+2015/16,13,Watford,Fernando Forestieri,Received,Full Transfer,4.12,-4.12
+2015/16,13,Watford,Matej Vydra,Received,Loan Fee,2.7,-2.7
+2015/16,13,Watford,Diego Fabbirni,Received,Full Transfer,2,-2
+2015/16,13,Watford,Miguel Layun,Received,Loan Fee,0.5,-0.5
+2015/16,13,Watford,Lewis McGugan,Received,Full Transfer,0.43,-0.43
+2015/16,14,West Bromwich Albion,Jose Salomon Rondon,Spent,Full Transfer,17,17
+2015/16,14,West Bromwich Albion,James Chester,Spent,Full Transfer,11.3,11.3
+2015/16,14,West Bromwich Albion,Jonny Evans,Spent,Full Transfer,8.3,8.3
+2015/16,14,West Bromwich Albion,Rickie Lambert,Spent,Full Transfer,4.2,4.2
+2015/16,14,West Bromwich Albion,James McClean,Spent,Full Transfer,2.1,2.1
+2015/16,14,West Bromwich Albion,Brown Ideye,Received,Full Transfer,5.42,-5.42
+2015/16,14,West Bromwich Albion,Graham Dorrans,Received,Full Transfer,4.1,-4.1
+2015/16,14,West Bromwich Albion,Sebastian Blanco,Received,Full Transfer,2,-2
+2015/16,14,West Bromwich Albion,Joleon Lescott,Received,Full Transfer,1.4,-1.4
+2015/16,15,Crystal Palace,Yohan Cabaye,Spent,Full Transfer,13.9,13.9
+2015/16,15,Crystal Palace,Connor Wickham,Spent,Full Transfer,10,10
+2015/16,15,Crystal Palace,Alex McCarthy,Spent,Full Transfer,4.9,4.9
+2015/16,15,Crystal Palace,Glenn Murray,Received,Full Transfer,5.4,-5.4
+2015/16,16,Bournemouth,Benik Afobe,Spent,Full Transfer,13.3,13.3
+2015/16,16,Bournemouth,Tyrone Mings,Spent,Full Transfer,11.3,11.3
+2015/16,16,Bournemouth,Max Gradel,Spent,Full Transfer,10,10
+2015/16,16,Bournemouth,Lewis Grabban,Spent,Full Transfer,9.35,9.35
+2015/16,16,Bournemouth,Glenn Murray,Spent,Full Transfer,5.4,5.4
+2015/16,16,Bournemouth,Lee Tomlin,Spent,Full Transfer,4.3,4.3
+2015/16,16,Bournemouth,Juan Iturbe,Spent,Loan Fee,1.2,1.2
+2015/16,16,Bournemouth,Rhoys Wiggins,Spent,Full Transfer,0.26,0.26
+2015/16,16,Bournemouth,Yann Kermorgant,Received,Full Transfer,0.65,-0.65
+2015/16,17,Sunderland,Wahbi Khazri,Spent,Full Transfer,11.8,11.8
+2015/16,17,Sunderland,Jermain Lens,Spent,Full Transfer,11.4,11.4
+2015/16,17,Sunderland,Fabio Borini,Spent,Full Transfer,10.7,10.7
+2015/16,17,Sunderland,Ricardo Alvarez,Spent,Full Transfer,10.5,10.5
+2015/16,17,Sunderland,Lamine Kone,Spent,Full Transfer,6.5,6.5
+2015/16,17,Sunderland,Younes Kaboul,Spent,Full Transfer,4.3,4.3
+2015/16,17,Sunderland,Santiago Vergini,Spent,Full Transfer,2.85,2.85
+2015/16,17,Sunderland,Adam Matthews,Spent,Full Transfer,2.8,2.8
+2015/16,17,Sunderland,Sebastian Coates,Spent,Full Transfer,2.8,2.8
+2015/16,17,Sunderland,Dame N'Doye,Spent,Loan Fee,1.4,1.4
+2015/16,17,Sunderland,Jan Kirchoff,Spent,Full Transfer,1,1
+2015/16,17,Sunderland,Connor Wickham,Received,Full Transfer,10,-10
+2015/16,17,Sunderland,Sebastian Coates,Received,Loan Fee,0.32,-0.32
+2015/16,17,Sunderland,Emanuele Giaccherini,Received,Loan Fee,0.325,-0.325
+2015/16,18,Newcastle United,Georginio Wijnaldum,Spent,Full Transfer,20,20
+2015/16,18,Newcastle United,Aleksandar Mitrovic,Spent,Full Transfer,18.5,18.5
+2015/16,18,Newcastle United,Florian Thauvin,Spent,Full Transfer,18.35,18.35
+2015/16,18,Newcastle United,Jonjo Shelvey,Spent,Full Transfer,16,16
+2015/16,18,Newcastle United,Andros Townsend,Spent,Full Transfer,15.7,15.7
+2015/16,18,Newcastle United,Chancel Mbemba,Spent,Full Transfer,12,12
+2015/16,18,Newcastle United,Henri Saivet,Spent,Full Transfer,6,6
+2015/16,18,Newcastle United,Seydou Doumbia,Spent,Full Transfer,1,1
+2015/16,18,Newcastle United,Ivan Toney,Spent,Full Transfer,0.7,0.7
+2015/16,18,Newcastle United,Davide Santon,Received,Full Transfer,3.7,-3.7
+2015/16,18,Newcastle United,Mehdi Abeid,Spent,Full Transfer,0.6,0.6
+2015/16,18,Newcastle United,Mike Williamson,Spent,Full Transfer,0.33,0.33
+2015/16,19,Norwich City,Timm Klose,Spent,Full Transfer,11,11
+2015/16,19,Norwich City,Steven Naismith,Spent,Full Transfer,11,11
+2015/16,19,Norwich City,Robbie Brady,Spent,Full Transfer,9.9,9.9
+2015/16,19,Norwich City,Graham Dorrans,Spent,Full Transfer,4.1,4.1
+2015/16,19,Norwich City,Ivo Pinto,Spent,Full Transfer,3.7,3.7
+2015/16,19,Norwich City,Matt Jarvis,Spent,Full Transfer,3.4,3.4
+2015/16,19,Norwich City,James Maddison,Spent,Full Transfer,2.65,2.65
+2015/16,19,Norwich City,Andrew Wisdom,Spent,Loan Fee,1.8,1.8
+2015/16,19,Norwich City,Lewis Grabban,Received,Full Transfer,9.35,-9.35
+2015/16,19,Norwich City,Bradley Johnson,Received,Full Transfer,8.1,-8.1
+2015/16,19,Norwich City,Gary Hooper,Received,Full Transfer,3.9,-3.9
+2015/16,19,Norwich City,Cameron McGeehan,Received,Full Transfer,0.14,-0.14
+2015/16,20,Aston Villa,Jordan Ayew,Spent,Full Transfer,12,12
+2015/16,20,Aston Villa,Jordan Amavi,Spent,Full Transfer,11,11
+2015/16,20,Aston Villa,Jordan Veretout,Spent,Full Transfer,10,10
+2015/16,20,Aston Villa,Adama Traore,Spent,Full Transfer,10,10
+2015/16,20,Aston Villa,Idrissa Gueye,Spent,Full Transfer,9,9
+2015/16,20,Aston Villa,Rudy Gestede,Spent,Full Transfer,8.5,8.5
+2015/16,20,Aston Villa,Scott Sinclair,Spent,Full Transfer,3.5,3.5
+2015/16,20,Aston Villa,Joleon Lescott,Spent,Full Transfer,1.4,1.4
+2015/16,20,Aston Villa,Jose Crespo,Spent,Full Transfer,0.7,0.7
+2015/16,20,Aston Villa,Tiago Ilori,Spent,Loan Fee,0.35,0.35
+2015/16,20,Aston Villa,Christian Benteke,Received,Full Transfer,46.5,-46.5
+2015/16,20,Aston Villa,Fabian Delph,Received,Full Transfer,11.5,-11.5
+2015/16,20,Aston Villa,Andreas Weimann,Received,Full Transfer,3.8,-3.8
+2015/16,20,Aston Villa,Yacouba Sylla,Received,Full Transfer,1.5,-1.5
+2015/16,20,Aston Villa,Matthew Lowton,Received,Full Transfer,1.4,-1.4

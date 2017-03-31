@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="926387d5-cfda-4caf-9df8-7f8ce6e8ae77" name="Default" comment="split spent and received for chart and graph label updates">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/football_transfers_data.csv" afterPath="" />
+    <list default="true" id="926387d5-cfda-4caf-9df8-7f8ce6e8ae77" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stream 2 Project - Football Transfers.py" afterPath="$PROJECT_DIR$/Stream 2 Project - Football Transfers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/custom.css" afterPath="$PROJECT_DIR$/static/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/graph.js" afterPath="$PROJECT_DIR$/static/js/graph.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/dashboard.html" afterPath="$PROJECT_DIR$/templates/dashboard.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -631,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490950143451</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated database and net transfer chart">
+      <created>1490959432258</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1490959432258</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -716,7 +718,8 @@
     <MESSAGE value="transfer value chart now shows number of transfers not total value" />
     <MESSAGE value="updated readme and graph changes" />
     <MESSAGE value="split spent and received for chart and graph label updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="split spent and received for chart and graph label updates" />
+    <MESSAGE value="updated database and net transfer chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated database and net transfer chart" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
