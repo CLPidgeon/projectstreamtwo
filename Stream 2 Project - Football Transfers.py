@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 MONGODB_HOST = 'localhost'
 MONGODB_PORT = 27017
-DBS_NAME = 'ftdb'
+DBS_NAME = 'footballtransfersdb'
 COLLECTION_NAME = 'data'
 
 
@@ -29,7 +29,7 @@ def trends():
 def transfer_data():
     fields = {
         '_id': False, 'season': True, 'league_position': True, 'club': True, 'player_name': True,
-        'transfer_direction': True, 'transfer_type': True, 'transfer_value': True
+        'transfer_direction': True, 'transfer_type': True, 'transfer_value': True, 'net_transfer': True
     }
 
     with MongoClient(MONGODB_HOST, MONGODB_PORT) as conn:

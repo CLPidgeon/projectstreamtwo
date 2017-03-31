@@ -28,13 +28,16 @@ function makeGraphs(error, dataJson) {
         return d["player_name"];
     });
     var directionDim  = ndx.dimension(function(d) {
-        return d["transfer_direction"];
+        return d["transfer_direction"]
     });
     var typeDim = ndx.dimension(function(d){
         return d["transfer_type"];
     });
     var valueDim = ndx.dimension(function(d){
         return d["transfer_value"];
+    });
+    var netDim = ndx.dimension(function(d){
+        return d["net_transfer"];
     });
     var transferValueDim = ndx.dimension(function (d) {
     var value = d["transfer_value"];
@@ -58,13 +61,17 @@ function makeGraphs(error, dataJson) {
 
     //calculating
 
-    var numTransfersBySeason = seasonDim.group();
+    var netTransfersBySeason = seasonDim.group().reduceSum(function(d){return d["net_transfer"];});
     var numTransfersByType = typeDim.group();
     var clubGroup = clubDim.group();
+    var seasonGroup = seasonDim.group();
     var all = ndx.groupAll();
-    var totalTransfers = ndx.groupAll().reduceSum(function(d){return (d["transfer_value"] * 1000000);});
+    var totalTransfers = ndx.groupAll().reduceSum(function(d){return (d["net_transfer"] * 1000000);});
     var transferValueGroup = transferValueDim.group().reduceCount();
     var transferDirectionTotals = directionDim.group().reduceSum(function(d){return d.transfer_value;});
+
+
+
 
 
 
@@ -92,6 +99,12 @@ function makeGraphs(error, dataJson) {
        .dimension(clubDim)
        .group(clubGroup);
 
+   selectField = dc.selectMenu('#season-select')
+       .width(100)
+       .height(30)
+       .dimension(seasonDim)
+       .group(seasonGroup);
+
    numberTransfers
        .formatNumber(d3.format("d"))
        .valueAccessor(function(d){return d;})
@@ -107,13 +120,12 @@ function makeGraphs(error, dataJson) {
        .width(350)
        .height(200)
        .dimension(seasonDim)
-       .group(numTransfersBySeason)
+       .group(netTransfersBySeason)
        .x(d3.time.scale().domain([minDate,maxDate]))
        .elasticY(true)
        .brushOn(false)
        .xAxisLabel("Season")
        .yAxisLabel("Spend(m)")
-       .legend(dc.legend().x(305).y(40).itemHeight(13).gap(5))
        .renderArea(true);
 
 
