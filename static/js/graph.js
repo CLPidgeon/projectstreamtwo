@@ -4,9 +4,9 @@ queue()
 
 function makeGraphs(error, dataJson) {
    var TransferData = dataJson;
-   var dateFormat = d3.time.format("%Y/%Y");
+   var dateFormat = d3.time.format("%Y");
    TransferData.forEach(function (d) {
-       d["season"] = dateFormat.parse(d["season"]);
+       d["season"] = dateFormat.parse(String(d["season"]));
        d["transfer_value"] = +d["transfer_value"];
        d["position"] = +d["position"];
    });
@@ -28,16 +28,15 @@ function makeGraphs(error, dataJson) {
         return d["player_name"];
     });
     var directionDim  = ndx.dimension(function(d) {
-        return d["transfer_direction"]
+    var direction = d["transfer_direction"];
+        if (direction == "Spent"){
+            return "Spent"
+        } if (direction == "Received"){
+            return "Received"
+        }
     });
     var typeDim = ndx.dimension(function(d){
         return d["transfer_type"];
-    });
-    var valueDim = ndx.dimension(function(d){
-        return d["transfer_value"];
-    });
-    var netDim = ndx.dimension(function(d){
-        return d["net_transfer"];
     });
     var transferValueDim = ndx.dimension(function (d) {
     var value = d["transfer_value"];
@@ -58,7 +57,6 @@ function makeGraphs(error, dataJson) {
     }
 });
 
-
     //calculating
 
     var netTransfersBySeason = seasonDim.group().reduceSum(function(d){return d["net_transfer"];});
@@ -71,16 +69,15 @@ function makeGraphs(error, dataJson) {
     var transferDirectionTotals = directionDim.group().reduceSum(function(d){return d.transfer_value;});
 
 
-
-
-
-
+    // xAxisPosition = this.svg.selectAll(".tick").filter((data) => {
+    // return data === 0;
+    //   }).map((tick) => {
+    //return d3.transform(d3.select(tick[0]).attr('transform')).translate[1];
+    //});
 
     //working out lowest and highest dates
     var minDate = seasonDim.bottom(1)[0]["season"];
     var maxDate = seasonDim.top(1)[0]["season"];
-
-
 
     //Charts
     var transfersChart = dc.rowChart("#spendingChart");
@@ -89,9 +86,6 @@ function makeGraphs(error, dataJson) {
     var transferTypeChart = dc.pieChart("#type-row-chart");
     var numberTransfers = dc.numberDisplay("#total-number");
     var transferTotal = dc.numberDisplay("#total-net");
-
-
-
 
    selectField = dc.selectMenu('#club-select')
        .width(100)
@@ -127,8 +121,6 @@ function makeGraphs(error, dataJson) {
        .xAxisLabel("Season")
        .yAxisLabel("Spend(m)")
        .renderArea(true);
-
-
 
    transferValueChart
 	.width(300)
