@@ -68,13 +68,6 @@ function makeGraphs(error, dataJson) {
     var transferValueGroup = transferValueDim.group().reduceCount();
     var transferDirectionTotals = directionDim.group().reduceSum(function(d){return d.transfer_value;});
 
-
-    // xAxisPosition = this.svg.selectAll(".tick").filter((data) => {
-    // return data === 0;
-    //   }).map((tick) => {
-    //return d3.transform(d3.select(tick[0]).attr('transform')).translate[1];
-    //});
-
     //working out lowest and highest dates
     var minDate = seasonDim.bottom(1)[0]["season"];
     var maxDate = seasonDim.top(1)[0]["season"];
@@ -133,7 +126,7 @@ function makeGraphs(error, dataJson) {
    transfersChart
        .width(350)
        .height(200)
-       .dimension(seasonDim)
+       .dimension(directionDim)
        .group(transferDirectionTotals)
        .elasticX(true)
        .xAxis().ticks(5);

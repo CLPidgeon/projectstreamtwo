@@ -2,14 +2,14 @@
 {% block content %}
     <div class="row">
         <div class="col-lg-12 text-div">
-            <p>Welcome to the Dashboard, click the button for chart explanations.
-            <button class="intro_button" type="button" autofocus onclick="javascript:introJs().start();">Start Tour!</button>
+            <p>Welcome to the Dashboard, the chart tour button will give further explanation for each chart.
+            <button class="intro_button" type="button" autofocus onclick="javascript:introJs().start();">Chart Tour!</button>
             </p>
         </div>
     </div>
     <div class="row">
          <div class="col-sm-6 chart-div" data-step="1"
-         data-intro="This is a bar graph showing the total transfer values going in and out" style="font-weight: normal" data-position="center">
+         data-intro="This is a line graph showing the net spend per season in millions" style="font-weight: normal" data-position="center">
              <div class="chart-header">
                  Net Spending:
              </div>
@@ -17,7 +17,8 @@
              </div>
          </div>
         <div class="col-sm-6 chart-div" data-step="2"
-         data-intro="This is a pie chart displaying transfer values " style="font-weight: normal" data-position="center">
+         data-intro="This is a row chart, this splits the transfer values into groups and shows how many transfers occur
+in each group" style="font-weight: normal" data-position="center">
              <div class="chart-header">
                  Transfer Value Groups:
              </div>
@@ -27,7 +28,7 @@
     </div>
     <div class="row">
          <div class="col-sm-6 chart-div" data-step="3"
-         data-intro="This is a line graph showing the net spend" style="font-weight: normal" data-position="center">
+         data-intro="This is a row chart displaying the amount spent and received" style="font-weight: normal" data-position="center">
              <div class="chart-header">
                  Transfers In and Out:
              </div>
@@ -35,7 +36,7 @@
              </div>
          </div>
          <div class="col-sm-6 chart-div" data-step="4"
-         data-intro="This is a side bar chart showing the amount of transfers and loans" style="font-weight: normal" data-position="center">
+         data-intro="This is a pie chart showing the proportion of transfers and loans with fees" style="font-weight: normal" data-position="center">
              <div class="chart-header">
                  Transfer Type:
              </div>
@@ -45,7 +46,7 @@
     </div>
     <div class="row">
          <div class="col-sm-3 mini-div" data-step="5"
-         data-intro="This is a drop down menu to allow the selection of a club" style="font-weight: normal" data-position="center">
+         data-intro="This is a drop down menu to allow the selection of a particular club" style="font-weight: normal" data-position="center">
             <div class="chart-header">
                 Select a Club:
             </div>
@@ -54,7 +55,7 @@
              </div>
          </div>
          <div class="col-sm-3 mini-div" data-step="6"
-         data-intro="This is a drop down menu to allow the selection of a season" style="font-weight: normal" data-position="center">
+         data-intro="This is a drop down menu to allow the selection of a single season" style="font-weight: normal" data-position="center">
             <div class="chart-header">
                 Select a Season:
             </div>
@@ -63,7 +64,7 @@
              </div>
          </div>
          <div class="col-sm-3 mini-div" data-step="7"
-         data-intro="This display the total number of transfers" style="font-weight: normal" data-position="center">
+         data-intro="This displays the total number of transfers" style="font-weight: normal" data-position="center">
              <div class="chart-header">
                  Transfers:
              </div>
@@ -79,7 +80,7 @@
              </div>
          </div>
          <div class="col-sm-3 mini-div" data-step="9"
-         data-intro="This displays the most expensive player" style="font-weight: normal" data-position="center">
+         data-intro="This displays the highest transfer value spent" style="font-weight: normal" data-position="center">
              <div class="chart-header">
                  Highest Fee:
              </div>
