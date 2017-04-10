@@ -28,12 +28,7 @@ function makeGraphs(error, dataJson) {
         return d["player_name"];
     });
     var directionDim  = ndx.dimension(function(d) {
-    var direction = d["transfer_direction"];
-        if (direction == "Spent"){
-            return "Spent"
-        } if (direction == "Received"){
-            return "Received"
-        }
+        return d["transfer_direction"];
     });
     var typeDim = ndx.dimension(function(d){
         return d["transfer_type"];
@@ -138,5 +133,5 @@ function makeGraphs(error, dataJson) {
     .group(numTransfersByType)
     .innerRadius(50);
 
-    dc.renderAll();
+   dc.renderAll();
 }

@@ -66,12 +66,12 @@ body {
     height: 250px;
     padding-right: 2px;
     padding-top: 2px;
-    align-content: center;
 }
 
 .text-div{
     background-color: deepskyblue;
     color: white;
+    text-align: center;
 }
 
 .mini-div{
@@ -103,14 +103,10 @@ body {
 }
 
 #link{
-    color:red;
+    color:black;
 }
 
 .header{
     text-align: center;
-}
-
-a {
-    color: black;
 }
 
