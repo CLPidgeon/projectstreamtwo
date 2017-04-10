@@ -1,5 +1,6 @@
 body {
     padding-top: 50px;
+    background-color: deepskyblue;
 }
 
 .intro_button{
@@ -15,7 +16,6 @@ body {
 .navbar-custom{
     background-color: deepskyblue;
     border: 2px black solid;
-    border-radius: 10px;
 }
 
 .navbar-custom ul li a{
@@ -27,7 +27,7 @@ body {
     color: deepskyblue;
 }
 
-        @media (max-width: 1000px) {
+        @media (max-width: 992px) {
         .navbar-header {
             float: none;
         }
@@ -66,13 +66,12 @@ body {
     height: 250px;
     padding-right: 2px;
     padding-top: 2px;
+    align-content: center;
 }
 
 .text-div{
     background-color: deepskyblue;
     color: white;
-    border-radius: 10px;
-    border: 1px black solid;
 }
 
 .mini-div{
@@ -109,5 +108,9 @@ body {
 
 .header{
     text-align: center;
+}
+
+a {
+    color: black;
 }
 

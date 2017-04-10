@@ -1,11 +1,31 @@
-Last updated 01/04/2017
+Last updated 10/04/2017
 
-Football Transfer Window Dashboard
+# Football Transfer Window Dashboard
 
-This is an interactive chart dashboard from a database compiled using 10 seasons worth of transfer data.
+## Overview
 
-The site has been tested using Chrome and Edge browsers.
+### What is this site for?
+The aim of the dashboard is to allow an interactive look at football transfer data with various ways of filtering the chart data.
 
-The tour tool was edited from introjs code.
+### What does it do?
+The charts are fully interactive - selecting a club will display the data only applicable for that club. This allows
 
-The aim of the dashboard is to allow an interactive look at transfer data with various ways of filtering the data.
+### How does it work?
+The site uses Flask to retrieve data from a MongoDB and through use of D3.js, DC.js and crossfilter.js the data is filtered into dynamic and interactive charts.
+  Bootstrap is used to give the site a responsive layout with routing done using Python.
+
+### Features
+- About page
+- Charts - pie chart, line graph, row charts, menu selectors and number displays
+
+### Tech Used
+- **Python** - The programming language used for routing.
+- **MongoDB** - The database used to store the Football Transfers Data.
+- **Flask** - Used to retrieve the data from the database and return it to the browser.
+- **D3.JS** - Used in the front end to display the data.
+- **DC.JS** & **crossfilter.js** - Used to filter and sort the data and allow interactivity.
+- **introjs** - The tour tool used existing introjs code.
+- **Bootstrap** - To give the site a responsive layout.
+
+### Testing
+The site has been tested using Chrome, Firefox and Edge browsers.
