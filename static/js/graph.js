@@ -71,7 +71,7 @@ function makeGraphs(error, dataJson) {
     //working out lowest and highest dates
     var minDate = seasonDim.bottom(1)[0]["season"];
     var maxDate = seasonDim.top(1)[0]["season"];
-    var maxValue = netDim.top(1);
+    var maxValue = netDim.top(1)[0]["net_transfer"];
 
     //Charts
     var transfersChart = dc.rowChart("#spendingChart");
@@ -118,6 +118,40 @@ function makeGraphs(error, dataJson) {
        .group(netDim)
        .formatNumber(d3.format(".2s"));
 
+var x = d3.scale.linear().domain([minDate, maxDate]);
+var y = d3.scale.linear().domain([]);
+
+var line = d3.svg.line()
+	.x(function(d, season){
+	return x(season);
+	})
+	.y(function(d){return y(d);});
+
+var graph = d3.select("#netChart").append("svg:svg")
+	.attr("width", "350")
+	.attr("height", "200")
+	.append("svg:g");
+
+var xAxis = d3.svg.axis().scale(x).ticks(5);
+
+//xAxisPosition = this.svg.selectAll("tick").filter((netTransfersBySeason) =>{
+//	return netTransfersBySeason ===0;
+//}).map((tick) => {
+//	return d3.transform(d3.select(tick[0]).attr('transform')).translate[1];
+//});
+
+graph.append("svg:g")
+	.attr("class", "x axis")
+//	.attr('transform', 'translate(0,' + xAxisPosition + ')')
+	.call(xAxis);
+
+var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
+
+graph.append("svg:g")
+	.attr("class", "y axis")
+	.call(yAxisLeft);
+
+graph.append("svg:path").attr("d", line(netTransfersBySeason));
    netChart
        .width(350)
        .height(200)
@@ -127,7 +161,7 @@ function makeGraphs(error, dataJson) {
        .elasticY(true)
        .brushOn(false)
        .xAxisLabel("Season")
-       .yAxisLabel("Spend(m)")
+       .yAxisLabel("Net Spend(m)")
        .renderArea(true);
 
    transferValueChart
