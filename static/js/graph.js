@@ -142,7 +142,7 @@ var xAxis = d3.svg.axis().scale(x).ticks(5);
 
 graph.append("svg:g")
 	.attr("class", "x axis")
-//	.attr('transform', 'translate(0,' + xAxisPosition + ')')
+//	.attr('transform', 'translate(0, ' + xAxisPosition + ')')
 	.call(xAxis);
 
 var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
