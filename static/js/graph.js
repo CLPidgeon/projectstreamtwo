@@ -19,14 +19,8 @@ function makeGraphs(error, dataJson) {
     var seasonDim = ndx.dimension(function(d){
         return d["season"];
     });
-    var positionDim = ndx.dimension(function(d){
-        return d["position"];
-    });
     var clubDim = ndx.dimension(function(d){
         return d["club"];
-    });
-    var playerDim = ndx.dimension(function(d){
-        return d["player_name"];
     });
     var directionDim  = ndx.dimension(function(d) {
         return d["transfer_direction"];
@@ -53,6 +47,7 @@ function makeGraphs(error, dataJson) {
     }
 });
 
+
     var netDim = ndx.dimension(function (d){
         return d["net_transfer"];
     });
@@ -71,7 +66,8 @@ function makeGraphs(error, dataJson) {
     //working out lowest and highest dates
     var minDate = seasonDim.bottom(1)[0]["season"];
     var maxDate = seasonDim.top(1)[0]["season"];
-    var maxValue = netDim.top(1)[0]["net_transfer"];
+    var maxValue = transferValueDim.top(1)[0]["transfer_value"];
+    console.log(maxValue);
 
     //Charts
     var transfersChart = dc.rowChart("#spendingChart");
@@ -110,11 +106,11 @@ function makeGraphs(error, dataJson) {
        .formatNumber(d3.format("d"))
        .valueAccessor(function (d){return d;})
        .group(totalTransfers)
-       .formatNumber(d3.format(".2s"));
+       .formatNumber(d3.format(".3s"));
 
    biggestTransfer
        .formatNumber(d3.format("d"))
-       .valueAccessor(function (d){return +d;})
+       .valueAccessor(function(d){return d;})
        .group(netDim)
        .formatNumber(d3.format(".2s"));
 
@@ -187,5 +183,5 @@ graph.append("svg:path").attr("d", line(netTransfersBySeason));
     .group(numTransfersByType)
     .innerRadius(50);
 
-   dc.renderAll();
+    dc.renderAll();
 }
