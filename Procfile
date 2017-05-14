@@ -1,1 +1,1 @@
-"web: gunicorn football_transfers:app" 
+web: gunicorn football_transfers:app
