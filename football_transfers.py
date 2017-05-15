@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from flask import render_template
 from pymongo import MongoClient
@@ -5,9 +6,8 @@ import json
 
 app = Flask(__name__)
 
-MONGODB_HOST = 'localhost'
-MONGODB_PORT = 27017
-DBS_NAME = 'footballtransfers'
+MONGO_URI = os.getenv('MONGODB_URI', 'mongodb://localhost:27017')
+DBS_NAME = os.getenv('MONGO_DB_NAME', 'footballtransfers')
 COLLECTION_NAME = 'data'
 
 
@@ -32,7 +32,7 @@ def transfer_data():
         'transfer_direction': True, 'transfer_type': True, 'transfer_value': True, 'net_transfer': True
     }
 
-    with MongoClient(MONGODB_HOST, MONGODB_PORT) as conn:
+    with MongoClient(MONGO_URI) as conn:
         collection = conn[DBS_NAME][COLLECTION_NAME]
         data = collection.find(projection=fields, limit=5000)
         return json.dumps(list(data))
