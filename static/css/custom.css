@@ -79,6 +79,66 @@ header {
         .collapse.in{
             display:block !important;
         }
+
+        .chart{
+    background-color: white;
+    color: deepskyblue;
+    border-radius: 10px;
+    border: 2px black solid;
+    width: 48%;
+    height: 300px;
+    padding-right: 2px;
+    padding-top: 2px;
+}
+
+.chart-container {
+    align-content: center;
+    margin: auto;
+}
+
+.text{
+    background-color: deepskyblue;
+    color: white;
+    text-align: center;
+}
+
+.mini-chart{
+    background-color: white;
+    color: deepskyblue;
+    border-radius: 10px;
+    border: 1px black solid;
+    height: 70px;
+    width: 24%;
+    padding-right: 2px;
+    padding-top: 2px;
+}
+
+.dc-select-menu {
+   background: deepskyblue;
+   width: 80%;
+   border: none;
+   position: relative;
+   height: 20px;
+   font-size: 15px;
+   color: white;
+   vertical-align: middle;
+   text-align: center;
+   padding-top: 4px;
+}
+
+#link{
+    color:black;
+}
+
+.chart-header {
+    text-align: center;
+    border-bottom: 1px black solid;
+}
+
+header {
+    text-align: center;
+    font-size: 20px;
+}
 }
 
 .chart{
