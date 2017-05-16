@@ -9,6 +9,7 @@
 
 
     <body>
+    <section class="page">
          <nav class="navbar navbar-inverse navbar-fixed-top navbar-custom">
             <div class="container">
                 <div class="navbar-header">
@@ -30,7 +31,7 @@
             {% block content %}
             {% endblock %}
         </div>
-
+</section>
 
         <script src="{{ url_for ('static', filename='lib/js/jquery.min.js')}}"></script>
         <script src="{{ url_for ('static', filename='lib/js/bootstrap.min.js')}}"></script>

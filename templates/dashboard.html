@@ -1,92 +1,83 @@
 {% extends "layout.html" %}
 {% block content %}
-    <div class="row">
-        <div class="col-lg-12 text-div">
+    <section class="row">
+        <article class="col-lg-12 text">
             <p>Welcome to the Dashboard, the chart tour button will give further explanation for each chart.
             <button class="intro_button" type="button" autofocus onclick="javascript:introJs().start();">Chart Tour!</button>
             </p>
-        </div>
-    </div>
-    <div class="row">
-         <div class="col-sm-6 chart-div" data-step="1"
+        </article>
+    </section>
+    <section class="row">
+         <article class="col-sm-6 chart" data-step="1"
          data-intro="This is a line graph showing the net spend per season in millions" style="font-weight: normal" data-position="center">
-             <div class="chart-header">
+             <header class="chart-header">
                  Net Spending:
-             </div>
-             <div id="netChart">
-             </div>
-         </div>
-        <div class="col-sm-6 chart-div" data-step="2"
+             </header>
+             <article id="netChart" class="chart-container">
+             </article>
+         </article>
+        <article class="col-sm-6 chart" data-step="2"
          data-intro="This is a row chart, this splits the transfer values into groups and shows how many transfers occur
 in each group" style="font-weight: normal" data-position="center">
-             <div class="chart-header">
+             <header class="chart-header">
                  Transfer Value Groups:
-             </div>
-             <div id="valueChart">
-             </div>
-        </div>
-    </div>
-    <div class="row">
-         <div class="col-sm-6 chart-div" data-step="3"
+             </header>
+             <article id="valueChart" class="chart-container">
+             </article>
+        </article>
+    </section>
+    <section class="row">
+         <article class="col-sm-6 chart" data-step="3"
          data-intro="This is a row chart displaying the amount spent and received" style="font-weight: normal" data-position="center">
-             <div class="chart-header">
+             <header class="chart-header">
                  Transfers In and Out:
-             </div>
-             <div id="spendingChart">
-             </div>
-         </div>
-         <div class="col-sm-6 chart-div" data-step="4"
+             </header>
+             <article id="spendingChart" class="chart-container">
+             </article>
+         </article>
+         <article class="col-sm-6 chart" data-step="4"
          data-intro="This is a pie chart showing the proportion of transfers and loans with fees" style="font-weight: normal" data-position="center">
-             <div class="chart-header">
+             <header class="chart-header">
                  Transfer Type:
-             </div>
-             <div id="type-row-chart">
-             </div>
-         </div>
-    </div>
-    <div class="row">
-         <div class="col-sm-3 mini-div" data-step="5"
+             </header>
+             <article id="type-row-chart" class="chart-container">
+             </article>
+         </article>
+    </section>
+    <section class="row">
+         <article class="col-sm-3 mini-chart" data-step="5"
          data-intro="This is a drop down menu to allow the selection of a particular club" style="font-weight: normal" data-position="center">
-            <div class="chart-header">
+            <header class="chart-header">
                 Select a Club:
-            </div>
-             <div id="club-select">
+            </header>
+             <article id="club-select">
 
-             </div>
-         </div>
-         <div class="col-sm-3 mini-div" data-step="6"
+             </article>
+         </article>
+         <article class="col-sm-3 mini-chart" data-step="6"
          data-intro="This is a drop down menu to allow the selection of a single season" style="font-weight: normal" data-position="center">
-            <div class="chart-header">
+            <header class="chart-header">
                 Select a Season:
-            </div>
-             <div id="season-select">
+            </header>
+             <article id="season-select">
 
-             </div>
-         </div>
-         <div class="col-sm-3 mini-div" data-step="7"
+             </article>
+         </article>
+         <article class="col-sm-3 mini-chart" data-step="7"
          data-intro="This displays the total number of transfers" style="font-weight: normal" data-position="center">
-             <div class="chart-header">
+             <header class="chart-header">
                  Transfers:
-             </div>
-             <div id="total-number">
-             </div>
-         </div>
-         <div class="col-sm-3 mini-div" data-step="8"
+             </header>
+             <article id="total-number">
+             </article>
+         </article>
+         <article class="col-sm-3 mini-chart" data-step="8"
          data-intro="This displays the net spend" style="font-weight: normal" data-position="center">
-             <div class="chart-header">
+             <header class="chart-header">
                  Net Spend:
-             </div>
-             <div id="total-net">
-             </div>
-         </div>
-         <div class="col-sm-3 mini-div" data-step="9"
-         data-intro="This displays the highest transfer value spent" style="font-weight: normal" data-position="center">
-             <div class="chart-header">
-                 Highest Fee:
-             </div>
-             <div id="biggest-transfer">
-
-             </div>
-         </div>
-    </div>
+             </header>
+             <article id="total-net">
+             </article>
+         </article>
+    </section>
 {% endblock %}

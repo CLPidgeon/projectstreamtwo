@@ -3,6 +3,13 @@ body {
     background-color: deepskyblue;
 }
 
+.page {
+    position: relative;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
 .intro_button{
     color: deepskyblue;
     background-color: white;
@@ -27,7 +34,24 @@ body {
     color: deepskyblue;
 }
 
+.chart-header {
+    text-align: center;
+    border-bottom: 1px black solid;
+}
+
+header {
+    text-align: center;
+    font-size: 20px;
+}
+
         @media (max-width: 992px) {
+
+        .page {
+            position: relative;
+            width:100%;
+            display: block;
+            margin: auto;
+        }
         .navbar-header {
             float: none;
         }
@@ -57,36 +81,37 @@ body {
         }
 }
 
-.chart-div{
+.chart{
     background-color: white;
     color: deepskyblue;
     border-radius: 10px;
     border: 2px black solid;
-    width: 400px;
-    height: 250px;
+    width: 48%;
+    height: 300px;
     padding-right: 2px;
     padding-top: 2px;
 }
 
-.text-div{
+.chart-container {
+    align-content: center;
+    margin: auto;
+}
+
+.text{
     background-color: deepskyblue;
     color: white;
     text-align: center;
 }
 
-.mini-div{
+.mini-chart{
     background-color: white;
     color: deepskyblue;
     border-radius: 10px;
     border: 1px black solid;
-    height: 50px;
-    width: 150px;
+    height: 70px;
+    width: 24%;
     padding-right: 2px;
     padding-top: 2px;
-}
-
-.chart-header{
-    border-bottom: 1px black solid;
 }
 
 .dc-select-menu {
@@ -106,7 +131,4 @@ body {
     color:black;
 }
 
-.header{
-    text-align: center;
-}
 
