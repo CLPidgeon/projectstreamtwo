@@ -147,7 +147,7 @@ header {
 
             header {
                 text-align: center;
-                font-size: 25px;
+                font-size: 20px;
                 background-color: white;
                 color: deepskyblue;
             }
@@ -182,7 +182,7 @@ header {
                 border: 2px black solid;
                 background-color: white;
                 color: deepskyblue;
-                width: 48%;
+                width: 45%;
                 height: 350px;
             }
 
