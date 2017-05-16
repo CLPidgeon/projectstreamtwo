@@ -6,9 +6,9 @@ import json
 
 app = Flask(__name__)
 
-MONGO_URI = os.getenv('MONGODB_URI', 'mongodb://localhost:27017')
+MONGO_URI = os.getenv('MONGODB_URI', 'localhost:27017')
 DBS_NAME = os.getenv('MONGO_DB_NAME', 'footballtransfers')
-COLLECTION_NAME = 'data'
+COLLECTION_NAME = 'project'
 
 
 @app.route('/')
@@ -25,6 +25,7 @@ def dashboard():
 def trends():
     return render_template('trends.html')
 
+
 @app.route('/ftdb/data')
 def transfer_data():
     fields = {
@@ -34,8 +35,8 @@ def transfer_data():
 
     with MongoClient(MONGO_URI) as conn:
         collection = conn[DBS_NAME][COLLECTION_NAME]
-        data = collection.find(projection=fields, limit=5000)
-        return json.dumps(list(data))
+        project = collection.find(projection=fields, limit=3000)
+        return json.dumps(list(project))
 
 if __name__ == '__main__':
     app.run(debug=True)
