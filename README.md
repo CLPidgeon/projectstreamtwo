@@ -17,7 +17,7 @@ The site uses Flask to retrieve data from a MongoDB and through use of D3.js, DC
 
 ### Features
 - About page
-- Trends page
+- Trends page highlighting some of the trends the charts reveal.
 - Charts - pie chart, line graph, row charts, menu selectors and number displays
 
 ### Tech Used
