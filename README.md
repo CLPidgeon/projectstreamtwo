@@ -1,4 +1,4 @@
-Last updated 10/04/2017
+Last updated 17/05/2017
 
 # Football Transfer Window Dashboard
 
@@ -8,7 +8,8 @@ Last updated 10/04/2017
 The aim of the dashboard is to allow an interactive look at football transfer data with various ways of filtering the chart data.
 
 ### What does it do?
-The charts are fully interactive - selecting a club will display the data only applicable for that club. This allows
+The charts are fully interactive - selecting a club will display the data only applicable for that club. This allows a detailed look 
+at a clubs transfer spending history. 
 
 ### How does it work?
 The site uses Flask to retrieve data from a MongoDB and through use of D3.js, DC.js and crossfilter.js the data is filtered into dynamic and interactive charts.
@@ -16,6 +17,7 @@ The site uses Flask to retrieve data from a MongoDB and through use of D3.js, DC
 
 ### Features
 - About page
+- Trends page
 - Charts - pie chart, line graph, row charts, menu selectors and number displays
 
 ### Tech Used
@@ -29,3 +31,4 @@ The site uses Flask to retrieve data from a MongoDB and through use of D3.js, DC
 
 ### Testing
 The site has been tested using Chrome, Firefox and Edge browsers.
+The site has been tested using iOS and Android devices. 
