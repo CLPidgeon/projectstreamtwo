@@ -52,10 +52,20 @@ body {
 
 header {
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     background-color: white;
-    color: black;
+    color: darkgreen;
     padding: 10px;
+}
+
+.text {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 15px;
 }
 
 .dashboard-text {
@@ -94,14 +104,19 @@ header {
     border: 2px darkgreen solid;
     background-color: white;
     color: black;
-    height: 80px;
+    height: 100px;
+}
+
+.mini-chart-header {
+    text-align: center;
+    border-bottom: 2px darkgreen solid;
 }
 
 .dc-select-menu {
    background: black;
    border: none;
    position: relative;
-   height: 25px;
+   height: 40px;
    font-size: 20px;
    color: darkgreen;
    vertical-align: middle;
@@ -167,13 +182,6 @@ header {
                 padding: 10px;
             }
 
-            .text {
-                background-color: darkgreen;
-                color: black;
-                text-align: center;
-                font-size: 20px;
-            }
-
             .chart-header {
                 text-align: center;
                 border-bottom: 2px darkgreen solid;
@@ -204,14 +212,19 @@ header {
                 border: 2px darkgreen solid;
                 background-color: white;
                 color: black;
-                height: 80px;
+                height: 100px;
+            }
+
+            .mini-chart-header {
+                text-align: center;
+                border-bottom: 2px darkgreen solid;
             }
 
             .dc-select-menu {
                 background: black;
                 border: none;
                 position: relative;
-                height: 25px;
+                height: 200px;
                 font-size: 20px;
                 color: darkgreen;
                 vertical-align: middle;
