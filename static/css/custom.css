@@ -108,6 +108,7 @@ header {
     background-color: white;
     color: black;
     height: 100px;
+    margin-bottom: 10px;
 }
 
 .mini-chart-header {
