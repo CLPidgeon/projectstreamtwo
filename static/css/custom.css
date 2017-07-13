@@ -22,10 +22,6 @@ body {
     margin: auto;
 }
 
-.icon-bar{
-    background-color: darkgreen;
-}
-
 .intro_button{
     color: white;
     background-color: darkgreen;
@@ -53,11 +49,11 @@ body {
 header {
     text-align: center;
     font-size: 20px;
+    font-weight: bold;
     background-color: white;
     color: darkgreen;
     padding: 10px;
-    border: 2px darkgreen solid;
-    border-radius: 10px;
+    border-bottom: 2px darkgreen solid;
 }
 
 .text {
@@ -68,6 +64,7 @@ header {
     font-weight: bold;
     border-radius: 10px;
     padding: 15px;
+    margin-top: 10px;
 }
 
 .dashboard-text {
@@ -102,6 +99,7 @@ header {
     color: black;
     opacity: 1;
     height: 350px;
+    margin-bottom: 10px;
 }
 
 .mini-chart-container{
@@ -125,6 +123,7 @@ header {
    font-size: 20px;
    color: white;
    align-content: center;
+   vertical-align: center;
 }
 
 #link{
