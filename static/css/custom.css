@@ -69,6 +69,8 @@ header {
 }
 
 .dashboard-text {
+    background-color: black;
+    color: white;
     padding: 10px;
     margin: 10px;
 }
@@ -116,16 +118,14 @@ header {
    background: black;
    border: none;
    position: relative;
-   height: 40px;
+   height: 30px;
    font-size: 20px;
-   color: darkgreen;
-   vertical-align: middle;
+   color: white;
    align-content: center;
-   padding-top: 4px;
 }
 
 #link{
-    color:black;
+    color: red;
 }
 
         @media (max-width: 992px) {
@@ -174,65 +174,4 @@ header {
                 display: block !important;
             }
 
-            header {
-                text-align: center;
-                font-size: 17px;
-                background-color: white;
-                color: black;
-                padding: 10px;
-            }
-
-            .chart-header {
-                text-align: center;
-                border-bottom: 2px darkgreen solid;
-            }
-
-            .chart-wrapper {
-                padding-right: 2px;
-                padding-top: 2px;
-                display: flex;
-                justify-content: center;
-            }
-
-            .chart {
-                margin-top: 50px;
-                margin-bottom: 50px;
-            }
-
-            .chart-container {
-                border-radius: 10px;
-                border: 2px darkgreen solid;
-                background-color: white;
-                color: black;
-                height: 350px;
-            }
-
-            .mini-chart-container {
-                border-radius: 10px;
-                border: 2px darkgreen solid;
-                background-color: white;
-                color: black;
-                height: 100px;
-            }
-
-            .mini-chart-header {
-                text-align: center;
-                border-bottom: 2px darkgreen solid;
-            }
-
-            .dc-select-menu {
-                background: black;
-                border: none;
-                position: relative;
-                height: 200px;
-                font-size: 20px;
-                color: darkgreen;
-                vertical-align: middle;
-                align-content: center;
-                padding-top: 4px;
-            }
-
-            #link {
-                color: black;
-            }
         }

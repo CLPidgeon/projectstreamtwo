@@ -71,13 +71,13 @@ function makeGraphs(error, dataJson) {
     var transferTotal = dc.numberDisplay("#total-net");
 
    selectField = dc.selectMenu('#club-select')
-       .width(100)
+       .width(80)
        .height(30)
        .dimension(clubDim)
        .group(clubGroup);
 
    selectField2 = dc.selectMenu('#season-select')
-       .width(100)
+       .width(80)
        .height(30)
        .dimension(seasonDim)
        .group(seasonGroup);
@@ -116,15 +116,9 @@ var graph = d3.select("#netChart").append("svg:svg")
 
 var xAxis = d3.svg.axis().scale(x).ticks(5);
 
-//xAxisPosition = this.svg.selectAll("tick").filter((netTransfersBySeason) =>{
-//	return netTransfersBySeason ===0;
-//}).map((tick) => {
-//	return d3.transform(d3.select(tick[0]).attr('transform')).translate[1];
-//});
 
 graph.append("svg:g")
 	.attr("class", "x axis")
-//	.attr('transform', 'translate(0, ' + xAxisPosition + ')')
 	.call(xAxis);
 
 var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
