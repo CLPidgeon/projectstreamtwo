@@ -17,10 +17,12 @@ body {
 }
 
 .page {
-    position: relative;
-    width: 100%;
     display: block;
     margin: auto;
+}
+
+.icon-bar{
+    background-color: black;
 }
 
 .intro_button{
@@ -68,7 +70,6 @@ header {
 }
 
 .chart-wrapper{
-    width: 100%;
     padding-right: 2px;
     padding-top: 2px;
     display: flex;
@@ -86,7 +87,6 @@ header {
     background-color: white;
     color: black;
     opacity: 1;
-    width: 48%;
     height: 350px;
 }
 
@@ -95,13 +95,11 @@ header {
     border: 2px darkgreen solid;
     background-color: white;
     color: black;
-    width: 24%;
     height: 80px;
 }
 
 .dc-select-menu {
    background: black;
-   width: 80%;
    border: none;
    position: relative;
    height: 25px;
@@ -119,8 +117,6 @@ header {
         @media (max-width: 992px) {
 
             .page {
-                position: relative;
-                width: 100%;
                 display: block;
                 margin: auto;
             }
@@ -180,7 +176,6 @@ header {
             }
 
             .chart-wrapper {
-                width: 100%;
                 padding-right: 2px;
                 padding-top: 2px;
                 display: flex;
@@ -197,7 +192,6 @@ header {
                 border: 2px darkgreen solid;
                 background-color: white;
                 color: black;
-                width: 48%;
                 height: 350px;
             }
 
@@ -206,13 +200,11 @@ header {
                 border: 2px darkgreen solid;
                 background-color: white;
                 color: black;
-                width: 24%;
                 height: 80px;
             }
 
             .dc-select-menu {
                 background: black;
-                width: 80%;
                 border: none;
                 position: relative;
                 height: 25px;
