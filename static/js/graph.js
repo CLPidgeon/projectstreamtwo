@@ -71,13 +71,13 @@ function makeGraphs(error, dataJson) {
     var transferTotal = dc.numberDisplay("#total-net");
 
    selectField = dc.selectMenu('#club-select')
-       .width(80)
+       .width(50)
        .height(30)
        .dimension(clubDim)
        .group(clubGroup);
 
    selectField2 = dc.selectMenu('#season-select')
-       .width(80)
+       .width(50)
        .height(30)
        .dimension(seasonDim)
        .group(seasonGroup);

@@ -114,6 +114,7 @@ header {
 .mini-chart-header {
     text-align: center;
     border-bottom: 2px darkgreen solid;
+    margin-bottom: 5px;
 }
 
 .dc-select-menu {
@@ -121,7 +122,7 @@ header {
    border: none;
    position: relative;
    height: 30px;
-   font-size: 20px;
+   font-size: 15px;
    color: white;
    align-content: center;
    vertical-align: center;
