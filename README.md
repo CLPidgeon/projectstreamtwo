@@ -1,4 +1,4 @@
-Last updated 17/05/2017
+Last updated 14/07/2017
 
 # Football Transfer Window Dashboard
 
@@ -30,5 +30,5 @@ The site uses Flask to retrieve data from a MongoDB and through use of D3.js, DC
 - **Bootstrap** - To give the site a responsive layout.
 
 ### Testing
-The site has been tested using Chrome, Firefox and Edge browsers.
-The site has been tested using iOS and Android devices. 
+The site has been tested using Chrome, Firefox, Opera and Edge browsers.
+The site has been tested using iOS and Android devices, both tablets and phones. 
