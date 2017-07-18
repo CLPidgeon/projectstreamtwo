@@ -110,7 +110,7 @@ var line = d3.svg.line()
 	.y(function(d){return y(d);});
 
 var graph = d3.select("#netChart").append("svg:svg")
-	.attr("width", "350")
+	.attr("width", "330")
 	.attr("height", "200")
 	.append("svg:g");
 
@@ -129,7 +129,7 @@ graph.append("svg:g")
 
 graph.append("svg:path").attr("d", line(netTransfersBySeason));
    netChart
-       .width(350)
+       .width(330)
        .height(200)
        .dimension(seasonDim)
        .group(netTransfersBySeason)
@@ -141,7 +141,7 @@ graph.append("svg:path").attr("d", line(netTransfersBySeason));
        .renderArea(true);
 
    transferValueChart
-	.width(300)
+	.width(330)
 	.height(200)
  	.dimension(transferValueDim)
 	.group(transferValueGroup)
@@ -149,7 +149,7 @@ graph.append("svg:path").attr("d", line(netTransfersBySeason));
     .xAxis().ticks(4);
 
    transfersChart
-       .width(350)
+       .width(330)
        .height(200)
        .dimension(directionDim)
        .group(transferDirectionTotals)
@@ -157,7 +157,7 @@ graph.append("svg:path").attr("d", line(netTransfersBySeason));
        .xAxis().ticks(5);
 
    transferTypeChart
-    .width(300)
+    .width(330)
     .height(200)
     .dimension(typeDim)
     .group(numTransfersByType)
