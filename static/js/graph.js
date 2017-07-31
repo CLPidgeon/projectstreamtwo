@@ -84,7 +84,7 @@ function makeGraphs(error, dataJson) {
 
        var oldHandler = selectField2.filterHandler();
     selectField2.filterHandler(function(dimension, filters) {
-    	var parseFilters = filters.map(function(d) { return new d["season"];});
+    	var parseFilters = filters.map(function(d) { return new Date(d);});
       oldHandler(dimension, parseFilters);
       return filters;
     });
@@ -110,7 +110,7 @@ var line = d3.svg.line()
 	.y(function(d){return y(d);});
 
 var graph = d3.select("#netChart").append("svg:svg")
-	.attr("width", "300")
+	.attr("width", "330")
 	.attr("height", "200")
 	.append("svg:g");
 
@@ -121,7 +121,7 @@ graph.append("svg:g")
 	.attr("class", "x axis")
 	.call(xAxis);
 
-var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
+var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left").style("font-size", "10px");
 
 graph.append("svg:g")
 	.attr("class", "y axis")
@@ -129,7 +129,7 @@ graph.append("svg:g")
 
 graph.append("svg:path").attr("d", line(netTransfersBySeason));
    netChart
-       .width(300)
+       .width(320)
        .height(200)
        .dimension(seasonDim)
        .group(netTransfersBySeason)
