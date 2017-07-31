@@ -129,7 +129,7 @@ graph.append("svg:g")
 
 graph.append("svg:path").attr("d", line(netTransfersBySeason));
    netChart
-       .width(330)
+       .width(320)
        .height(200)
        .dimension(seasonDim)
        .group(netTransfersBySeason)
