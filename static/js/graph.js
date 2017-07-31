@@ -122,6 +122,9 @@ graph.append("svg:g")
 	.call(xAxis);
 
 var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
+svg.select("yAxisLeft")
+    .selectAll("text")
+    .style("font-size", "10px");
 
 graph.append("svg:g")
 	.attr("class", "y axis")
