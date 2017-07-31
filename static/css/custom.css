@@ -81,8 +81,6 @@ header {
 }
 
 .chart-wrapper{
-    padding-right: 2px;
-    padding-top: 2px;
     display: flex;
     justify-content: center;
 }
