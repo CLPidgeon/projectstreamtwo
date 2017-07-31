@@ -58,12 +58,12 @@ function makeGraphs(error, dataJson) {
     var transferValueGroup = transferValueDim.group().reduceCount();
     var transferDirectionTotals = directionDim.group().reduceSum(function(d){return d.transfer_value;});
 
-    console.log(seasonDim);
-    console.log(seasonGroup);
-
     //working out lowest and highest dates
     var minDate = seasonDim.bottom(1)[0]["season"];
     var maxDate = seasonDim.top(1)[0]["season"];
+
+    console.log(minDate);
+    console.log(maxDate);
 
     //Charts
     var transfersChart = dc.rowChart("#spendingChart");
