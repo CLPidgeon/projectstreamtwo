@@ -82,6 +82,12 @@ function makeGraphs(error, dataJson) {
        .dimension(seasonDim)
        .group(seasonGroup);
 
+       var oldHandler = selectField2.filterHandler();
+    selectField2.filterHandler(function(seasonDim, filters) {
+    	var parseFilters = filters.map(function(d) { return new Date(d);});
+      oldHandler(seasonDim, parseFilters);
+      return filters;
+    });
 
    numberTransfers
        .formatNumber(d3.format("d"))
