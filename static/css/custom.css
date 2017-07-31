@@ -88,6 +88,7 @@ header {
 .chart {
     margin-top: 50px;
     margin-bottom: 50px;
+    font-size: 10px;
 }
 
 .chart-container{
