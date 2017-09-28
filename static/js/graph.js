@@ -62,9 +62,6 @@ function makeGraphs(error, dataJson) {
     var minDate = seasonDim.bottom(1)[0]["season"];
     var maxDate = seasonDim.top(1)[0]["season"];
 
-    console.log(minDate);
-    console.log(maxDate);
-
     //Charts
     var transfersChart = dc.rowChart("#spendingChart");
     var transferValueChart = dc.rowChart("#valueChart");
@@ -113,7 +110,7 @@ var line = d3.svg.line()
 	.y(function(d){return y(d);});
 
 var graph = d3.select("#netChart").append("svg:svg")
-	.attr("width", "360")
+	.attr("width", "330")
 	.attr("height", "200")
 	.append("svg:g");
 
@@ -132,7 +129,7 @@ graph.append("svg:g")
 
 graph.append("svg:path").attr("d", line(netTransfersBySeason));
    netChart
-       .width(360)
+       .width(330)
        .height(200)
        .dimension(seasonDim)
        .group(netTransfersBySeason)
