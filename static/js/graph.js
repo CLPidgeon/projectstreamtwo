@@ -19,6 +19,11 @@ function makeGraphs(error, dataJson) {
     var seasonDim = ndx.dimension(function(d){
         return d["season"];
     });
+
+    var yearDim = ndx.dimension(function(d){
+        return d["season"].getFullYear();
+    });
+
     var clubDim = ndx.dimension(function(d){
         return d["club"];
     });
