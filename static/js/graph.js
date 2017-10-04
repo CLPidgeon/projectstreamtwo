@@ -57,7 +57,7 @@ function makeGraphs(error, dataJson) {
     var netTransfersBySeason = seasonDim.group().reduceSum(function(d){return d["net_transfer"];});
     var numTransfersByType = typeDim.group();
     var clubGroup = clubDim.group();
-    var seasonGroup = seasonDim.group();
+    var yearGroup = yearDim.group();
     var all = ndx.groupAll();
     var totalTransfers = ndx.groupAll().reduceSum(function(d){return (d["net_transfer"] * 1000000);});
     var transferValueGroup = transferValueDim.group().reduceCount();
@@ -84,15 +84,8 @@ function makeGraphs(error, dataJson) {
    selectField2 = dc.selectMenu('#season-select')
        .width(50)
        .height(30)
-       .dimension(seasonDim)
-       .group(seasonGroup);
-
-       var oldHandler = selectField2.filterHandler();
-    selectField2.filterHandler(function(seasonDim, filters) {
-    	var parseFilters = filters.map(function(d) { return new Date(d);});
-      oldHandler(seasonDim, parseFilters);
-      return filters;
-    });
+       .dimension(yearDim)
+       .group(yearGroup);
 
    numberTransfers
        .formatNumber(d3.format("d"))
