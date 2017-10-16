@@ -11,19 +11,15 @@ function makeGraphs(error, dataJson) {
        d["position"] = +d["position"];
        d["net_transfer"] = +d["net_transfer"];
    });
-
    var ndx = crossfilter(TransferData);
 
    //defining the dimensions
-
     var seasonDim = ndx.dimension(function(d){
         return d["season"];
     });
-
     var yearDim = ndx.dimension(function(d){
         return d["season"].getFullYear();
     });
-
     var clubDim = ndx.dimension(function(d){
         return d["club"];
     });
@@ -53,7 +49,6 @@ function makeGraphs(error, dataJson) {
 });
 
     //calculating
-
     var netTransfersBySeason = seasonDim.group().reduceSum(function(d){return d["net_transfer"];});
     var numTransfersByType = typeDim.group();
     var clubGroup = clubDim.group();
@@ -113,7 +108,6 @@ var graph = d3.select("#netChart").append("svg:svg")
 	.append("svg:g");
 
 var xAxis = d3.svg.axis().scale(x).ticks(5);
-
 
 graph.append("svg:g")
 	.attr("class", "x axis")

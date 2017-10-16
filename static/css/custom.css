@@ -130,9 +130,7 @@ header {
 #link{
     color: red;
 }
-
         @media (max-width: 992px) {
-
             .page {
                 display: block;
                 margin: auto;

@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="{{ url_for ('static', filename='lib/css/dc.css')}}">
         <link rel="stylesheet" href="{{ url_for ('static', filename='css/custom.css')}}">
         <link rel="stylesheet" href="{{ url_for ('static', filename='lib/css/introjs.css')}}">
-
+    </head>
 
     <body>
     <section class="page">
@@ -21,9 +21,9 @@
                     </button>
                 </div>
                 <ul id="myCollapsingList" class="nav nav-justified collapse navbar-collapse" >
-                      <li><a href="{{ url_for('dashboard') }}">Football Transfers Dashboard</a></li>
-                      <li><a href="{{ url_for('about') }}">About</a></li>
-                      <li><a href="{{ url_for('trends') }}">Trends</a></li>
+                    <li><a href="{{ url_for('dashboard') }}">Football Transfers Dashboard</a></li>
+                    <li><a href="{{ url_for('about') }}">About</a></li>
+                    <li><a href="{{ url_for('trends') }}">Trends</a></li>
                 </ul>
             </div>
          </nav>
@@ -32,7 +32,7 @@
             {% block content %}
             {% endblock %}
         </div>
-</section>
+    </section>
 
         <script src="{{ url_for ('static', filename='lib/js/jquery.min.js')}}"></script>
         <script src="{{ url_for ('static', filename='lib/js/bootstrap.min.js')}}"></script>

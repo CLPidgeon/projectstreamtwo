@@ -32,11 +32,9 @@ def transfer_data():
         '_id': False, 'season': True, 'league_position': True, 'club': True, 'player_name': True,
         'transfer_direction': True, 'transfer_type': True, 'transfer_value': True, 'net_transfer': True
     }
-
     with MongoClient(MONGO_URI) as conn:
         collection = conn[DBS_NAME][COLLECTION_NAME]
         project = collection.find(projection=fields, limit=3000)
         return json.dumps(list(project))
-
 if __name__ == '__main__':
     app.run(debug=True)
