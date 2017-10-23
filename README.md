@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-Last updated 23/10/2017
-=======
-Last updated 17/10/2017
->>>>>>> 555b7a65b0fe256e8b524938d32a4f136d7786b1
+# Last updated 23/10/2017
+
 
 # Football Transfer Window Dashboard
 
