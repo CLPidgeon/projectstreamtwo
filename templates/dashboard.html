@@ -1,5 +1,6 @@
 {% extends "layout.html" %}
 {% block content %}
+    <!--Dashboard introdcution-->
     <section class="row">
         <article class="dashboard-text">
             <p>Welcome to the Football Transfers Dashboard, just click the chart tour button to get further explanation for each chart.
@@ -7,7 +8,10 @@
             </p>
         </article>
     </section>
+    <!--End of introduciton-->
+
     <section class="row">
+        <!--Net spending line chart-->
          <article class="col-sm-6 chart-container " data-step="1"
          data-intro="This is a line graph showing the net spend per season in millions" style="font-weight: normal" data-position="center">
              <header class="chart-header">
@@ -18,6 +22,9 @@
                  </article>
              </article>
          </article>
+        <!--End of net spending chart-->
+
+        <!--Transfer value row chart-->
         <article class="col-sm-6 chart-container" data-step="2"
         data-intro="This is a row chart, this splits the transfer values into groups and shows how many transfers occur
         in each group" style="font-weight: normal" data-position="center">
@@ -29,8 +36,11 @@
                 </article>
              </article>
         </article>
+        <!--End of transfer value chart-->
     </section>
+
     <section class="row">
+        <!--Transfers in and out row chart-->
          <article class="col-sm-6 chart-container" data-step="3"
          data-intro="This is a row chart displaying the amount spent and received" style="font-weight: normal" data-position="center">
              <header class="chart-header">
@@ -41,6 +51,9 @@
                 </article>
              </article>
          </article>
+        <!--End of transfers in and out chart-->
+
+        <!--Transfer type pie chart-->
          <article class="col-sm-6 chart-container" data-step="4"
          data-intro="This is a pie chart showing the proportion of transfers and loans with fees" style="font-weight: normal" data-position="center">
              <header class="chart-header">
@@ -51,7 +64,10 @@
                 </article>
              </article>
          </article>
+        <!--End of transfer type chart-->
     </section>
+
+    <!--Row of select fields and number fields for club, season, number and net spend total-->
     <section class="row">
         <article class="col-sm-3 mini-chart-container" data-step="5"
         data-intro="This is a drop down menu to allow the selection of a particular club" style="font-weight: normal" data-position="center">
@@ -86,4 +102,5 @@
              </article>
          </article>
     </section>
+    <!--End of row of data fields-->
 {% endblock %}
